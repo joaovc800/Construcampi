@@ -15,9 +15,9 @@
 			<!-- Banner -->
 				<section id="banner">
 					<h2>CONSTRU</a>C<span style="color:#f00">A</span>MPI</h2>
-					<p>Another fine responsive site template freebie by HTML5 UP.</p>
+					<p>Um breve slogan da empresa</p>
 					<ul class="actions special">
-						<li><a href="#" class="button">Learn More</a></li>
+						<li><a href="#" class="button">Saíba mais</a></li>
 					</ul>
 				</section>
 
@@ -26,11 +26,10 @@
 
 					<section class="box special">
 						<header class="major">
-							<h2>Introducing the ultimate mobile app
+							<h2>Introdução
 							<br />
-							for doing stuff with your phone</h2>
-							<p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc ornare<br />
-							adipiscing nunc adipiscing. Condimentum turpis massa.</p>
+							Sobre a empresa</h2>
+							<p>texto descritivo.</p>
 						</header>
 						<span class="image featured"><img src="public/images/pic01.jpg" alt="" /></span>
 					</section>
