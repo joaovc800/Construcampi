@@ -5,20 +5,18 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<!-- CSS PADRÃO-->
-		<?php include("./includes/php/css_imports.php"); ?>
+		<?php include "includes/php/css_imports.php"; ?>
 
 		<!-- NOSSO CSS ABAIXO -->
 
 	</head>
 	<body class="landing is-preload">
 		<div id="page-wrapper">
-
 			<!-- Header -->
-				<?php include("./includes/header.php"); ?>
-
+				<?php include "includes/php/header.php"; ?>
 			<!-- Banner -->
 				<section id="banner">
-					<h2>Alpha</h2>
+					<h2>Constru Campi</h2>
 					<p>Another fine responsive site template freebie by HTML5 UP.</p>
 					<ul class="actions special">
 						<li><a href="#" class="button primary">Sign Up</a></li>
@@ -120,7 +118,7 @@
 		</div>
 
 		<!-- SCRIPTS PADRAO -->
-		<?php include("./includes/php/scripts_imports.php"); ?>
+		<?php include("includes/php/scripts_imports.php"); ?>
 
 		<!-- NOSSOSSCRIPTS ABAIXO -->
 		
