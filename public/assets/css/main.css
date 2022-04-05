@@ -105,7 +105,7 @@
 	}
 
 	body {
-		background: #f5f5f5;
+		background: #222222;
 	}
 
 	body, input, select, textarea {
@@ -3256,7 +3256,7 @@
 /* Footer */
 
 	#footer {
-		background: #f0f0f0;
+		background: #2b2823;
 		padding: 4em 0 6em 0;
 		text-align: center;
 	}
@@ -3303,7 +3303,7 @@
 /* CTA */
 
 	#cta {
-		background: #e89980;
+		background: #a5221e;
 		color: #f9e6df;
 		padding: 3.5em 0 4em 0;
 		text-align: center;
