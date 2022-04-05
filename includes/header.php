@@ -30,6 +30,9 @@
                     </ul>
                 </li>
                 <li style="white-space: nowrap;">
+                    <a href="../index.php">Parcerias publicas e privadas</a>
+                </li>
+                <li style="white-space: nowrap;">
                     <a href="../index.php">Minha casa verde e amarela</a>
                 </li>
 			</ul>
