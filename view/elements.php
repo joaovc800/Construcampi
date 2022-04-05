@@ -9,7 +9,7 @@
 		<title>Elements - Construcampi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
+		<?php include("./includes/css_imports.php"); ?>
 	</head>
 	<body class="is-preload">
 		<div id="page-wrapper">
@@ -417,5 +417,6 @@
 		</div>
 		<!-- Scripts -->
 		<?php include("./includes/php/scripts_imports.php"); ?>
+
 	</body>
 </html>

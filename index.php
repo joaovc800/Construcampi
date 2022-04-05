@@ -8,7 +8,7 @@
 		<?php include("./includes/php/css_imports.php"); ?>
 
 		<!-- NOSSO CSS ABAIXO -->
-		
+
 	</head>
 	<body class="landing is-preload">
 		<div id="page-wrapper">
@@ -123,5 +123,6 @@
 		<?php include("./includes/php/scripts_imports.php"); ?>
 
 		<!-- NOSSOSSCRIPTS ABAIXO -->
+		
 	</body>
 </html>
