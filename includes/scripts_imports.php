@@ -1,10 +1,7 @@
-<!-- Javascript Padrao -->
-<script src="/public/assets/js/padrao/jquery.min.js"></script>
-<script src="/public/assets/js/padrao/jquery.dropotron.min.js"></script>
-<script src="/public/assets/js/padrao/jquery.scrollex.min.js"></script>
-<script src="/public/assets/js/padrao/browser.min.js"></script>
-<script src="/public/assets/js/padrao/breakpoints.min.js"></script>
-<script src="/public/assets/js/padrao/util.js"></script>
-<script src="/public/assets/js/padrao/main.js"></script>
-
-<!-- Adicionar os nossos abaixo -->
+<script src="../public/assets/js/lib/jquery.min.js"></script>
+<script src="../public/assets/js/lib/jquery.dropotron.min.js"></script>
+<script src="../public/assets/js/lib/jquery.scrollex.min.js"></script>
+<script src="../public/assets/js/lib/browser.min.js"></script>
+<script src="../public/assets/js/lib/breakpoints.min.js"></script>
+<script src="../public/assets/js/lib/util.js"></script>
+<script src="../public/assets/js/lib/main.js"></script>
