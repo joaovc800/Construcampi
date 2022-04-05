@@ -18,10 +18,16 @@
                         <li style="white-space: nowrap;">
                             <a href="view/contact.php" style="display: block;">Obras públicas</a>
                         </li>
+                        <li style="white-space: nowrap;">
+                            <a href="view/contact.php" style="display: block;">Galpões e estruturas metálicas</a>
+                        </li>
+                        <li style="white-space: nowrap;">
+                            <a href="view/contact.php" style="display: block;">Reformas em geral</a>
+                        </li>
+                        <li style="white-space: nowrap;">
+                            <a href="view/contact.php" style="display: block;">Casas Pré-Fabricadas</a>
+                        </li>
                     </ul>
-                </li>
-                <li style="white-space: nowrap;">
-                    <a href="../index.php">Galpões e estruturas metálicas em geral</a>	
                 </li>
                 <li style="white-space: nowrap;">
                     <a href="../index.php">Minha casa verde e amarela</a>
