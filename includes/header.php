@@ -6,6 +6,9 @@
 				<li style="white-space: nowrap;">
                     <a href="index.php">Home</a>
                 </li>
+				<li style="white-space: nowrap;">
+                    <a href="index.php">Quem somos</a>
+                </li>
                 <li class="opener" style="user-select: none; cursor: pointer; white-space: nowrap;">
                     <a href="#" class="icon solid fa-angle-down">Obras</a>	
                     <ul class="" style="user-select: none; display: none; position: absolute;">
