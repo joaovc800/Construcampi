@@ -30,6 +30,9 @@
                         <li style="white-space: nowrap;">
                             <a href="view/contact.php" style="display: block;">Casas Pré-Fabricadas</a>
                         </li>
+                        <li style="white-space: nowrap;">
+                            <a href="view/contact.php" style="display: block;">Pavimentações asfálticas</a>
+                        </li>
                     </ul>
                 </li>
                 <li style="white-space: nowrap;">
