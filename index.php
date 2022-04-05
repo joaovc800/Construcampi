@@ -14,10 +14,9 @@
 				<?php include "includes/header.php"; ?>
 			<!-- Banner -->
 				<section id="banner">
-					<h2>Constru Campi</h2>
+					<h2>CONSTRU</a>C<span style="color:#f00">A</span>MPI</h2>
 					<p>Another fine responsive site template freebie by HTML5 UP.</p>
 					<ul class="actions special">
-						<li><a href="#" class="button primary">Sign Up</a></li>
 						<li><a href="#" class="button">Learn More</a></li>
 					</ul>
 				</section>
