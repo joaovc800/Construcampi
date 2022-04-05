@@ -5,7 +5,7 @@
 		<title>Construcampi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<?php include("./includes/css_imports.php"); ?>
+		<?php include("/includes/css_imports.php"); ?>
 	</head>
 	<body class="is-preload">
 		<div id="page-wrapper">
@@ -49,6 +49,12 @@
 		</div>
 		
 		<!-- Scripts -->
-		<?php include("./includes/php/scripts_imports.php"); ?>	
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.dropotron.min.js"></script>
+		<script src="assets/js/jquery.scrollex.min.js"></script>
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
 	</body>
 </html>

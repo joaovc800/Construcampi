@@ -4,19 +4,20 @@
 		<title>Construcampi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<!-- CSS PADRÃO-->
-		<?php include "includes/php/css_imports.php"; ?>
+		<!-- CSS -->
+		<?php include("./includes/css_imports.php"); ?>
 
-		<!-- NOSSO CSS ABAIXO -->
 
 	</head>
 	<body class="landing is-preload">
 		<div id="page-wrapper">
+
 			<!-- Header -->
-				<?php include "includes/php/header.php"; ?>
+				<?php include("./includes/header.php"); ?>
+
 			<!-- Banner -->
 				<section id="banner">
-					<h2>Constru Campi</h2>
+					<h2>Alpha</h2>
 					<p>Another fine responsive site template freebie by HTML5 UP.</p>
 					<ul class="actions special">
 						<li><a href="#" class="button primary">Sign Up</a></li>
@@ -35,7 +36,7 @@
 							<p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc ornare<br />
 							adipiscing nunc adipiscing. Condimentum turpis massa.</p>
 						</header>
-						<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
+						<span class="image featured"><img src="/public/images/pic01.jpg" alt="" /></span>
 					</section>
 
 					<section class="box special features">
@@ -69,7 +70,7 @@
 						<div class="col-6 col-12-narrower">
 
 							<section class="box special">
-								<span class="image featured"><img src="images/pic02.jpg" alt="" /></span>
+								<span class="image featured"><img src="/public/images/pic02.jpg" alt="" /></span>
 								<h3>Sed lorem adipiscing</h3>
 								<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
 								<ul class="actions special">
@@ -81,7 +82,7 @@
 						<div class="col-6 col-12-narrower">
 
 							<section class="box special">
-								<span class="image featured"><img src="images/pic03.jpg" alt="" /></span>
+								<span class="image featured"><img src="/public/images/pic03.jpg" alt="" /></span>
 								<h3>Accumsan integer</h3>
 								<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
 								<ul class="actions special">
@@ -114,13 +115,11 @@
 				</section>
 
 			<!-- Footer -->
-		 	<?php include("includes/php/footer.php"); ?>
+		 	<?php include("./includes/footer.php"); ?>
 		</div>
 
-		<!-- SCRIPTS PADRAO -->
-		<?php include("includes/php/scripts_imports.php"); ?>
-
-		<!-- NOSSOSSCRIPTS ABAIXO -->
+		<!-- SCRIPTS  -->
+		<?php include("./includes/scripts_imports.php"); ?>
 		
 	</body>
 </html>
