@@ -114,7 +114,7 @@
 				</section>
 
 			<!-- Footer -->
-		 	<?php include("./includes/footer.php"); ?>
+		 	<?php include("includes/php/footer.php"); ?>
 		</div>
 
 		<!-- SCRIPTS PADRAO -->
