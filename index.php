@@ -35,11 +35,8 @@
 						<div style="width: 100%; height: unset;">
 							<video preload="auto" autoplay muted loop playsinline="" webkit-playsinline="" x5-playsinline="" style="width: 100%; height: 100%;">
 								<source src="./public/videos/video_site.mp4">
-								
 							</video>
 						</div>
-												
-						<span class="image featured"><img src="public/images/pic01.jpg" alt="" /></span>
 					</section>
 
 					<section class="box special features">
