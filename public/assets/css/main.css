@@ -3939,3 +3939,6 @@ a{
 	cursor: pointer;
 	border-radius: 5px;
 }
+.modal-fullscreen .modal-body {
+    overflow-y: hidden;
+}
