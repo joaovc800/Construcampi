@@ -49,20 +49,20 @@
 						<section class="box special features">
 							<div class="features-row">
 								<section>
-									<span class="icon solid major fa-bolt accent2"></span>
-									<h3>Magna etiam</h3>
-									<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+									<span class="icon solid major fa-bullseye accent2"></span>
+									<h3>Missão</h3>
+									<p>Compreender a necessidade do mercado de engenharia, desenvolver soluções de alta qualidade para as demandas de nossos clientes e colaboradores, sempre implementando os valores necessários para obter a mais alta eficiência dentro do ramo.</p>
 								</section>
 								<section>
-									<span class="icon solid major fa-chart-area accent3"></span>
-								<h3>Ipsum dolor</h3>
-								<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+									<span class="icon solid major fa-signal accent3"></span>
+								<h3>Visão</h3>
+								<p>Trazer, a partir de muita eficiência e confiança em nosso trabalho, a consolidação de nosso nome no mercado, buscando sempre o crescimento atrelado a resultados de alta satisfação de nossos clientes, colaboradores e parceiros.</p>
 							</section>
 						</div>
 						<div class="features-row">
 							<section>
-								<span class="icon solid major fa-cloud accent4"></span>
-								<h3>Sed feugiat</h3>
+								<span class="icon solid major fa-handshake accent4"></span>
+								<h3>Valores</h3>
 								<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
 							</section>
 							<section>
@@ -111,8 +111,14 @@
 			<!-- Footer -->
 		 	<?php include("includes/footer.php"); ?>
 		</div>
-
+		<div vw class="enabled">
+			<div vw-access-button class="active"></div>
+			<div vw-plugin-wrapper>
+				<div class="vw-plugin-top-wrapper"></div>
+			</div>
+ 		</div>
 		<!-- SCRIPTS SEM IMPORT -->
+		<script src="public/assets//js/lib/libras.js"></script>
 		<script src="public/assets/js/lib/jquery.min.js"></script>
 		<script src="public/assets/js/lib/jquery.dropotron.min.js"></script>
 		<script src="public/assets/js/lib/jquery.scrollex.min.js"></script>
@@ -121,6 +127,9 @@
 		<script src="public/assets/js/lib/util.js"></script>
 		<script src="public/assets/js/lib/main.js"></script>
 		<script src="public/assets/js/home/home.js"></script>
+		<script>
+			new window.VLibras.Widget('https://vlibras.gov.br/app');
+		</script>
 		<!-- O script do bootstrap tem que ficar após o jquery aqui em baixo, senão eles dão conflito -->
 		<script src="public/assets/bootstrap/js/bootstrap.min.js"></script> 
 	</body>
