@@ -3907,3 +3907,6 @@
 .gold{
 	color: #ffd700!important;
 }
+.icon.major{
+	background: none;
+}
