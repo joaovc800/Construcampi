@@ -16,7 +16,7 @@
 			<!-- Banner -->
 			<section id="banner">
 				<h2>CONSTRU</a>C<span style="color:#f00">A</span>MPI</h2>
-				<p>Um breve slogan da empresa</p>
+				<p>Seu objetivo é o nosso principal compromisso e responsabilidade</p>
 				<ul class="actions special">
 					<li><a href="#" class="button">Saíba mais</a></li>
 				</ul>
