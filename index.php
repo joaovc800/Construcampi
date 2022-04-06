@@ -5,9 +5,9 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<!-- CSS SEM INCLUDE!! SENAO BUGA -->
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 		<link rel="stylesheet" href="public/assets/css/main.css" />
 		<link rel="stylesheet" href="public/assets/css/animacoes.css" />
-
 	</head>
 	<body class="landing is-preload">
 		<div id="page-wrapper" style="position:relative; display: block;">
@@ -32,15 +32,16 @@
 								Sobre a empresa</h2>
 								<p>texto descritivo.</p>
 							</header>
-							<div id="video_player_home" style='position:relative'>
+							<!-- Da pra perceber um offset estranho ao selecionar o icone, isso é por causa da div Não ter o translate, o translate esta criando aquele efeito de ampliar -->
+							<div id="video_player_home" style='position:relative;'>
 								<div class="grow">
-									<i class="icon solid major fa-solid fa-play" style="transform: translate(-50%, -50%);"></i>
+									<i class="icon solid major fa-solid fa-play"></i>
 								</div>
-								<div style="width: 100%; height: unset; position:relative;">
-									<video preload="auto" autoplay muted loop playsinline="" webkit-playsinline="" x5-playsinline="" style="width: 100%; height: 100%;">
-										<source src="./public/videos/video_site.mp4">
-									</video>
-								</div>
+								
+								<video preload="auto" autoplay muted loop playsinline="" webkit-playsinline="" x5-playsinline="" style="width: 100%; height: 100%;">
+									<source src="./public/videos/video_site.mp4">
+								</video>
+								
 							</div>
 						</section>
 						
@@ -118,7 +119,9 @@
 		<script src="public/assets/js/lib/breakpoints.min.js"></script>
 		<script src="public/assets/js/lib/util.js"></script>
 		<script src="public/assets/js/lib/main.js"></script>
-
-		
+		<script src="public/assets/js/home/home.js"></script>
+		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 	</body>
 </html>
