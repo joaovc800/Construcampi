@@ -48,14 +48,13 @@ function createVideoModal() {
   const modalBody = document.querySelector('.modal-body');
   const height = modalBody.offsetHeight;
   const width = modalBody.offsetWidth;
-  console.log(height)
-  console.log(width)
-  // modalBody.innerHTML = `
-  //   <video preload="auto" autoplay loop width="${width}" height: "${height}">
-  //     <source src="./public/videos/video_site_completo.mp4">
-  //   </video>
-  //   `
-  // videoButton.append(element);
+ 
+  modalBody.innerHTML = `
+    <video preload="auto" autoplay loop width="${width}" height: "${height}">
+      <source src="./public/videos/video_site_completo.mp4">
+    </video>
+    `
+  videoButton.append(element);
 }
 
 // Criar elemento do modal
