@@ -3930,4 +3930,11 @@ a{
 }
 #back{
 	display: none;
+	width: 30px;
+	height: 30px;
+	position: fixed;
+	background: linear-gradient(45deg,#ae8625,#f7e7ba,#d2ac47,#edc967)!important;
+	right: 10px;
+	bottom: 10px;
+	cursor: pointer;
 }
