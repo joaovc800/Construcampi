@@ -29,7 +29,7 @@ function createVideoModal() {
           <h5 class="modal-title h4" id="exampleModalFullscreenLabel">CONSTRU</a>C<span style="color:#f00">A</span>MPI</h5>
           <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
-        <div class="modal-body" style="position:relative;">
+        <div class="modal-body" id="modal-body" style="position:relative;">
          
         </div>
         <div class="modal-footer" style="border-top:1px solid #ae9625; justify-content:space-between;">
@@ -45,9 +45,9 @@ function createVideoModal() {
   $("#div_modal_video").modal("show");
 
   // calcular tamanho da div para inserir o video
-  const modalBody = document.querySelector('.modal-body');
-  const height = modalBody.offsetHeight;
-  const width = modalBody.offsetWidth;
+  const modalBody = document.getElementById('modal-body');
+  const height = modalBody.clientHeight;
+  const width = modalBody.clientWidth;
  
   modalBody.innerHTML = `
     <video preload="auto" autoplay loop width="${width}" height: "${height}">
