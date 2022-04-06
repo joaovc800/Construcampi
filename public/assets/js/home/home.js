@@ -1,9 +1,9 @@
 // Modal com video
 const videoButton = document.getElementById("video_player_home");
-videoButton.addEventListener('click', createVideoModal)
+videoButton.addEventListener('click', createVideoModal);
 
 function exit() {
-  $("#modal_video").modal("hide");
+  $("div_modal_video").modal("hide");
   var nodeModal = document.getElementById("div_modal_video");
   if(nodeModal){
     nodeModal.remove();
@@ -30,7 +30,9 @@ function createVideoModal() {
           <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body" id="modal-body" style="position:relative;">
-         
+        <video preload="auto" autoplay loop style="position:absolute;left:0;right:0;width:100%;">
+          <source src="./public/videos/video_site_completo.mp4">
+        </video>
         </div>
         <div class="modal-footer" style="border-top:1px solid #ae9625; justify-content:space-between;">
           <h5 style="color:#eeeeee;">&copy; Construcampi 2022. All rights reserved.</h5>
@@ -45,16 +47,9 @@ function createVideoModal() {
   $("#div_modal_video").modal("show");
 
   // calcular tamanho da div para inserir o video
-  const modalBody = document.getElementById('modal-body');
-  const height = modalBody.clientHeight;
-  const width = modalBody.clientWidth;
+  
  
-  modalBody.innerHTML = `
-    <video preload="auto" autoplay loop width="${width}" height: "${height}">
-      <source src="./public/videos/video_site_completo.mp4">
-    </video>
-    `
-  videoButton.append(element);
+
 }
 
 // Criar elemento do modal
