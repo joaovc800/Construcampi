@@ -6,6 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<!-- CSS SEM INCLUDE!! SENAO BUGA -->
 		<link rel="stylesheet" href="public/assets/css/main.css" />
+		<link rel="stylesheet" href="public/assets/css/animacoes.css" />
 
 	</head>
 	<body class="landing is-preload">
@@ -24,18 +25,22 @@
 			<!-- Main -->
 				<section id="main" class="container">
 					<!-- VIdeo -->
-					<section class="box special" style='position:relative'>
+					<section class="box special">
 							<header class="major">
 								<h2>Introdução
 								<br />
 								Sobre a empresa</h2>
 								<p>texto descritivo.</p>
 							</header>
-							<i class="icon solid major fa-solid fa-play" style="position:absolute; left:500px; right:0; z-index:1;"></i>
-							<div id="video_player_home" style="width: 100%; height: unset; position:relative;">
-								<video preload="auto" autoplay muted loop playsinline="" webkit-playsinline="" x5-playsinline="" style="width: 100%; height: 100%;">
-									<source src="./public/videos/video_site.mp4">
-								</video>
+							<div id="video_player_home" style='position:relative'>
+								<div class="grow">
+									<i class="icon solid major fa-solid fa-play" style="transform: translate(-50%, -50%);"></i>
+								</div>
+								<div style="width: 100%; height: unset; position:relative;">
+									<video preload="auto" autoplay muted loop playsinline="" webkit-playsinline="" x5-playsinline="" style="width: 100%; height: 100%;">
+										<source src="./public/videos/video_site.mp4">
+									</video>
+								</div>
 							</div>
 						</section>
 						
