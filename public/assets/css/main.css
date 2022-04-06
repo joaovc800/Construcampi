@@ -3907,6 +3907,9 @@
 .gold{
 	color: #ffd700!important;
 }
-.icon.major{
-	background: none;
+.bg-gold{
+	background: linear-gradient(45deg,#ae8625,#f7e7ba,#d2ac47,#edc967)!important;
+}
+.pointer{
+	cursor: pointer!important;
 }

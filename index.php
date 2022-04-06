@@ -35,7 +35,7 @@
 							<!-- Da pra perceber um offset estranho ao selecionar o icone, isso é por causa da div Não ter o translate, o translate esta criando aquele efeito de ampliar -->
 							<div id="video_player_home" style='position:relative;'>
 								<div class="grow">
-									<i class="icon solid major gold fa-solid fa-play"></i>
+									<i class="icon pointer solid bg-gold major fa-solid fa-play"></i>
 								</div>
 								
 								<video preload="auto" autoplay muted loop playsinline="" webkit-playsinline="" x5-playsinline="" style="width: 100%; height: 100%;">
