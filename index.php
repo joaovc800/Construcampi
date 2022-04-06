@@ -60,16 +60,12 @@
 							</section>
 						</div>
 						<div class="features-row">
-							<section>
+							<section style="padding:10px 0 0 0; width:100%;">
 								<span class="icon solid major fa-handshake accent4"></span>
 								<h3>Valores</h3>
 								<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
 							</section>
-							<section>
-								<span class="icon solid major fa-lock accent5"></span>
-								<h3>Enim phasellus</h3>
-								<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
-							</section>
+							
 						</div>
 					</section>
 
