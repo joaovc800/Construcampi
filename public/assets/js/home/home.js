@@ -16,9 +16,10 @@ function createVideoModal() {
   var div = criaElemento({ element: "div", id: "div_modal_video"});
   document.body.prepend(div);
   // var myModal = new bootstrap.Modal(document.getElementById('div_modal_video'));
+  // Falta adicionar o botao de X ali em cima onde ta o menos % mudar o tamanhoo
   const modal = `
   <div class="modal fade" id="modal_video" tabindex="-1" role="dialog" style="display: block; z-index:20000;">
-    <div class="modal-dialog" style=" width: 100vw; max-width: none; height: 100vh; margin: 0;">
+    <div class="modal-dialog" style=" width: 100%; max-width: none; height: 100%; margin: 0;">
       <div class="modal-content" style="background-color:#222222;">
         <div class="modal-header" style="border-bottom:1px solid #ae9625">
           <h5 class="modal-title h4" id="exampleModalFullscreenLabel">CONSTRU</a>C<span style="color:#f00">A</span>MPI</h5>
