@@ -77,7 +77,7 @@
 						<div class="col-6 col-12-narrower">
 
 							<section class="box special">
-								<span class="image featured"><img src="public/images/pic02.jpg" alt="" /></span>
+								<span class="image featured"><img src="public/images/cc1.png" alt="" /></span>
 								<h3>Sed lorem adipiscing</h3>
 								<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
 								<ul class="actions special">
@@ -89,7 +89,7 @@
 						<div class="col-6 col-12-narrower">
 
 							<section class="box special">
-								<span class="image featured"><img src="public/images/pic03.jpg" alt="" /></span>
+								<span class="image featured"><img src="public/images/cc2.png" alt="" /></span>
 								<h3>Accumsan integer</h3>
 								<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
 								<ul class="actions special">
