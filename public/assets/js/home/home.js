@@ -4,6 +4,10 @@ videoButton.addEventListener('click', createVideoModal)
 
 function exit() {
   $("#modal_video").modal("hide");
+  var nodeModal = document.getElementById("div_modal_video");
+  if(nodeModal){
+    nodeModal.remove();
+  }
 }
 
 function createVideoModal() {
@@ -14,34 +18,43 @@ function createVideoModal() {
     nodeModal.remove();
   }
   var div = criaElemento({ element: "div", id: "div_modal_video"});
+  div.classList.add("modal");
   document.body.prepend(div);
   // var myModal = new bootstrap.Modal(document.getElementById('div_modal_video'));
   // Falta adicionar o botao de X ali em cima onde ta o menos % mudar o tamanhoo
   const modal = `
-  <div class="modal fade" id="modal_video" tabindex="-1" role="dialog" style="display: block; z-index:20000;">
-    <div class="modal-dialog" style=" width: 100%; max-width: none; height: 100%; margin: 0;">
-      <div class="modal-content" style="background-color:#222222;">
+    <div class="modal-dialog modal-fullscreen">
+      <div class="modal-content" style="background-color:#222222; z-index:"20000;">
         <div class="modal-header" style="border-bottom:1px solid #ae9625">
           <h5 class="modal-title h4" id="exampleModalFullscreenLabel">CONSTRU</a>C<span style="color:#f00">A</span>MPI</h5>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
-        <div class="modal-body" style="margin-right:10px;">
-          <video preload="auto" autoplay muted loop style=width:100%>
-            <source src="./public/videos/video_site.mp4">
-          </video>
+        <div class="modal-body" style="position:relative;">
+         
         </div>
         <div class="modal-footer" style="border-top:1px solid #ae9625; justify-content:space-between;">
-          <h5>&copy; Untitled. All rights reserved.</h5>
-          <button type="button" class="btn btn-secondary" onclick="exit()" style="margin-right:10px;" data-bs-dismiss="modal">Close</button>
+          <h5 style="color:#eeeeee;">&copy; Construcampi 2022. All rights reserved.</h5>
+          <button type="button" class="btn btn-secondary" onclick="exit()" data-bs-dismiss="modal">Close</button>
         </div>
       </div>
-    </div>
-  </div>
+   </div>
   `
   // myModal.innerHTML = modal;
   // myModal.show();
   document.getElementById("div_modal_video").innerHTML = modal;
-  $("#modal_video").modal("show");
+  $("#div_modal_video").modal("show");
+
+  // calcular tamanho da div para inserir o video
+  const modalBody = document.querySelector('.modal-body');
+  const height = modalBody.offsetHeight;
+  const width = modalBody.offsetWidth;
+  console.log(height)
+  console.log(width)
+  // modalBody.innerHTML = `
+  //   <video preload="auto" autoplay loop width="${width}" height: "${height}">
+  //     <source src="./public/videos/video_site_completo.mp4">
+  //   </video>
+  //   `
   // videoButton.append(element);
 }
 
@@ -52,14 +65,6 @@ function criaElemento(param){
   
   if(param.id){
       element.setAttribute("id",param.id);
-  }
-
-  if(param.class){
-      for (const key in param.class) {
-          if (Object.hasOwnProperty.call(param.class, key)) {
-              element.classList.add(param.class[key]);
-          }
-      }
   }
   
   if(param.text){
