@@ -9,45 +9,45 @@
 
 	</head>
 	<body class="landing is-preload">
-		<div id="page-wrapper">
+		<div id="page-wrapper" style="position:relative; display: block;">
 			<!-- Header -->
-				<?php include "includes/header.php"; ?>
+			<?php include "includes/header.php"; ?>
 			<!-- Banner -->
-				<section id="banner">
-					<h2>CONSTRU</a>C<span style="color:#f00">A</span>MPI</h2>
-					<p>Um breve slogan da empresa</p>
-					<ul class="actions special">
-						<li><a href="#" class="button">Saíba mais</a></li>
-					</ul>
-				</section>
+			<section id="banner">
+				<h2>CONSTRU</a>C<span style="color:#f00">A</span>MPI</h2>
+				<p>Um breve slogan da empresa</p>
+				<ul class="actions special">
+					<li><a href="#" class="button">Saíba mais</a></li>
+				</ul>
+			</section>
 
 			<!-- Main -->
 				<section id="main" class="container">
-
 					<!-- VIdeo -->
-					<section class="box special">
-						<header class="major">
-							<h2>Introdução
-							<br />
-							Sobre a empresa</h2>
-							<p>texto descritivo.</p>
-						</header>
-						<div style="width: 100%; height: unset;">
-							<video preload="auto" autoplay muted loop playsinline="" webkit-playsinline="" x5-playsinline="" style="width: 100%; height: 100%;">
-								<source src="./public/videos/video_site.mp4">
-							</video>
-						</div>
-					</section>
-
-					<section class="box special features">
-						<div class="features-row">
-							<section>
-								<span class="icon solid major fa-bolt accent2"></span>
-								<h3>Magna etiam</h3>
-								<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
-							</section>
-							<section>
-								<span class="icon solid major fa-chart-area accent3"></span>
+					<section class="box special" style='position:relative'>
+							<header class="major">
+								<h2>Introdução
+								<br />
+								Sobre a empresa</h2>
+								<p>texto descritivo.</p>
+							</header>
+							<i class="icon solid major fa-solid fa-play" style="position:absolute; left:500px; right:0; z-index:1;"></i>
+							<div id="video_player_home" style="width: 100%; height: unset; position:relative;">
+								<video preload="auto" autoplay muted loop playsinline="" webkit-playsinline="" x5-playsinline="" style="width: 100%; height: 100%;">
+									<source src="./public/videos/video_site.mp4">
+								</video>
+							</div>
+						</section>
+						
+						<section class="box special features">
+							<div class="features-row">
+								<section>
+									<span class="icon solid major fa-bolt accent2"></span>
+									<h3>Magna etiam</h3>
+									<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+								</section>
+								<section>
+									<span class="icon solid major fa-chart-area accent3"></span>
 								<h3>Ipsum dolor</h3>
 								<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
 							</section>
