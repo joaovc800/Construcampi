@@ -117,6 +117,7 @@
 				<div class="vw-plugin-top-wrapper"></div>
 			</div>
  		</div>
+		 <div id="back"></div>
 		<!-- SCRIPTS SEM IMPORT -->
 		<script src="public/assets//js/lib/libras.js"></script>
 		<script src="public/assets/js/lib/jquery.min.js"></script>

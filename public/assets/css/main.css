@@ -3928,3 +3928,6 @@
 a{
 	text-decoration: none!important;
 }
+#back{
+	display: none;
+}
