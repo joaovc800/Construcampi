@@ -8,6 +8,6 @@
         <li><a href="#" class="icon brands fa-google-plus"><span class="label">Google+</span></a></li>
     </ul>
     <ul class="copyright">
-        <li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+        <li>&copy; Construcampi. All rights reserved.</li><li>CNPJ: 52.167.111/0001-90</li>
     </ul>
 </footer>
