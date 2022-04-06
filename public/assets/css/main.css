@@ -2993,7 +2993,7 @@
 					}
 
 					#header nav > ul > li a:not(.button) {
-						color: #fff;
+						color: #ffd700;
 						display: inline-block;
 						text-decoration: none;
 						border: 0;
@@ -3070,7 +3070,7 @@
 		}
 
 			#header.alt nav > ul > li a:not(.button).icon:before {
-				color: rgba(255, 255, 255, 0.75);
+				color: #ffd700
 			}
 
 			#header.alt nav > ul > li.active a:not(.button) {
@@ -3896,9 +3896,13 @@
 			}
 
 	}
+
 .text-center{
 	text-align: center!important
 }
 .text-light{
 	color: #f8f9fa;
+}
+.gold{
+	color: #ffd700!important;
 }
