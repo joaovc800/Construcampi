@@ -22,13 +22,28 @@
 
 /* Utilizado para criar uma div que expande */
 /* Esta abaixo é para qualquer um */
+/* Utilizar scale image na div, grow image na imagem */
+.scale_image {
+    overflow: hidden;
+}
 
 .grow_image  {
     transition: all .5s ease-in-out;
 }
+
 .grow_image:hover {
     transform: scale(1.1);
     filter: grayscale(1);
+}
+
+.grow_image2  {
+    transition: all .5s ease-in-out;
+    filter: grayscale(1);
+}
+
+.grow_image2:hover {
+    transform: scale(1.1);
+    filter: grayscale(0);
 }
 
 .push-left{

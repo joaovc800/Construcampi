@@ -17,7 +17,7 @@
                     <a href="#" class="icon solid fa-angle-down">Obras</a>	
                     <ul class="" style="user-select: none; display: none; position: absolute;">
                         <li style="white-space: nowrap;">
-                            <a href="../view/generic.php" style="display: block;">Obras privadas</a>
+                            <a href="../view/obras_privadas.php" style="display: block;">Obras privadas</a>
                         </li>
                         <li style="white-space: nowrap;">
                             <a href="../view/contact.php" style="display: block;">Obras públicas</a>
