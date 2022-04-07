@@ -23,5 +23,10 @@
 /* Utilizado para criar uma div que expande */
 /* Esta abaixo é para qualquer um */
 
-.grow_image  { transition: all .6s ease-in-out; }
-.grow_image:hover { transform: scale(1.5); } 
+.grow_image  {
+    transition: all .6s ease-in-out;
+}
+.grow_image:hover {
+    transform: scale(1.5);
+    filter: grayscale(1);
+} 
