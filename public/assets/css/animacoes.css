@@ -27,6 +27,6 @@
     transition: all .6s ease-in-out;
 }
 .grow_image:hover {
-    transform: scale(1.5);
+    transform: scale(1.2);
     filter: grayscale(1);
 } 
