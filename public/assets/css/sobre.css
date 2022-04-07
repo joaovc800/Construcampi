@@ -5,6 +5,10 @@
 h1,h2,h3,h4,h5,h6,p{
   color: #fff!important;
 }
+.button:hover{
+  text-decoration: underline!important;
+  color: #fff;
+}
 #main_sobre {
 	-moz-flex-grow: 1;
 	-webkit-flex-grow: 1;
