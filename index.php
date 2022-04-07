@@ -104,9 +104,6 @@
 				<div class="vw-plugin-top-wrapper"></div>
 			</div>
  		</div>
-		 <div id="back" class="text-center">
-		 	<i class="fas h5 mt-1 text-light fa-angle-double-up"></i>
-		 </div>
 		<!-- SCRIPTS SEM IMPORT -->
 		<script src="public/assets//js/lib/libras.js"></script>
 		<script src="public/assets/js/lib/jquery.min.js"></script>
