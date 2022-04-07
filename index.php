@@ -14,17 +14,17 @@
 			<!-- Header -->
 			<header id="header" class="alt">
 				<h1>
-					<a href="../index.php">CONSTRU</a>C<span style="color:#f00">A</span>MPI</h1>
+					CONSTRUC<span style="color:#f00">A</span>MPI</h1>
 					<nav id="nav">
 						<ul>
 							<li style="white-space: nowrap;">
 								<a href="index.php">Home</a>
 							</li>
 							<li style="white-space: nowrap;">
-								<a href="index.php">Quem somos</a>
+								<a href="view/sobre.php">Quem somos</a>
 							</li>
 							<li style="white-space: nowrap;">
-								<a href="../index.php">Parcerias publicas e privadas</a>
+								<a href="index.php">Parcerias publicas e privadas</a>
 							</li>
 							<li class="opener" style="user-select: none; cursor: pointer; white-space: nowrap;">
 								<a href="#" class="icon solid fa-angle-down">Obras</a>	
@@ -50,7 +50,7 @@
 								</ul>
 							</li>
 							<li style="white-space: nowrap;">
-								<a href="../index.php">Minha casa verde e amarela</a>
+								<a href="index.php">Minha casa verde e amarela</a>
 							</li>
 						</ul>
 					</nav>
