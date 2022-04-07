@@ -1,6 +1,7 @@
 <header id="header" class="alt">
 	<h1>
-        <a>CONSTRU</a>C<span style="color:#f00">A</span>MPI</h1>
+        CONSTRUC<span style="color:#f00">A</span>MPI
+    </h1>
 		<nav id="nav">
 			<ul>
 				<li style="white-space: nowrap;">

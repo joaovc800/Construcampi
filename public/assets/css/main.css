@@ -2954,15 +2954,11 @@
 			top: 0;
 		}
 
-			#header h1 a {
-				color: #fff;
-				font-weight: 400;
+			#header h1 {
+				color: #fff!important;
 				border: 0;
 			}
-			#header h1 a:hover{
-				text-decoration: none;
-			}
-
+			
 		#header nav {
 			height: inherit;
 			line-height: inherit;
