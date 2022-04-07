@@ -32,7 +32,7 @@
 }
 
 .push-left{
-    animation: push-left 1s;
+    animation: push-left 2s;
 }
 .animate-push-left{
     display: none!important;
