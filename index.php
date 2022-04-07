@@ -54,7 +54,7 @@
 							<section>
 								<span class="icon solid major fa-signal accent3"></span>
 								<h3>Visão</h3>
-								<p>Trazer, a partir de muita eficiência e confiança em nosso trabalho, a consolidação de nosso nome no mercado, buscando sempre o crescimento atrelado a resultados de alta satisfação de nossos clientes, colaboradores e parceiros.</p>
+								<p>A partir da relação de confiança cliente x empresa, produzir eficiência em nossos serviços com exatidão, fortalecendo nossa marca e creditando crescimento na alta competência de nossos colaboradores e parceiros para a satisfação indubitável de nosso público.</p>
 							</section>
 						</div>
 						<div class="features-row">
