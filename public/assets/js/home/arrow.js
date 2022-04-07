@@ -30,7 +30,7 @@ $(function(){
 
     $(window).scroll(function(){
         var scrollBottom =  $(window).height() - $(window).scrollTop();
-        if(scrollBottom <= 0){
+        if(scrollBottom <= 20){
             $(".animate-push-left").addClass("push-left")
             $(".animate-push-left").removeClass("animate-push-left")
         }
