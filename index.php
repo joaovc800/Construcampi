@@ -49,7 +49,7 @@
 							<section>
 								<span class="icon solid major fa-bullseye accent2"></span>
 								<h3>Missão</h3>
-								<p>Compreender a necessidade do mercado de engenharia, desenvolver soluções de alta qualidade para as demandas de nossos clientes e colaboradores, sempre implementando os valores necessários para obter a mais alta eficiência dentro do ramo.</p>
+								<p>Compreender a necessidade do mercado de engenharia, desenvolver soluções de alta qualidade para as demandas de nossos clientes e colaboradores, sempre implementando os valores necessários para obter a alta eficiência de ponta no ramo da construção civil.</p>
 							</section>
 							<section>
 								<span class="icon solid major fa-signal accent3"></span>
