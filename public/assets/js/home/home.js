@@ -1,19 +1,20 @@
 // Utilizado para remover a div do modal ao sair do video
 
-function exit_modal() {
-  $("div_modal_video").modal("hide");
-  var nodeModal = document.getElementById("div_modal_video");
-  if(nodeModal){
-    nodeModal.remove();
-  }
-}
 
 $(function(){
+
+  window.exit_modal = function exit_modal() { // sair do modal
+    $("div_modal_video").modal("hide");
+    var nodeModal = document.getElementById("div_modal_video");
+    if(nodeModal){
+      nodeModal.remove();
+    }
+  }
+
   // Modal com video
   const videoButton = document.getElementById("video_player_home");
   videoButton.addEventListener('click', createVideoModal);
   
-
   function createVideoModal() {
     // remove o modal antigo
     var nodeModal = document.getElementById("div_modal_video");
@@ -53,19 +54,20 @@ $(function(){
     element = document.createElement(param.element);
     
     if(param.id){
-        element.setAttribute("id",param.id);
+      element.setAttribute("id",param.id);
     }
     
     if(param.text){
-        var text = document.createTextNode(param.text);
-        element.appendChild(text);
+      var text = document.createTextNode(param.text);
+      element.appendChild(text);
     }
+
     if(param.attribute){
-        for (const key2 in param.attribute) {
-            if (Object.hasOwnProperty.call(param.attribute, key2)) {
-                element.setAttribute(key2,param.attribute[key2]);
-            }
+      for (const key2 in param.attribute) {
+        if (Object.hasOwnProperty.call(param.attribute, key2)) {
+          element.setAttribute(key2,param.attribute[key2]);
         }
+      }
     }
     return element
   }
