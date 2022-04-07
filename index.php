@@ -15,7 +15,7 @@
 			<?php include "includes/header.php"; ?>
 			<!-- Banner -->
 			<section id="banner">
-				<h2>CONSTRU</a>C<span style="color:#f00">A</span>MPI</h2>
+				<h2>CONSTRUC<span style="color:#f00">A</span>MPI</h2>
 				<p>Seu objetivo é o nosso principal compromisso e responsabilidade</p>
 				<ul class="actions special">
 					<li><a href="#" class="button">Saíba mais</a></li>
