@@ -1,18 +1,20 @@
+// Utilizado para remover a div do modal ao sair do video
+
+function exit_modal() {
+  $("div_modal_video").modal("hide");
+  var nodeModal = document.getElementById("div_modal_video");
+  if(nodeModal){
+    nodeModal.remove();
+  }
+}
+
 $(function(){
   // Modal com video
   const videoButton = document.getElementById("video_player_home");
   videoButton.addEventListener('click', createVideoModal);
-
-  function exit() {
-    $("div_modal_video").modal("hide");
-    var nodeModal = document.getElementById("div_modal_video");
-    if(nodeModal){
-      nodeModal.remove();
-    }
-  }
+  
 
   function createVideoModal() {
-    
     // remove o modal antigo
     var nodeModal = document.getElementById("div_modal_video");
     if(nodeModal){
@@ -21,8 +23,7 @@ $(function(){
     var div = criaElemento({ element: "div", id: "div_modal_video"});
     div.classList.add("modal");
     document.body.prepend(div);
-    // var myModal = new bootstrap.Modal(document.getElementById('div_modal_video'));
-    // Falta adicionar o botao de X ali em cima onde ta o menos % mudar o tamanhoo
+
     const modal = `
       <div class="modal-dialog modal-fullscreen">
         <div class="modal-content" style="background-color:#222222; z-index:"20000;">
@@ -37,20 +38,13 @@ $(function(){
           </div>
           <div class="modal-footer" style="border-top:1px solid #ae9625; justify-content:space-between;">
             <h5 style="color:#eeeeee;">&copy; Construcampi 2022. All rights reserved.</h5>
-            <button type="button" class="btn btn-secondary" onclick="exit()" data-bs-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-secondary" onclick="exit_modal()" data-bs-dismiss="modal">Close</button>
           </div>
         </div>
     </div>
     `
-    // myModal.innerHTML = modal;
-    // myModal.show();
     document.getElementById("div_modal_video").innerHTML = modal;
-    $("#div_modal_video").modal("show");
-
-    // calcular tamanho da div para inserir o video
-    
-  
-
+    $("#div_modal_video").modal("show");  
   }
 
   // Criar elemento do modal
