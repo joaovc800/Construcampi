@@ -24,9 +24,26 @@
 /* Esta abaixo é para qualquer um */
 
 .grow_image  {
-    transition: all .6s ease-in-out;
+    transition: all .5s ease-in-out;
 }
 .grow_image:hover {
-    transform: scale(1.2);
+    transform: scale(1.1);
     filter: grayscale(1);
-} 
+}
+
+.push-left{
+    animation: push-left 0.9s;
+}
+.animate-push-left{
+    display: none!important;
+}
+
+@keyframes push-left {
+    from{
+        transform: translateX(-1000px);
+        filter: blur(35px);
+    }to{
+        transform: translateX(0px);
+        filter: blur(0);
+    }
+}

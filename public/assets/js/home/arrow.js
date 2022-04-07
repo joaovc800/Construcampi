@@ -25,4 +25,14 @@ $(function(){
             $("#header").addClass("alt");
         }
     });
+
+    //animations
+
+    $(window).scroll(function(){
+        var scrollBottom =  $(window).height() - $(window).scrollTop();
+        if(scrollBottom <= 40){
+            $(".animate-push-left").addClass("push-left")
+            $(".animate-push-left").removeClass("animate-push-left")
+        }
+    })
 });

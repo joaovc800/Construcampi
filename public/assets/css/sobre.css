@@ -71,7 +71,9 @@ h1,h2,h3,h4,h5,h6,p{
 			  flex-shrink: 0;
 			  display: block;
 			  margin: 0 0 2em 4em;
-			  width: 50%; }
+			  width: 50%;
+        overflow: hidden;
+      }
 			  #banner_sobre .image img {
 				height: 100%;
 				-moz-object-fit: cover;
@@ -368,4 +370,3 @@ h1,h2,h3,h4,h5,h6,p{
 	  border-top: 0;
 	  margin-top: 0;
 	  padding-top: 0; }
-
