@@ -4,10 +4,10 @@
 		<nav id="nav">
 			<ul>
 				<li style="white-space: nowrap;">
-                    <a href="index.php">Home</a>
+                    <a href="../index.php">Home</a>
                 </li>
 				<li style="white-space: nowrap;">
-                    <a href="index.php">Quem somos</a>
+                    <a href="../index.php">Quem somos</a>
                 </li>
                 <li style="white-space: nowrap;">
                     <a href="../index.php">Parcerias publicas e privadas</a>
@@ -16,22 +16,22 @@
                     <a href="#" class="icon solid fa-angle-down">Obras</a>	
                     <ul class="" style="user-select: none; display: none; position: absolute;">
                         <li style="white-space: nowrap;">
-                            <a href="view/generic.php" style="display: block;">Obras privadas</a>
+                            <a href="../view/generic.php" style="display: block;">Obras privadas</a>
                         </li>
                         <li style="white-space: nowrap;">
-                            <a href="view/contact.php" style="display: block;">Obras públicas</a>
+                            <a href="../view/contact.php" style="display: block;">Obras públicas</a>
                         </li>
                         <li style="white-space: nowrap;">
-                            <a href="view/contact.php" style="display: block;">Galpões e estruturas metálicas</a>
+                            <a href="../view/contact.php" style="display: block;">Galpões e estruturas metálicas</a>
                         </li>
                         <li style="white-space: nowrap;">
-                            <a href="view/contact.php" style="display: block;">Reformas em geral</a>
+                            <a href="../view/contact.php" style="display: block;">Reformas em geral</a>
                         </li>
                         <li style="white-space: nowrap;">
-                            <a href="view/contact.php" style="display: block;">Casas Pré-Fabricadas</a>
+                            <a href="../view/contact.php" style="display: block;">Casas Pré-Fabricadas</a>
                         </li>
                         <li style="white-space: nowrap;">
-                            <a href="view/contact.php" style="display: block;">Pavimentações asfálticas</a>
+                            <a href="../view/contact.php" style="display: block;">Pavimentações asfálticas</a>
                         </li>
                     </ul>
                 </li>
