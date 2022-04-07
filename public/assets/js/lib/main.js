@@ -35,9 +35,9 @@
 
 	// NavPanel.
 
-		// Button.
+		// Button width:0 foi colocado.
 			$(
-				'<div id="navButton">' +
+				'<div id="navButton" style="width:0;">' +
 					'<a href="#navPanel" class="toggle"></a>' +
 				'</div>'
 			)

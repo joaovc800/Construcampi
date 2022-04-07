@@ -29,7 +29,7 @@ $(function(){
         <div class="modal-content" style="background-color:#222222; z-index:"20000;">
           <div class="modal-header" style="border-bottom:1px solid #ae9625">
             <h5 class="modal-title h4" id="exampleModalFullscreenLabel">CONSTRU</a>C<span style="color:#f00">A</span>MPI</h5>
-            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            <button type="button" class="btn-close btn-close-white" onclick="exit_modal()" data-bs-dismiss="modal"></button>
           </div>
           <div class="modal-body" id="modal-body" style="position:relative;">
           <video preload="auto" autoplay loop style="position:absolute;left:0;right:0;width:100%;">
