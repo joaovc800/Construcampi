@@ -14,4 +14,15 @@ $(function(){
         },100);
         return false;
     });
+
+    //Header 
+    $(window).scroll(function(){
+        if($(this).scrollTop() > 200){
+        $("#header").removeClass("alt");
+        $("#header").addClass("reveal");
+        }else{
+            $("#header").removeClass("reveal");
+            $("#header").addClass("alt");
+        }
+    });
 });

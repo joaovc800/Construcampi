@@ -108,6 +108,7 @@
 		<script src="public/assets/js/lib/util.js"></script>
 		<script src="public/assets/js/lib/main.js"></script>
 		<script src="public/assets/js/home/home.js"></script>
+		<script src="public/assets/js/home/arrow.js"></script>
 		<script>
 			new window.VLibras.Widget('https://vlibras.gov.br/app');
 		</script>
