@@ -75,7 +75,7 @@
 							<header class="major">
 								<h2>Ipsum sed dolor</h2>
 							</header>
-							<div class="posts">
+							<div class="posts animate-push-left">
 								<article>
 									<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
 									<h3>Interdum aenean</h3>

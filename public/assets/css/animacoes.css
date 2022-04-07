@@ -29,4 +29,21 @@
 .grow_image:hover {
     transform: scale(1.1);
     filter: grayscale(1);
-} 
+}
+
+.push-left{
+    animation: push-left 1s;
+}
+.animate-push-left{
+    display: none!important;
+}
+
+@keyframes push-left {
+    from{
+        transform: translateX(-1000px);
+        filter: blur(35px);
+    }to{
+        transform: translateX(0px);
+        filter: blur(0);
+    }
+}
