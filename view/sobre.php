@@ -20,9 +20,8 @@
 						<section id="banner_sobre">
 							<div class="content">
 								<header>
-									<h1>Hi, I’m Editorial<br />
-									by HTML5 UP</h1>
-									<p>A free and fully responsive site template</p>
+									<h1 class="h2">Olá, somos a Construcampi</h1>
+									<p>conheça mais sobre nossa tragetória...</p>
 								</header>
 								<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
 								<ul class="actions">
@@ -30,7 +29,7 @@
 								</ul>
 							</div>
 							<span class="image object">
-								<img src="../public/images/pic04.jpg" alt="" />
+								<img src="../public/images/cc3.jpg" alt="" class="grow_image" />
 							</span>
 						</section>
 

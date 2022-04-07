@@ -24,9 +24,9 @@
 /* Esta abaixo é para qualquer um */
 
 .grow_image  {
-    transition: all .6s ease-in-out;
+    transition: all .5s ease-in-out;
 }
 .grow_image:hover {
-    transform: scale(1.2);
+    transform: scale(1.1);
     filter: grayscale(1);
 } 
