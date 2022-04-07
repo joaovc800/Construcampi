@@ -8,7 +8,7 @@
                     <a href="../index.php">Home</a>
                 </li>
 				<li style="white-space: nowrap;">
-                    <a href="../index.php">Quem somos</a>
+                    <a href="sobre.php">Quem somos</a>
                 </li>
                 <li style="white-space: nowrap;">
                     <a href="../index.php">Parcerias publicas e privadas</a>
