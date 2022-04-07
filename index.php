@@ -98,12 +98,6 @@
 			<!-- Footer -->
 		 	<?php include("includes/footer.php"); ?>
 		</div>
-		<div vw class="enabled">
-			<div vw-access-button class="active"></div>
-			<div vw-plugin-wrapper>
-				<div class="vw-plugin-top-wrapper"></div>
-			</div>
- 		</div>
 		<!-- SCRIPTS SEM IMPORT -->
 		<script src="public/assets//js/lib/libras.js"></script>
 		<script src="public/assets/js/lib/jquery.min.js"></script>
