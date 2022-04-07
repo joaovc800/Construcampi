@@ -1,6 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
-
+/* height: calc(100vh/1.2); < iframe mobile */
 /*
 	Construcampi
 	html5up.net | @ajlkn
@@ -3947,6 +3947,26 @@ a{
 #back:hover{
 	transform: translateY(-3px);
 }
-.modal-fullscreen .modal-body {
-    overflow-y: hidden;
+
+/* Home modal video */
+
+/*.modal-fullscreen .modal-body {
+	overflow: visible;
 }
+
+.modal-fullscreen .modal-body {
+	position: relative;
+	padding-bottom: 56.25%;
+	/* 16:9
+	padding-top: 25px;
+	height: 0;
+  }
+  
+.modal-fullscreen .modal-body iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	overflow-x: hidden;
+} */
