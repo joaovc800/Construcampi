@@ -15,7 +15,7 @@
 			<?php include "includes/header.php"; ?>
 			<!-- Banner -->
 			<section id="banner">
-				<h2>CONSTRU</a>C<span style="color:#f00">A</span>MPI</h2>
+				<h2>CONSTRUC<span style="color:#f00">A</span>MPI</h2>
 				<p>Seu objetivo é o nosso principal compromisso e responsabilidade</p>
 				<ul class="actions special">
 					<li><a href="#" class="button">Saíba mais</a></li>
@@ -49,12 +49,12 @@
 							<section>
 								<span class="icon solid major fa-bullseye accent2"></span>
 								<h3>Missão</h3>
-								<p>Compreender a necessidade do mercado de engenharia, desenvolver soluções de alta qualidade para as demandas de nossos clientes e colaboradores, sempre implementando os valores necessários para obter a mais alta eficiência dentro do ramo.</p>
+								<p>Compreender a necessidade do mercado de engenharia, desenvolver soluções de alta qualidade para as demandas de nossos clientes e colaboradores, sempre implementando os valores necessários para obter a alta eficiência de ponta no ramo da construção civil.</p>
 							</section>
 							<section>
 								<span class="icon solid major fa-signal accent3"></span>
 								<h3>Visão</h3>
-								<p>Trazer, a partir de muita eficiência e confiança em nosso trabalho, a consolidação de nosso nome no mercado, buscando sempre o crescimento atrelado a resultados de alta satisfação de nossos clientes, colaboradores e parceiros.</p>
+								<p>A partir da relação de confiança cliente x empresa, produzir eficiência em nossos serviços com exatidão, fortalecendo nossa marca e creditando crescimento na alta competência de nossos colaboradores e parceiros para a satisfação indubitável de nosso público.</p>
 							</section>
 						</div>
 						<div class="features-row">
@@ -98,15 +98,6 @@
 			<!-- Footer -->
 		 	<?php include("includes/footer.php"); ?>
 		</div>
-		<div vw class="enabled">
-			<div vw-access-button class="active"></div>
-			<div vw-plugin-wrapper>
-				<div class="vw-plugin-top-wrapper"></div>
-			</div>
- 		</div>
-		 <div id="back" class="text-center">
-		 	<i class="fas h5 mt-1 text-light fa-angle-double-up"></i>
-		 </div>
 		<!-- SCRIPTS SEM IMPORT -->
 		<script src="public/assets//js/lib/libras.js"></script>
 		<script src="public/assets/js/lib/jquery.min.js"></script>
@@ -117,6 +108,7 @@
 		<script src="public/assets/js/lib/util.js"></script>
 		<script src="public/assets/js/lib/main.js"></script>
 		<script src="public/assets/js/home/home.js"></script>
+		<script src="public/assets/js/home/arrow.js"></script>
 		<script>
 			new window.VLibras.Widget('https://vlibras.gov.br/app');
 		</script>

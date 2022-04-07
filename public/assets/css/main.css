@@ -2999,14 +2999,14 @@
 					}
 
 					#header nav > ul > li a:not(.button) {
-						color: #ffd700;
+						color: #fff;
 						display: inline-block;
 						text-decoration: none;
 						border: 0;
 					}
 
 						#header nav > ul > li a:not(.button).icon:before {
-							color: #ffd700;
+							color: #fff;
 							margin-right: 0.5em;
 						}
 
@@ -3076,7 +3076,7 @@
 		}
 
 			#header.alt nav > ul > li a:not(.button).icon:before {
-				color: #ffd700
+				color: #fff
 			}
 
 			/* #header.alt nav > ul > li.active a:not(.button) {
@@ -3906,6 +3906,7 @@
 
 	}
 
+/*CSS adicional*/				
 div[vw] [vp] [vp-message-box] {
 	display: none!important;
 }

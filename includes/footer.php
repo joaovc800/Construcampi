@@ -11,3 +11,12 @@
         <li>&copy; Construcampi. All rights reserved.</li><li>CNPJ: 52.167.111/0001-90</li>
     </ul>
 </footer>
+<div vw class="enabled">
+    <div vw-access-button class="active"></div>
+    <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+    </div>
+</div>
+<div id="back" class="text-center">
+	<i class="fas h5 mt-1 text-light fa-angle-double-up"></i>
+</div>
