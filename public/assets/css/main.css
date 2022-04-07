@@ -3905,6 +3905,10 @@
 			}
 
 	}
+
+div[vw] [vp] [vp-message-box] {
+	display: none!important;
+}
 [vw] [vw-access-button] .access-button{
 	border-radius: 50px!important;
 	width: 30%;
