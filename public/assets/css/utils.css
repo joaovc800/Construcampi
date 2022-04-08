@@ -9,7 +9,7 @@ h1  {
     margin: 0;
     padding: 0;
     border: 0;
-    font-size: 100%;
+    font-size: 100% !important; 
     font: inherit;
     vertical-align: baseline;
 }
@@ -21,10 +21,10 @@ body {
     /* cuidado que esse coloo abaixo muda a cor do footer */
     color: #777; 
     font-family: "Source Sans Pro", sans-serif;
-    font-size: 16pt;
-    font-weight: 300;
-    line-height: 1.65em;
-    letter-spacing: -0.015em;
+    font-size: 16pt !important;
+    font-weight: 300 !important;
+    line-height: 1.65em !important;
+    letter-spacing: -0.015em !important;
 }
 
 
@@ -381,8 +381,8 @@ dl {
 			-webkit-animation: none;
 			-ms-animation: none;
 			animation: none;
-			background: #000;
-			color: rgba(255, 255, 255);
+			background: #000!important;
+			color: rgba(255, 255, 255)!important;
 			position: absolute;
 		}
 
