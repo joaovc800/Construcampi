@@ -382,7 +382,7 @@ dl {
 			-ms-animation: none;
 			animation: none;
 			background: #000;
-			color: rgba(255, 255, 255, 0.75);
+			color: rgba(255, 255, 255);
 			position: absolute;
 		}
 
