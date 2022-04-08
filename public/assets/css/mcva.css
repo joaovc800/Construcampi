@@ -1,5 +1,5 @@
-@import url("fontawesome-all.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
+@import url(fontawesome-all.min.css);
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,700,300i,600i,700i|Raleway:600,800");
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -114,9 +114,9 @@ input, select, textarea {
 
 /* Typography */
 
-	/* html {
+	html {
 		font-size: 18pt;
-	} */
+	}
 
 		@media screen and (max-width: 1920px) {
 
@@ -3209,11 +3209,11 @@ input, select, textarea {
 
 /* Wrapper */
 
-	/* #wrapper {
+	#wrapper {
 		position: relative;
 		width: 100vw;
 		padding: 0 0 10rem 0;
-	} */
+	}
 
 		#wrapper:before {
 			background-attachment: fixed;
