@@ -32,12 +32,12 @@
 							<!-- Imagens (3x3) -->
 							<div class="col-8 col-12-narrow">
 								<div class="row">
-									<div class="col-4 col-6-narrow pb-5 text_container">
+									<div class="col-4 col-6-narrow text_container">
 										<span class="image fit scale_image border_activate">
-											<img class="grow_image2" src="../public/images/cc1.jpg" alt="" />
+											<img class="grow_image2" src="../public/images/cc2.jpg" alt="" />
 										</span>
 										<div class="hidden_text">
-											Construção top essa
+											Prédios de alto padrão
 										</div>
 									</div>
 									<div class="col-4 col-6-narrow text_container">
@@ -45,7 +45,7 @@
 											<img class="grow_image2" src="../public/images/cc2.jpg" alt="" />
 										</span>
 										<div class="hidden_text">
-											Construção top essa
+											Casas em condomínio
 										</div>
 									</div>
 									<div class="col-4 col-12-narrow text_container pb-5">
@@ -112,6 +112,7 @@
 
 		<!-- Scripts -->
 		<?php include "../includes/scripts_imports.php"; ?>
+		<script src="../public/assets/js/obras/main.js"></script>
 
 	</body>
 </html>
