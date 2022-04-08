@@ -371,6 +371,7 @@ dl {
 			-webkit-animation: reveal-header 0.5s;
 			-ms-animation: reveal-header 0.5s;
 			animation: reveal-header 0.5s;
+            color: #fff;
 		}
 
 		#header.alt {
