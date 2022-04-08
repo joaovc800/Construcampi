@@ -226,15 +226,11 @@ input, select, textarea {
 /* Container */
 
 	.container {
-		margin: 0 auto;
-		max-width: 100%;
-		width: 1360px;
+		margin: 0 auto!important;
+   		width:95% !important;
 	}
 
-		.container.medium {
-			width: 1020px;
-		}
-
+	
 		@media screen and (max-width: 1680px) {
 
 			.container {
@@ -2131,9 +2127,9 @@ input, select, textarea {
 	}
 
 		.main > header {
-			background: #222222;
+			/* background: #222222; faz override da imagem */  
 			text-align: center;
-			padding: 5em 0 5em 0;
+			padding: 7em 0 7em 0;
 			margin: 0;
 		}
 
@@ -2149,9 +2145,9 @@ input, select, textarea {
 				text-align: center;
 			}
 
-		.main > .content {
+		/* .main > .content {
 			padding: 6em 0 6em 0;
-		}
+		} */
 
 			.main > .content h3 {
 				font-size: 1.5em;
@@ -2345,3 +2341,43 @@ input, select, textarea {
 				}
 
 	}
+
+.imagem_com_texto {
+	background-attachment: scroll,fixed;
+	background-color: #666;
+	background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+	background-position: top left, center center;
+	background-repeat: repeat, no-repeat;
+	background-size: auto, cover;
+	color: #fff;
+	padding: 12em 0 20em 0;
+	text-align: center;
+}
+
+/* border open effect (small border solid goes slow towards the beginning */
+
+.imagem_com_texto :last-child {
+	margin-bottom: 0;
+}
+
+.imagem_com_texto h2, .imagem_com_texto h3, .imagem_com_texto h4, .imagem_com_texto h5, .imagem_com_texto h6 {
+	color: #fff;
+}
+
+.imagem_com_texto h2 {
+	font-size: 3.5em;
+	line-height: 1em;
+	margin: 0 0 0.5em 0;
+	padding: 0;
+}
+
+.imagem_com_texto p {
+	font-size: 1.25em;
+	margin-bottom: 1.75em;
+}
+
+.center {
+	display: flex;
+	align-content: center;
+	justify-content: center;
+}
