@@ -8,7 +8,7 @@
         <?php include "../includes/css_imports.php";?>
 	</head>
 	<body class="is-preload">
-		<?php include "../includes/header.php"; ?>
+		<?php include "../includes/header.php"; ?>	
 		<!-- Wrapper -->
 		<div id="wrapper">
 			<!-- Intro -->
