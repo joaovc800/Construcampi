@@ -51,7 +51,7 @@
 							</ul>
 						</li>
 						<li style="white-space: nowrap;">
-							<a href="index.php">Casa verde e amarela</a>
+							<a href="view/casa_verde_e_amarela.php">Casa verde e amarela</a>
 						</li>
 					</ul>
 				</nav>
