@@ -48,7 +48,7 @@
 											Construção top essa
 										</div>
 									</div>
-									<div class="col-4 col-12-narrow text_container">
+									<div class="col-4 col-12-narrow text_container pb-5">
 										<span class="image fit scale_image border_activate">
 											<img class="grow_image2" src="../public/images/cc3.jpg" alt="" />
 										</span>
@@ -58,9 +58,9 @@
 									</div>
 								</div>
 								<div class="row">
-									<div class="col-4 col-6-narrow text_container">
+									<div class="col-4 col-6-narrow text_container pb-5">
 										<span class="image fit scale_image border_activate">
-											<img class="grow_image2" src="../public/images/obras/privadas/pic04.jpg" alt="" />
+											<img class="grow_image2" src="../public/images/cc2.jpg" alt="" />
 										</span>
 										<div class="hidden_text">
 											Construção top essa
@@ -68,15 +68,15 @@
 									</div>
 									<div class="col-4 col-6-narrow text_container">
 										<span class="image fit scale_image border_activate">
-											<img class="grow_image2" src="../public/images/obras/privadas/pic05.jpg" alt="" />
+											<img class="grow_image2" src="../public/images/cc2.jpg" alt="" />
 										</span>
 										<div class="hidden_text">
 											Construção top essa
 										</div>
 									</div>
-									<div class="col-4 col-12-narrow text_container">
+									<div class="col-4 col-12-narrow text_container pb-5">
 										<span class="image fit scale_image border_activate">
-											<img class="grow_image2" src="../public/images/obras/privadas/pic06.jpg" alt="" />
+											<img class="grow_image2" src="../public/images/cc2.jpg" alt="" />
 										</span>
 										<div class="hidden_text">
 											Construção top essa
