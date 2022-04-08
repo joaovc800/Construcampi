@@ -20,16 +20,16 @@
 				<div class="content dark style2">
 					<div class="container-fluid">
 						<div class="row ml-5">
-							<div class="col-4 col-12-narrow text-center">
-								<h3> Os clientes</h3>
-								<div class="px-5">
-									<p>De norte a sul, leste a oeste, nossas obras cobrem exponenciais áreas. Chegando a incríveis totais de <strong>357,37 quilometros</strong> de áreas construídas quantificadas apenas na cidade de São Paulo. Somos já a 12 maior empresa de engenharia do Brasil. </p>
-									<p>Lectus ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia
-									accumsan vivamus augue cubilia vivamus nisi eu eget ornare varius gravida dolore
-									euismod lorem ipsum dolor.</p>
-									
-								</div>
-							</div>
+                            <div class="col-4 col-12-narrow text-center">
+                                <h3> Os clientes</h3>
+                                <div class="px-5">
+                                    <p>De norte a sul, leste a oeste, nossas obras cobrem exponenciais áreas. Chegando a incríveis totais de <strong>357,37 quilometros</strong> de áreas construídas quantificadas apenas na cidade de São Paulo. Somos já a 12 maior empresa de engenharia do Brasil. </p>
+                                    <p>Lectus ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia
+                                    accumsan vivamus augue cubilia vivamus nisi eu eget ornare varius gravida dolore
+                                    euismod lorem ipsum dolor.</p>
+                                    
+                                </div>
+                            </div>
 							<div class="col-8 col-12-narrow">
 								<div class="row">
 									<div class="col-4 col-6-narrow pb-5"><span class="image fit scale_image  border_activate"><img class="grow_image2" src="../public/images/cc1.jpg" alt="" /></span></div>

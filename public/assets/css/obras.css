@@ -2354,7 +2354,8 @@ input, select, textarea {
 	text-align: center;
 }
 
-/* border open effect (small border solid goes slow towards the beginning */
+
+/* border open effect (small border solid goes slow towards both directions */
 
 .imagem_com_texto :last-child {
 	margin-bottom: 0;
@@ -2381,3 +2382,5 @@ input, select, textarea {
 	align-content: center;
 	justify-content: center;
 }
+
+/* screen scroll and appear */
