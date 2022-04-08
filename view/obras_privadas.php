@@ -27,26 +27,69 @@
 									<p>Lectus ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia
 									accumsan vivamus augue cubilia vivamus nisi eu eget ornare varius gravida dolore
 									euismod lorem ipsum dolor.</p>
-									
 								</div>
 							</div>
+							<!-- Imagens (3x3) -->
 							<div class="col-8 col-12-narrow">
 								<div class="row">
-									<div class="col-4 col-6-narrow pb-5"><span class="image fit scale_image  border_activate"><img class="grow_image2" src="../public/images/cc1.jpg" alt="" /></span></div>
-									<div class="col-4 col-6-narrow"><span class="image fit scale_image border_activate"><img class="grow_image2" src="../public/images/cc2.jpg" alt="" /></span></div>
-									<div class="col-4 col-12-narrow"><span class="image fit scale_image border_activate"><img class="grow_image2" src="../public/images/cc3.jpg" alt="" /></span></div>
+									<div class="col-4 col-6-narrow pb-5 text_container">
+										<span class="image fit scale_image border_activate">
+											<img class="grow_image2" src="../public/images/cc1.jpg" alt="" />
+										</span>
+										<div class="hidden_text">
+											Construção top essa
+										</div>
+									</div>
+									<div class="col-4 col-6-narrow text_container">
+										<span class="image fit scale_image border_activate">
+											<img class="grow_image2" src="../public/images/cc2.jpg" alt="" />
+										</span>
+										<div class="hidden_text">
+											Construção top essa
+										</div>
+									</div>
+									<div class="col-4 col-12-narrow text_container">
+										<span class="image fit scale_image border_activate">
+											<img class="grow_image2" src="../public/images/cc3.jpg" alt="" />
+										</span>
+										<div class="hidden_text">
+											Construção top essa
+										</div>
+									</div>
 								</div>
 								<div class="row">
-									<div class="col-4 col-6-narrow"><span class="image fit scale_image border_activate"><img class="grow_image2" src="../public/images/obras/privadas/pic04.jpg" alt="" /></span></div>
-									<div class="col-4 col-6-narrow"><span class="image fit scale_image border_activate"><img class="grow_image2" src="../public/images/obras/privadas/pic05.jpg" alt="" /></span></div>
-									<div class="col-4 col-12-narrow"><span class="image fit scale_image border_activate"><img class="grow_image2" src="../public/images/obras/privadas/pic06.jpg" alt="" /></span></div>
+									<div class="col-4 col-6-narrow text_container">
+										<span class="image fit scale_image border_activate">
+											<img class="grow_image2" src="../public/images/obras/privadas/pic04.jpg" alt="" />
+										</span>
+										<div class="hidden_text">
+											Construção top essa
+										</div>
+									</div>
+									<div class="col-4 col-6-narrow text_container">
+										<span class="image fit scale_image border_activate">
+											<img class="grow_image2" src="../public/images/obras/privadas/pic05.jpg" alt="" />
+										</span>
+										<div class="hidden_text">
+											Construção top essa
+										</div>
+									</div>
+									<div class="col-4 col-12-narrow text_container">
+										<span class="image fit scale_image border_activate">
+											<img class="grow_image2" src="../public/images/obras/privadas/pic06.jpg" alt="" />
+										</span>
+										<div class="hidden_text">
+											Construção top essa
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="col-12">
 								<div class="row">
-									<!-- delimitidator -->
+									<!-- delimitidator (imagem do tamanho da div(grande) ) -->
 									<div class="col-12"><span class="image fit scale_image"><img class="grow_image2" src="../public/images/cc1.jpg" alt="" /></span></div>
 
+									<!-- Imagens (1-text-1) -->
 									<div class="col"><span class="image fit scale_image border_activate"><img class="grow_image2" src="../public/images/cc2.jpg" alt="" /></span></div>
 									<div class="col-4 col-12-narrow text-center">
 										<h1>Escavadeiras</h1>

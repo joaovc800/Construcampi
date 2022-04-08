@@ -76,30 +76,25 @@
 					</div>
 					<div class="row">
 						<div class="col-12">
-
 							<!-- Lists -->
 								<section class="box">
 									<h3>Lists</h3>
 									<div class="row">
 										<div class="col-6 col-12-mobilep">
-
 											<h4>Unordered</h4>
 											<ul>
 												<li>Dolor pulvinar etiam magna etiam.</li>
 												<li>Sagittis adipiscing lorem eleifend.</li>
 												<li>Felis enim feugiat dolore viverra.</li>
 											</ul>
-
 											<h4>Alternate</h4>
 											<ul class="alt">
 												<li>Dolor pulvinar etiam magna etiam.</li>
 												<li>Sagittis adipiscing lorem eleifend.</li>
 												<li>Felis enim feugiat dolore viverra.</li>
 											</ul>
-
 										</div>
 										<div class="col-6 col-12-mobilep">
-
 											<h4>Ordered</h4>
 											<ol>
 												<li>Dolor pulvinar etiam magna etiam.</li>
@@ -109,7 +104,6 @@
 												<li>Etiam vel felis at lorem sed viverra.</li>
 												<li>Felis enim feugiat dolore viverra.</li>
 											</ol>
-
 											<h4>Icons</h4>
 											<ul class="icons">
 												<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
@@ -119,10 +113,8 @@
 												<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
 												<li><a href="#" class="icon brands fa-tumblr"><span class="label">Tumblr</span></a></li>
 											</ul>
-
 										</div>
 									</div>
-
 									<h4>Actions</h4>
 									<ul class="actions">
 										<li><a href="#" class="button special">Default</a></li>
@@ -165,16 +157,13 @@
 										</div>
 									</div>
 								</section>
-
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-12">
-
 							<!-- Table -->
 								<section class="box">
 									<h3>Table</h3>
-
 									<h4>Default</h4>
 									<div class="table-wrapper">
 										<table>
