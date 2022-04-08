@@ -15,13 +15,13 @@
 			<section class="intro">
 				<header>
 					<h1 class="h1 text-light">Casa verde e amarela</h1>
-					<p>A free responsive site template designed by <a href="https://twitter.com/ajlkn">@ajlkn</a> / <a href="https://html5up.net">HTML5 UP</a></p>
+					<p class="text-light">As melhores obras do programa casa verde e amarela você encontra aqui!</p>
 					<ul class="actions">
 						<li><a href="#first" class="arrow scrolly"><span class="label">Next</span></a></li>
 					</ul>
 				</header>
 				<div class="content">
-					<span class="image fill" data-position="center"><img class="grow_image"src="../public/images/mcva/cva.jpg" alt="Casa verde e amarela" /></span>
+					<span class="image fill overf" data-position="center"><img class="grow_image"src="../public/images/mcva/cva.jpg" alt="Casa verde e amarela" /></span>
 				</div>
 			</section>
 
@@ -32,7 +32,7 @@
 				</header>
 				<div class="content">
 					<p><strong>Lorem ipsum dolor</strong> sit amet consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor amet fermentum. Nullam venenatis erat id vehicula ultrices sed ultricies condimentum. Magna sed etiam consequat, et lorem adipiscing sed nulla. Volutpat nisl et tempus et dolor libero, feugiat magna tempus, sed et lorem adipiscing.</p>
-					<span class="image main"><img src="../public/images/mcva/pic02.jpg" alt="" /></span>
+					<span class="image main overf"><img class="grow_image"src="../public/images/mcva/pic02.jpg" alt="" /></span>
 				</div>
 			</section>
 
@@ -71,10 +71,10 @@
 							</header>
 							<div class="content">
 								<div class="gallery">
-									<a href="" class="landscape"><img src="../public/images/mcva/gallery/thumbs/01.jpg" alt="" /></a>
-									<a href=""><img src="../public/images/mcva/gallery/thumbs/02.jpg" alt="" /></a>
-									<a href=""><img src="../public/images/mcva/gallery/thumbs/03.jpg" alt="" /></a>
-									<a href="" class="landscape"><img src="../public/images/mcva/gallery/thumbs/04.jpg" alt="" /></a>
+									<a class="landscape overf"><img class="grow_image" src="../public/images/mcva/gallery/thumbs/01.jpg" alt="" /></a>
+									<a class="overf"><img class="grow_image" src="../public/images/mcva/gallery/thumbs/02.jpg" alt="" /></a>
+									<a class="overf"><img class="grow_image" src="../public/images/mcva/gallery/thumbs/03.jpg" alt="" /></a>
+									<a class="landscape overf"><img class="grow_image" src="../public/images/mcva/gallery/thumbs/04.jpg" alt="" /></a>
 								</div>
 							</div>
 						</section>
@@ -87,9 +87,9 @@
 							</header>
 							<div class="content">
 								<div class="gallery">
-									<a href="" class="landscape"><img src="../public/images/mcva/gallery/thumbs/05.jpg" alt="" /></a>
-									<a href=""><img src="../public/images/mcva/gallery/thumbs/06.jpg" alt="" /></a>
-									<a href=""><img src="../public/images/mcva/gallery/thumbs/07.jpg" alt="" /></a>
+									<a class="landscape overf"><img class="grow_image" src="../public/images/mcva/gallery/thumbs/05.jpg" alt="" /></a>
+									<a class="overf"><img class="grow_image" src="../public/images/mcva/gallery/thumbs/06.jpg" alt="" /></a>
+									<a class="overf"><img class="grow_image" src="../public/images/mcva/gallery/thumbs/07.jpg" alt="" /></a>
 								</div>
 							</div>
 						</section>
@@ -102,9 +102,9 @@
 							</header>
 							<div class="content">
 								<div class="gallery">
-									<a href="" class="portrait"><img src="../public/images/mcva/gallery/thumbs/08.jpg" alt="" /></a>
-									<a href="" class="portrait"><img src="../public/images/mcva/gallery/thumbs/09.jpg" alt="" /></a>
-									<a href="" class="landscape"><img src="../public/images/mcva/gallery/thumbs/10.jpg" alt="" /></a>
+									<a class="portrait overf"><img class="grow_image" src="../public/images/mcva/gallery/thumbs/08.jpg" alt="" /></a>
+									<a class="portrait overf"><img class="grow_image" src="../public/images/mcva/gallery/thumbs/09.jpg" alt="" /></a>
+									<a class="landscape overf"><img class="grow_image" src="../public/images/mcva/gallery/thumbs/10.jpg" alt="" /></a>
 								</div>
 							</div>
 						</section>
@@ -120,8 +120,8 @@
 				<div class="content">
 					<p><strong>Proin tempus feugiat</strong> sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore.</p>
 					<ul class="actions">
-						<li><a href="#" class="button primary large">Get Started</a></li>
-						<li><a href="#" class="button large">Learn More</a></li>
+						<li><a class="button primary large">Get Started</a></li>
+						<li><a class="button large">Learn More</a></li>
 					</ul>
 				</div>
 			</section>

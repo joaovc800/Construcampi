@@ -2513,7 +2513,6 @@ input, select, textarea {
 			position: absolute;
 			top: 0;
 			width: 100%;
-			overflow: hidden !important;
 		}
 
 			.image.fill img {
@@ -3881,3 +3880,7 @@ input, select, textarea {
 		}
 
 	}
+
+.overf{
+	overflow: hidden!important;
+}
