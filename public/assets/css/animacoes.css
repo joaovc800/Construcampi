@@ -1,4 +1,4 @@
-/* Utilizado para criar uma div que expande */
+Utilizado para criar uma div que expande */
 /* Esta abaixo é para o video */
 .grow { /* posicao do pai do hover */
     position:absolute; 
@@ -23,6 +23,7 @@
 /* Utilizado para criar uma div que expande */
 /* Esta abaixo é para qualquer um */
 /* Utilizar scale image na div, grow image na imagem */
+
 .scale_image {
     overflow: hidden;
 }
@@ -46,12 +47,15 @@
     filter: grayscale(0);
 }
 
+
+/* doc */
 .push-left{
     animation: push-left 0.9s;
 }
 .animate-push-left{
     display: none!important;
 }
+
 
 @keyframes push-left {
     from{
@@ -62,3 +66,21 @@
         filter: blur(0);
     }
 }
+
+/* animacao de borda abrindo */
+.border_activate {
+    display: inline-block;
+}
+
+.border_activate:after {
+    display:block;
+    content: '';
+    border-bottom: 2px solid #b00000;
+    transform: scaleX(0); 
+    transition: all 600ms ease-in-out;
+}
+
+.border_activate:hover:after { transform: scaleX(1); }
+
+/* .border_activate.fromRight:after{ transform-origin: 100% 50%; }
+.border_activate.fromLeft:after{  transform-origin: 0% 50%; } */

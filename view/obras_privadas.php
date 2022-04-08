@@ -23,32 +23,48 @@
 							<div class="col-4 col-12-narrow text-center">
 								<h3> Os clientes</h3>
 								<div class="px-5">
-									<p>De norte a sul, leste a oeste, nossas obras cobrem exponenciais áreas. Chegando a incríveis totais de <strong>357,37 quilometros</strong> de áreas construídas quantificadas apenas na cidade de São Paulo, somos já a 12 maior empresa de engenharia do Brasil. </p>
+									<p>De norte a sul, leste a oeste, nossas obras cobrem exponenciais áreas. Chegando a incríveis totais de <strong>357,37 quilometros</strong> de áreas construídas quantificadas apenas na cidade de São Paulo. Somos já a 12 maior empresa de engenharia do Brasil. </p>
 									<p>Lectus ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia
 									accumsan vivamus augue cubilia vivamus nisi eu eget ornare varius gravida dolore
 									euismod lorem ipsum dolor.</p>
-									<footer>
-										<a href="#third" class="button scrolly">Accumsan nisi tempor</a>
-									</footer>
+									
 								</div>
 							</div>
-							<div class="col-8 col-12-narrow pb-5">
+							<div class="col-8 col-12-narrow">
+								
 								<div class="row">
-									<div class="col-4 col-sm-4 col-xs-12"><span class="image fit scale_image"><img class="grow_image2" src="../public/images/cc1.jpg" alt="" /></span></div>
-									<div class="col-4 col-sm-4 col-xs-12"><span class="image fit scale_image"><img class="grow_image2" src="../public/images/cc2.jpg" alt="" /></span></div>
-									<div class="col-4 col-sm-4 col-xs-12"><span class="image fit scale_image"><img class="grow_image2" src="../public/images/cc3.jpg" alt="" /></span></div>
+									<div class="col-4 col-6-narrow"><span class="image fit scale_image  border_activate"><img class="grow_image2" src="../public/images/cc1.jpg" alt="" /></span></div>
+									<div class="col-4 col-6-narrow"><span class="image fit scale_image border_activate"><img class="grow_image2" src="../public/images/cc2.jpg" alt="" /></span></div>
+									<div class="col-4 col-12-narrow"><span class="image fit scale_image border_activate"><img class="grow_image2" src="../public/images/cc3.jpg" alt="" /></span></div>
 								</div>
 								<div class="row">
-									<div class="col-4 col-sm-4 col-xs-12"><span class="image fit scale_image"><img class="grow_image2" src="../public/images/obras/privadas/pic04.jpg" alt="" /></span></div>
-									<div class="col-4 col-sm-4 col-xs-12"><span class="image fit scale_image"><img class="grow_image2" src="../public/images/obras/privadas/pic05.jpg" alt="" /></span></div>
-									<div class="col-4 col-sm-4 col-xs-12"><span class="image fit scale_image"><img class="grow_image2" src="../public/images/obras/privadas/pic06.jpg" alt="" /></span></div>
+									<div class="col-4 col-6-narrow"><span class="image fit scale_image border_activate"><img class="grow_image2" src="../public/images/obras/privadas/pic04.jpg" alt="" /></span></div>
+									<div class="col-4 col-6-narrow"><span class="image fit scale_image border_activate"><img class="grow_image2" src="../public/images/obras/privadas/pic05.jpg" alt="" /></span></div>
+									<div class="col-4 col-12-narrow"><span class="image fit scale_image border_activate"><img class="grow_image2" src="../public/images/obras/privadas/pic06.jpg" alt="" /></span></div>
+								</div>
+							</div>
+							<div class="col-12">
+								<div class="row">
+									<!-- delimitidator -->
+									<div class="col-12"><span class="image fit scale_image"><img class="grow_image2" src="../public/images/cc1.jpg" alt="" /></span></div>
+
+									<div class="col"><span class="image fit scale_image border_activate"><img class="grow_image2" src="../public/images/cc2.jpg" alt="" /></span></div>
+									<div class="col-4 col-12-narrow text-center">
+										<h1>Escavadeiras</h1>
+										<p>Maquinas criadas para melhor efetividade de movimento baseado em terrenos irregulares</p>
+										<p>Maquinas criadas para melhor efetividade de movimento baseado em terrenos irregulares</p>
+										<p>Maquinas criadas para melhor efetividade de movimento baseado em terrenos irregulares</p>
+									</div>
+									<div class="col"><span class="image fit scale_image border_activate"><img class="grow_image2" src="../public/images/cc3.jpg" alt="" /></span></div>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</section>
-
+			<section>
+				<!-- colocar as cidades em uma nova div-->
+			</section>
 		<!-- Footer -->
 			<?php include "../includes/footer.php"; ?>
 
