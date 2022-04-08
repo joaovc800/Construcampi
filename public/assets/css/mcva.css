@@ -1,5 +1,5 @@
-@import url("fontawesome-all.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
+@import url(fontawesome-all.min.css);
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,700,300i,600i,700i|Raleway:600,800");
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -3168,11 +3168,11 @@ input, select, textarea {
 
 /* Wrapper */
 
-	/* #wrapper {
+	#wrapper {
 		position: relative;
 		width: 100vw;
 		padding: 0 0 10rem 0;
-	} */
+	}
 
 		#wrapper:before {
 			background-attachment: fixed;
