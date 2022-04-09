@@ -2409,15 +2409,19 @@ input, select, textarea {
 }
 
 @media screen and (max-width: 1680px) {
-	/* wide */
-	
+	/* wide screen */
+	.adjust_row_3_x_3 {
+		padding: 0 10em 0 7em !important;
+	}
 }
 
 
 
-@media screen and (max-width: 1280px) {
-	/* Normal */
-	
+@media screen and (max-width: 1366px) {
+	/* notebooks */
+	.adjust_row_3_x_3 {
+		padding: 0 8em 0 5em !important;
+	}
 }
 
 
