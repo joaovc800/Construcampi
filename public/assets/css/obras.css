@@ -2408,26 +2408,47 @@ input, select, textarea {
 	}
 }
 
-@media screen and (max-width: 1680px) {
+@media screen and (max-width: 2400px) {
 	/* wide screen */
 	.adjust_row_3_x_3 {
-		padding: 0 10em 0 7em !important;
+		padding: 0 !important;
+	}
+	.adjust_text {
+		padding: 0 4em 0 3em !important;
+		font-size: 1.1em;
+		letter-spacing: 0.1em;
+		line-height: 1.8em;
 	}
 }
 
 
 
 @media screen and (max-width: 1366px) {
-	/* notebooks */
+	/* Laptops */
 	.adjust_row_3_x_3 {
-		padding: 0 8em 0 5em !important;
+		padding: 0 !important;
+	}
+	.adjust_text {
+		padding: 0 4em 0 3em !important;
+		font-size: 1em;
+		letter-spacing: 0.1em;
+		line-height: 1.7em;
 	}
 }
 
 
 @media screen and (max-width: 1000px) {
 	/* Narrow */
+	.adjust_row_3_x_3 {
+		padding: 0 !important;
+	}
 
+	.adjust_text {
+		padding: 0 4em 0 3em !important;
+		font-size: 0.8em;
+		letter-spacing: 0.1em;
+		line-height: 1.5em;
+	}
 }
 
 @media screen and (max-width: 736px) {
@@ -2435,6 +2456,7 @@ input, select, textarea {
 
 	.adjust_row {
 		padding: 0 !important;
+		margin: 0 1em 0 1em !important;
 	}
 	.adjust_text {
 		padding: 0 !important;
