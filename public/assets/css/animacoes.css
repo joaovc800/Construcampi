@@ -142,7 +142,7 @@
     visibility: hidden !important;
 }
 
-/* O lado direito tem problema de overflow e cria uma nav bar após chegar no alvo */
+/* O lado direito tem problema de overflow */
 .overflow_right {
     overflow: hidden;
     position: relative;
@@ -156,7 +156,7 @@
     visibility: hidden !important;
 }
 
-/* esquerda pra direita */
+/* esquerda para direita */
 @keyframes push_left_row {
     from{
         transform: translateX(-500px);
@@ -167,7 +167,7 @@
     }
 }
 
-/* direita pra esquerda */
+/* direita para esquerda */
 @keyframes push_right_row {
     from{
         transform: translateX(500px);

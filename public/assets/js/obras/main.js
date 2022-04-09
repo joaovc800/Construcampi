@@ -18,10 +18,10 @@ $(document).ready(function() {
         threshold: [0.25] // 25% da div tem que ser vista
     }
 
+    // Dava pra transformar esses 2 em uma função unica
     // Usado para checar se a pessa deu scroll próximo a div
     let observer_row1 = new IntersectionObserver( function(entries) {
         if(entries[0].isIntersecting === true) {
-            console.log('Element has just become visible in screen');
             row1.classList.add('push_right_row');
             row1.classList.remove('right_row_hidden');
         }
@@ -32,7 +32,6 @@ $(document).ready(function() {
 
     let observer_row2 = new IntersectionObserver( function(entries) {
         if(entries[0].isIntersecting === true) {
-            console.log('Element has just become visible in screen');
             row2.classList.add('push_left_row');
             row2.classList.remove('left_row_hidden');
         }
