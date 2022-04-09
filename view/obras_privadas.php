@@ -59,7 +59,7 @@
 											Loja Comercial
 										</div>
 									</div>
-									<div class="col-4 col-12-narrow text_container">
+									<div class="col-4 col-12-narrow text_container pb-5">
 										<span class="image fit scale_image border_activate adjust_img">
 											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/condominio.jpg" alt="condominio" />
 										</span>
@@ -86,7 +86,7 @@
 											Shopping Center
 										</div>
 									</div>
-									<div class="col-4 col-12-narrow text_container">
+									<div class="col-4 col-12-narrow text_container pb-5">
 										<span class="image fit scale_image border_activate adjust_img">
 											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/alto_padrao_1.jpg" alt="predio_alto_padrao" />
 										</span>
