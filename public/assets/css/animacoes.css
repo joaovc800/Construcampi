@@ -59,9 +59,12 @@
 .push-left{
     animation: push-left 0.9s;
 }
-.animate-push-left{
+
+.animate-push-left {
     display: none!important;
 }
+
+
 
 
 @keyframes push-left {
@@ -74,6 +77,7 @@
     }
 }
 
+/* Animações utilizadas na obras */
 /* animacao de borda abrindo */
 .border_activate {
     display: inline-block;
@@ -104,6 +108,7 @@
     animation-delay: 0s;
     
 }
+
 .hidden_text {
     position: absolute;
     left: -200px;
@@ -127,7 +132,48 @@
     animation-delay: 0s;    
 } */
 
+/* variante push left para não ter conflitos */
 
+.push_left_row {
+    animation: push_left_row 0.9s;
+}
 
+.left_row_hidden {
+    visibility: hidden !important;
+}
 
+/* O lado direito tem problema de overflow e cria uma nav bar após chegar no alvo */
+.overflow_right {
+    overflow: hidden;
+    position: relative;
+}
 
+.push_right_row {
+    animation: push_right_row 0.9s;
+}
+
+.right_row_hidden {
+    visibility: hidden !important;
+}
+
+/* esquerda pra direita */
+@keyframes push_left_row {
+    from{
+        transform: translateX(-500px);
+        filter: blur(35px);
+    }to{
+        transform: translateX(0px);
+        filter: blur(0);
+    }
+}
+
+/* direita pra esquerda */
+@keyframes push_right_row {
+    from{
+        transform: translateX(500px);
+        filter: blur(35px);
+    }to{
+        transform: translateX(0px);
+        filter: blur(0);
+    }
+}
