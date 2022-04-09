@@ -3950,11 +3950,6 @@ a{
     width: 10px;
   }
   
-  /* Track */
-  ::-webkit-scrollbar-track {
-    box-shadow: inset 0 0 5px grey; 
-  }
-  
   /* Handle */
   ::-webkit-scrollbar-thumb {
     background: linear-gradient(45deg,#ae8625,#f7e7ba,#d2ac47,#edc967)!important;
