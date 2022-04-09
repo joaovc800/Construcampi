@@ -73,7 +73,8 @@
 							<h2>Introdução
 							<br />
 							Sobre a empresa</h2>
-							<p>texto descritivo.</p>
+							<p>A CONSTRUCAMPI engenharia vem construindo sonhos em projetos de vida a mais de 30 anos.<br> 
+								Fundada em 1983, temos total prezar pela nossa tradição de melhor qualidade a tudo que é mais importante a você, para assim termos a satisfação de entregar alto padrão e luxo que condiz a sua proeminência.  </p>
 						</header>
 						<!-- Da pra perceber um offset estranho ao selecionar o icone, isso é por causa da div Não ter o translate, o translate esta criando aquele efeito de ampliar -->
 						
