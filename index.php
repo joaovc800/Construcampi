@@ -34,19 +34,19 @@
 									<a href="view/obras_privadas.php" style="display: block;">Obras privadas</a>
 								</li>
 								<li style="white-space: nowrap;">
-									<a href="view/contact.php" style="display: block;">Obras públicas</a>
+									<a href="view/obras_publicas.php" style="display: block;">Obras públicas</a>
 								</li>
 								<li style="white-space: nowrap;">
-									<a href="view/contact.php" style="display: block;">Galpões e estruturas metálicas</a>
+									<a href="view/obras_galpao.php" style="display: block;">Galpões e estruturas metálicas</a>
 								</li>
 								<li style="white-space: nowrap;">
-									<a href="view/contact.php" style="display: block;">Reformas em geral</a>
+									<a href="view/obras_reforma.php" style="display: block;">Reformas em geral</a>
 								</li>
 								<li style="white-space: nowrap;">
-									<a href="view/contact.php" style="display: block;">Casas Pré-Fabricadas</a>
+									<a href="view/obras_casas.php" style="display: block;">Casas Pré-Fabricadas</a>
 								</li>
 								<li style="white-space: nowrap;">
-									<a href="view/contact.php" style="display: block;">Pavimentações asfálticas</a>
+									<a href="view/obras_pavimentacao.php" style="display: block;">Pavimentações asfálticas</a>
 								</li>
 							</ul>
 						</li>
@@ -74,7 +74,7 @@
 							<br />
 							Sobre a empresa</h2>
 							<p>A CONSTRUCAMPI engenharia vem construindo sonhos em projetos de vida a mais de 30 anos.<br></p> 
-							 	<p class="no_style px-5 mx-5">Fundada em 1983, temos total prezar pela nossa tradição de melhor qualidade a tudo que é mais importante a você, para assim termos a satisfação de entregar alto padrão e luxo que condiz a sua proeminência.</p> 
+							 	<p class="no_style px-5 mx-5">Fundada em 1983, temos total prezar pela nossa tradição de melhor qualidade a tudo que é mais importante a você, para assim termos a satisfação de entregar alto padrão e luxo que condiz a demanda de nossos clientes.</p> 
 						</header>
 						<!-- Da pra perceber um offset estranho ao selecionar o icone, isso é por causa da div Não ter o translate, o translate esta criando aquele efeito de ampliar -->
 						
