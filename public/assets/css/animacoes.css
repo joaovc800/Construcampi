@@ -96,6 +96,7 @@
 }
 
 /* Animacao texto abaixo, origem esquerda */
+
 .text_container {
     position: relative;
     overflow: hidden;
@@ -106,7 +107,6 @@
     -webkit-animation-delay: 0s;
     animation: slide-forward 0.8s forwards;
     animation-delay: 0s;
-    
 }
 
 .hidden_text {
@@ -135,11 +135,17 @@
 /* variante push left para não ter conflitos */
 
 .push_left_row {
-    animation: push_left_row 0.9s;
+    /* animation: push_left_row 0.9s; */
+    transition:all 1s ease;
+    transform: translate3d(0x, 0, 0);
+    -webkit-transform: translate3d(0px, 0, 0);
 }
 
 .left_row_hidden {
     visibility: hidden !important;
+    transform: translate3d(-500px, 0, 0);
+    -webkit-transform: translate3d(-500px, 0, 0);
+    filter: blur(35px);
 }
 
 /* O lado direito tem problema de overflow */
@@ -148,32 +154,18 @@
     position: relative;
 }
 
-.push_right_row {
-    animation: push_right_row 0.9s;
-}
-
-.right_row_hidden {
-    visibility: hidden !important;
-}
-
 /* esquerda para direita */
-@keyframes push_left_row {
-    from{
-        transform: translateX(-500px);
-        filter: blur(35px);
-    }to{
-        transform: translateX(0px);
-        filter: blur(0);
-    }
+.push_right_row {
+    transition:all 1s ease;
+    transform: translate3d(0x, 0, 0);
+    -webkit-transform: translate3d(0px, 0, 0);
 }
 
 /* direita para esquerda */
-@keyframes push_right_row {
-    from{
-        transform: translateX(500px);
-        filter: blur(35px);
-    }to{
-        transform: translateX(0px);
-        filter: blur(0);
-    }
+.right_row_hidden {
+    visibility: hidden !important;
+    transform: translate3d(500px, 0, 0);
+    -webkit-transform: translate3d(500px, 0, 0);
+    filter: blur(35px);
 }
+
