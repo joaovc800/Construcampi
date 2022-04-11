@@ -1,16 +1,7 @@
-// Criar toggle depois
-// $(document).ready(function() {
-//     $("#hover_active").hover(function(){
-//         $("#hover_target").toggleClass("hidden_text","hover");
-//         console.log("toggled")
-//     })
-// });
-
-
 // Helpers para as animações de slide in
 $(document).ready(function() {
-    const row1 = document.getElementById("row_animate_1");
-    const row2 = document.getElementById("row_animate_2");
+    const row1 = document.getElementById("row_animate_1"); // privadas
+    const row2 = document.getElementById("row_animate_2"); // privadas
 
     // Opções para o observer que checa se a pessoa esta perto da div
     let options = {

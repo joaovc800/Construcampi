@@ -15,7 +15,7 @@
 			<section id="second" class="main pb-5">
 				<header class="imagem_com_texto">
 					<h2>Obras Privadas</h2>
-					<p>Concepção de estilo esboçada por nossa cultura de engenharia</p>
+					<p>Concepção de estilo esboçada por nossa cultura de engenharia na area privada</p>
 				</header>
 				<div class="content dark style2">
 					<div class="container-fluid adjust">
@@ -108,7 +108,7 @@
 
 		<!-- Scripts -->
 		<?php include "../includes/scripts_imports.php"; ?>
-		<script src="../public/assets/js/obras/main.js"></script>
+		<script src="../public/assets/js/obras/privadas.js"></script>
 
 	</body>
 </html>

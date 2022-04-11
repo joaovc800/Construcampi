@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Obras Privadas</title>
+		<title>Obras Publicas</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../public/assets/css/obras.css" />
@@ -14,19 +14,19 @@
 		<!-- Main -->
 			<section id="second" class="main pb-5">
 				<header class="imagem_com_texto">
-					<h2>Obras Privadas</h2>
-					<p>Concepção de estilo esboçada por nossa cultura de engenharia</p>
+					<h2>Obras Públicas</h2>
+					<p> Idelização de obras para com o povo de nossa nação </p>
 				</header>
 				<div class="content dark style2">
-					<div class="container-fluid">
+					<div class="container-fluid adjust">
 						<div class="row ml-5">
                             <div class="col-4 col-12-narrow text-center">
-                                <h3> Os clientes</h3>
+                                <h3> Visão e Projetos</h3>
                                 <div class="px-5">
-                                    <p>De norte a sul, leste a oeste, nossas obras cobrem exponenciais áreas. Chegando a incríveis totais de <strong>357,37 quilometros</strong> de áreas construídas quantificadas apenas na cidade de São Paulo. Somos já a 12 maior empresa de engenharia do Brasil. </p>
-                                    <p>Lectus ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia
-                                    accumsan vivamus augue cubilia vivamus nisi eu eget ornare varius gravida dolore
-                                    euismod lorem ipsum dolor.</p>
+                                    <p> Tendo em vista que anualmente o crescimento da população Brasileira está entre um aumento de 2% a 4% (2020-2022), nós da Constru Campi temos o dever e orgulho de construir as melhores obras públicas possíveis para a ampla gama populacional de nosso querido País.  </p>
+                                    <p> 
+										Temos também grande orgulho em fazer ativa parte no projeto governamental  <a href="./casa_verde_e_amarela.php">Casa Verde e Amarela</a>.
+									</p>
                                     
                                 </div>
                             </div>
@@ -49,10 +49,8 @@
 
 									<div class="col"><span class="image fit scale_image border_activate"><img class="grow_image2" src="../public/images/cc2.jpg" alt="" /></span></div>
 									<div class="col-4 col-12-narrow text-center">
-										<h1>Escavadeiras</h1>
-										<p>Maquinas criadas para melhor efetividade de movimento baseado em terrenos irregulares</p>
-										<p>Maquinas criadas para melhor efetividade de movimento baseado em terrenos irregulares</p>
-										<p>Maquinas criadas para melhor efetividade de movimento baseado em terrenos irregulares</p>
+										<h2>Variedade, estilo e luxo</h2>
+										<p>Nossas obras são das mais variadas proporções; desde pequenas propriedades para grandes prédios, como Hospitais e __sem_ideia__. </P>
 									</div>
 									<div class="col"><span class="image fit scale_image border_activate"><img class="grow_image2" src="../public/images/cc3.jpg" alt="" /></span></div>
 								</div>

@@ -20,7 +20,6 @@
 				<div class="content dark style2">
 					<div class="container-fluid adjust">
 						<div class="row ml-5 ">
-							<!-- Imagens (3x3) --> 
 							<div class="col-12 col-12-narrow overflow_right"> <!-- cuidado! a anim direita tem um overflow diferente do esquerdo, por isso necessita de overflow_right aqui -->
 								<div class="row adjust_row push-left">
 									<div class="col-6 col-12-narrow order-md-1 text_container text-center adjust_text">
