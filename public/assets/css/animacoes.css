@@ -69,8 +69,8 @@
 
 @keyframes push-left {
     from{
-        transform: translateX(-1000px);
-        filter: blur(35px);
+        transform: translateX(-600px);
+        filter: blur(25px);
     }to{
         transform: translateX(0px);
         filter: blur(0);
