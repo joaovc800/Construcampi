@@ -28,11 +28,11 @@
 			<!-- Section -->
 			<section id="first">
 				<header>
-					<h2>Magna sed nullam nisl adipiscing</h2>
+					<h2>Equipe</h2>
 				</header>
 				<div class="content">
-					<p><strong>Lorem ipsum dolor</strong> sit amet consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor amet fermentum. Nullam venenatis erat id vehicula ultrices sed ultricies condimentum. Magna sed etiam consequat, et lorem adipiscing sed nulla. Volutpat nisl et tempus et dolor libero, feugiat magna tempus, sed et lorem adipiscing.</p>
-					<span class="image main overf"><img class="grow_image"src="../public/images/mcva/pic02.jpg" alt="" /></span>
+					<p>Contamos com a <strong>MELHOR</strong> equipe de construção e desenvolvimento de obras, nossos profissionais são bem capacitados e sempre aptos ao nosso desenvolvimento diário em contruir e evoluir, buscando sempre a a satisfação do cliente em primeiro lugar.</p>
+					<span class="image main overf"><img class="grow_image2"src="../public/images/mcva/construct_job.jpg" alt="" /></span>
 				</div>
 			</section>
 
@@ -71,10 +71,10 @@
 							</header>
 							<div class="content">
 								<div class="gallery">
-									<a class="landscape overf"><img class="grow_image" src="../public/images/mcva/gallery/thumbs/01.jpg" alt="" /></a>
-									<a class="overf"><img class="grow_image" src="../public/images/mcva/gallery/thumbs/02.jpg" alt="" /></a>
-									<a class="overf"><img class="grow_image" src="../public/images/mcva/gallery/thumbs/03.jpg" alt="" /></a>
-									<a class="landscape overf"><img class="grow_image" src="../public/images/mcva/gallery/thumbs/04.jpg" alt="" /></a>
+									<a class="landscape overf"><img class="grow_image2" src="../public/images/mcva/gallery/thumbs/01.jpg" alt="" /></a>
+									<a class="overf"><img class="grow_image2" src="../public/images/mcva/gallery/thumbs/02.jpg" alt="" /></a>
+									<a class="overf"><img class="grow_image2" src="../public/images/mcva/gallery/thumbs/03.jpg" alt="" /></a>
+									<a class="landscape overf"><img class="grow_image2" src="../public/images/mcva/gallery/thumbs/04.jpg" alt="" /></a>
 								</div>
 							</div>
 						</section>
@@ -87,9 +87,9 @@
 							</header>
 							<div class="content">
 								<div class="gallery">
-									<a class="landscape overf"><img class="grow_image" src="../public/images/mcva/gallery/thumbs/05.jpg" alt="" /></a>
-									<a class="overf"><img class="grow_image" src="../public/images/mcva/gallery/thumbs/06.jpg" alt="" /></a>
-									<a class="overf"><img class="grow_image" src="../public/images/mcva/gallery/thumbs/07.jpg" alt="" /></a>
+									<a class="landscape overf"><img class="grow_image2" src="../public/images/mcva/gallery/thumbs/05.jpg" alt="" /></a>
+									<a class="overf"><img class="grow_image2" src="../public/images/mcva/gallery/thumbs/06.jpg" alt="" /></a>
+									<a class="overf"><img class="grow_image2" src="../public/images/mcva/gallery/thumbs/07.jpg" alt="" /></a>
 								</div>
 							</div>
 						</section>
@@ -102,9 +102,9 @@
 							</header>
 							<div class="content">
 								<div class="gallery">
-									<a class="portrait overf"><img class="grow_image" src="../public/images/mcva/gallery/thumbs/08.jpg" alt="" /></a>
-									<a class="portrait overf"><img class="grow_image" src="../public/images/mcva/gallery/thumbs/09.jpg" alt="" /></a>
-									<a class="landscape overf"><img class="grow_image" src="../public/images/mcva/gallery/thumbs/10.jpg" alt="" /></a>
+									<a class="portrait overf"><img class="grow_image2" src="../public/images/mcva/gallery/thumbs/08.jpg" alt="" /></a>
+									<a class="portrait overf"><img class="grow_image2" src="../public/images/mcva/gallery/thumbs/09.jpg" alt="" /></a>
+									<a class="landscape overf"><img class="grow_image2" src="../public/images/mcva/gallery/thumbs/10.jpg" alt="" /></a>
 								</div>
 							</div>
 						</section>
