@@ -50,7 +50,7 @@
 									<div class="col"><span class="image fit scale_image border_activate"><img class="grow_image2" src="../public/images/cc2.jpg" alt="" /></span></div>
 									<div class="col-4 col-12-narrow text-center">
 										<h2>Variedade, estilo e luxo</h2>
-										<p>Nossas obras são das mais variadas proporções; desde pequenas propriedades para grandes prédios, como Hospitais e __sem_ideia__. </P>
+										<p>Nossas obras são das mais variadas proporções; desde relativas pequenas obras ( <a href="./obras_pavimentacao.php">rodovias.</a> )  a grandes prédios com varios propósitos como hospitais, bibliotecas, forúms, prefeituras, faculdades e estações. </P>
 									</div>
 									<div class="col"><span class="image fit scale_image border_activate"><img class="grow_image2" src="../public/images/cc3.jpg" alt="" /></span></div>
 								</div>

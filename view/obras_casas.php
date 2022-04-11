@@ -49,12 +49,11 @@
 										</div>
 									</div>
 									<div class="col-4 col-12-narrow text_container text-center adjust_text">
-										<h3 class="pb-4"> Casas Modulares</h3>
+										<h3 class="pb-4"> Casas Pré-Fabricadas Modulares</h3>
 										<div>
-											<p>Em 1895 o grande construtor Charles Henry concebeu a São Paulo a incrível Estação luz e promoveu suas idealizações em prol da arquitetura moderna, e nós da Constru Campi temos a...<br> </p>
-											<p>Lectus ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia
-											accumsan vivamus augue cubilia vivamus nisi eu eget ornare varius gravida dolore
-											euismod lorem ipsum dolor.</p>
+											<p>Arquiteturas onde o cliente apenas paga pelo que sera utilizado, este é o propósito das casas pré-fabricadas da Constru Campi.<br> </p>
+											<p>Utilizando das práticas de engenharia modernas, trazemos luxo não apenas na área exterior mas também na área interior.</p>
+											<p>*Observação : Piscina e Jardim estão inclusas no plano, porém são pagas <a href="planos">aparte</a></p>
 										</div>
 									</div>
 									<div class="col-4 col-12-narrow text_container  pb-5 adjust_image">
