@@ -39,42 +39,43 @@
 			<!-- Section -->
 			<section>
 				<header>
-					<h2>Feugiat consequat tempus ultrices</h2>
+					<h2>Compentências</h2>
 				</header>
 				<div class="content">
-					<p><strong>Etiam tristique libero</strong> eu nibh porttitor amet fermentum. Nullam venenatis erat id vehicula ultrices sed ultricies condimentum.</p>
+					<p>Alto nível de <strong>COMPETÊNCIA</strong> com a melhor mão de obra à oferecer como:</p>
 					<ul class="feature-icons">
-						<li class="icon solid fa-laptop">Consequat tempus</li>
-						<li class="icon solid fa-bolt">Etiam adipiscing</li>
-						<li class="icon solid fa-signal">Libero nullam</li>
-						<li class="icon solid fa-cog">Blandit condimentum</li>
-						<li class="icon solid fa-map-marker-alt">Lorem ipsum dolor</li>
-						<li class="icon solid fa-code">Nibh amet venenatis</li>
+					
+						<li class="icon solid fa-wrench">Reformas</li>
+						<li class="icon solid fa-drafting-compass">Arquitetura</li>
+						<li class="icon solid fa-hard-hat">Segurança</li>
+						<li class="icon solid fa-tools">Ferramentas de ponta</li>
+						<li class="icon solid fa-pencil-ruler">Planejamento</li>
+						<li class="icon solid fa-building">Entrega impecável</li>
 					</ul>
-					<p>Vehicula ultrices sed ultricies condimentum. Magna sed etiam consequat, et lorem adipiscing sed nulla. Volutpat nisl et tempus et dolor libero, feugiat magna tempus, sed et lorem adipiscing.</p>
+					<p>Tudo que há de melhor sobre o programa casa verde e amarela, você encontra aqui.</p>
 				</div>
 			</section>
 
 			<!-- Section -->
 			<section>
 				<header>
-					<h2>Ultrices erat magna sed condimentum</h2>
+					<h2>Tipos de trabalhos</h2>
 				</header>
 				<div class="content">
-					<p><strong>Integer mollis egestas</strong> nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
+					<p>Fique a vontade para conhecer o tipo de <strong>TRABALHO</strong> que realizamos com a maior satisfação.</p>
 
 						<!-- Section -->
 						<section>
 							<header>
-								<h3>Erat aliquam</h3>
-								<p>Vehicula ultrices dolor amet ultricies et condimentum. Magna sed etiam consequat, et lorem adipiscing sed dolor sit amet, consectetur amet do eiusmod tempor incididunt  ipsum suspendisse ultrices gravida.</p>
+								<h3>Apartamentos</h3>
+								<p>Faixada de mais alto padrão, estrutura sólida e resistente para segurança de todos.</p>
 							</header>
 							<div class="content">
 								<div class="gallery">
-									<a class="landscape overf"><img class="grow_image2" src="../public/images/mcva/gallery/thumbs/01.jpg" alt="" /></a>
-									<a class="overf"><img class="grow_image2" src="../public/images/mcva/gallery/thumbs/02.jpg" alt="" /></a>
-									<a class="overf"><img class="grow_image2" src="../public/images/mcva/gallery/thumbs/03.jpg" alt="" /></a>
-									<a class="landscape overf"><img class="grow_image2" src="../public/images/mcva/gallery/thumbs/04.jpg" alt="" /></a>
+									<a class="landscape overf"><img class="grow_image2" src="../public/images/mcva/gallery/apartamento1.jpg" alt="apartamento1" /></a>
+									<a class="overf"><img class="grow_image2" src="../public/images/mcva/gallery/apartamento2.jpg" alt="" /></a>
+									<a class="overf"><img class="grow_image2" src="../public/images/mcva/gallery/apartamento3.jpg" alt="" /></a>
+									<a class="landscape overf"><img class="grow_image2" src="../public/images/mcva/gallery/construct1.jpg" alt="" /></a>
 								</div>
 							</div>
 						</section>
@@ -82,14 +83,14 @@
 						<!-- Section -->
 						<section>
 							<header>
-								<h3>Nisl consequat</h3>
-								<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam sed facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet mauris. Ut magna finibus nisi nec lacinia ipsum maximus.</p>
+								<h3>Casas</h3>
+								<p>Design e conforto e tudo que há de bom! as casas do nosso programa casa verde e amarela proporciona tudo isso e muito mais.</p>
 							</header>
 							<div class="content">
 								<div class="gallery">
-									<a class="landscape overf"><img class="grow_image2" src="../public/images/mcva/gallery/thumbs/05.jpg" alt="" /></a>
-									<a class="overf"><img class="grow_image2" src="../public/images/mcva/gallery/thumbs/06.jpg" alt="" /></a>
-									<a class="overf"><img class="grow_image2" src="../public/images/mcva/gallery/thumbs/07.jpg" alt="" /></a>
+									<a class="landscape overf"><img class="grow_image2" src="../public/images/mcva/gallery/casas3.jpg" alt="" /></a>
+									<a class="overf"><img class="grow_image2" src="../public/images/mcva/gallery/casas2.jpg" alt="" /></a>
+									<a class="overf"><img class="grow_image2" src="../public/images/mcva/gallery/casas4.jpg" alt="" /></a>
 								</div>
 							</div>
 						</section>
@@ -97,14 +98,14 @@
 						<!-- Section -->
 						<section>
 							<header>
-								<h3>Lorem gravida</h3>
-								<p>Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aenean ornare velit lacus, ac varius sed enim lorem ullamcorper dolore.  ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis.</p>
+								<h3>Áreas internas</h3>
+								<p>Nossas áreas internas são sofisticadas e bem estruturadas para melhor conduzir os espaços dentro da residência assim dando uma ampla capacidade.</p>
 							</header>
 							<div class="content">
 								<div class="gallery">
-									<a class="portrait overf"><img class="grow_image2" src="../public/images/mcva/gallery/thumbs/08.jpg" alt="" /></a>
-									<a class="portrait overf"><img class="grow_image2" src="../public/images/mcva/gallery/thumbs/09.jpg" alt="" /></a>
-									<a class="landscape overf"><img class="grow_image2" src="../public/images/mcva/gallery/thumbs/10.jpg" alt="" /></a>
+									<a class="portrait overf"><img class="grow_image2" src="../public/images/mcva/gallery/interno1.jpg" alt="" /></a>
+									<a class="portrait overf"><img class="grow_image2" src="../public/images/mcva/gallery/interno2.jpg" alt="" /></a>
+									<a class="landscape overf"><img class="grow_image2" src="../public/images/mcva/gallery/interno3.jpg" alt="" /></a>
 								</div>
 							</div>
 						</section>
@@ -115,13 +116,12 @@
 			<!-- Section -->
 			<section>
 				<header>
-					<h2>Duis sed adpiscing veroeros amet</h2>
+					<h2>Contato</h2>
 				</header>
 				<div class="content">
-					<p><strong>Proin tempus feugiat</strong> sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore.</p>
+					<p><strong>VENHA</strong> agora ser Construcampi! Dúvidas entre em contato com a nossa consutoria.</p>
 					<ul class="actions">
-						<li><a class="button primary large">Get Started</a></li>
-						<li><a class="button large">Learn More</a></li>
+						<li><a class="button primary large">Fale conosco</a></li>
 					</ul>
 				</div>
 			</section>
