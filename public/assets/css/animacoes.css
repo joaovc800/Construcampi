@@ -137,15 +137,18 @@
 .push_left_row {
     /* animation: push_left_row 0.9s; */
     transition:all 1s ease;
-    transform: translate3d(0x, 0, 0);
+    transform: translate3d(0px, 0, 0);
+    -ms-transform: translate3d(0px, 0, 0);
     -webkit-transform: translate3d(0px, 0, 0);
 }
 
 .left_row_hidden {
-    visibility: hidden !important;
+    visibility: hidden !important; 
     transform: translate3d(-500px, 0, 0);
+    -ms-transform: translate3d(-500px, 0, 0);
     -webkit-transform: translate3d(-500px, 0, 0);
     filter: blur(35px);
+    z-index: 1000;
 }
 
 /* O lado direito tem problema de overflow */
@@ -157,7 +160,8 @@
 /* esquerda para direita */
 .push_right_row {
     transition:all 1s ease;
-    transform: translate3d(0x, 0, 0);
+    transform: translate3d(0px, 0, 0);
+    -ms-transform: translate3d(0px, 0, 0);
     -webkit-transform: translate3d(0px, 0, 0);
 }
 
@@ -165,7 +169,52 @@
 .right_row_hidden {
     visibility: hidden !important;
     transform: translate3d(500px, 0, 0);
+    -ms-transform: translate3d(500px, 0, 0);
     -webkit-transform: translate3d(500px, 0, 0);
     filter: blur(35px);
+    z-index: 1000;
 }
 
+
+@media screen and (max-width:736px) { 
+
+    .push_left_row {
+        /* animation: push_left_row 0.9s; */
+        transition:all 1s ease;
+        transform: translate3d(0px, 0, 0);
+        -ms-transform: translate3d(0px, 0, 0);
+        -webkit-transform: translate3d(0px, 0, 0);
+    }
+    
+    .left_row_hidden {
+        visibility: hidden !important; 
+        transform: translate3d(-50px, 0, 0);
+        -ms-transform: translate3d(-50px, 0, 0);
+        -webkit-transform: translate3d(-50px, 0, 0);
+        filter: blur(35px);
+    }
+    
+    /* O lado direito tem problema de overflow */
+    .overflow_right {
+        overflow: hidden;
+        position: relative;
+    }
+    
+    /* esquerda para direita */
+    .push_right_row {
+        transition:all 1s ease;
+        transform: translate3d(0px, 0, 0);
+        -ms-transform: translate3d(0px, 0, 0);
+        -webkit-transform: translate3d(0px, 0, 0);
+    }
+    
+    /* direita para esquerda */
+    .right_row_hidden {
+        visibility: hidden !important;
+        transform: translate3d(50px, 0, 0);
+        -ms-transform: translate3d(50px, 0, 0);
+        -webkit-transform: translate3d(50px, 0, 0);
+        filter: blur(35px);
+    }
+    
+}
