@@ -36,7 +36,6 @@
 										<span class="scale_image adjust_img">
 											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/condominio.jpg" alt="condominio" />
 										</span>
-										
 									</div>
 								</div>
 								<!-- Texto cercado por imagens -->
@@ -101,7 +100,7 @@
 
 		<!-- Scripts -->
 		<?php include "../includes/scripts_imports.php"; ?>
-		<script src="../public/assets/js/obras/main.js"></script>
+		<script src="../public/assets/js/obras/casas.js"></script>
 
 	</body>
 </html>

@@ -107,7 +107,7 @@
 
 		<!-- Scripts -->
 		<?php include "../includes/scripts_imports.php"; ?>
-		<script src="../public/assets/js/obras/main.js"></script>
+		<script src="../public/assets/js/obras/reforma.js"></script>
 
 	</body>
 </html>
