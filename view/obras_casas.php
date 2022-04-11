@@ -24,17 +24,17 @@
 								<div id="row_animate_1" class="row right_row_hidden">
 									<div class="col-4 text_container col-6-narrow pb-5">
 										<span class="scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/predio_comercial_1.jpg" alt="predio_comercial" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/fabricadas/casas-1.jpg" alt="predio_comercial" />
 										</span>
 									</div>
 									<div class="col-4 text_container col-6-narrow">
 										<span class="scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/loja_comercial_1.jpg" alt="loja_comercial" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/fabricadas/casas-3.jpg" alt="loja_comercial" />
 										</span>
 									</div>
 									<div class="col-4 text_container col-12-narrow pb-5">
 										<span class="scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/condominio.jpg" alt="condominio" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/fabricadas/casas-2.jpg" alt="casas-1" />
 										</span>
 									</div>
 								</div>
@@ -42,7 +42,7 @@
 								<div class="row adjust_row push-left">
 									<div class="col-4 col-12-narrow text_container pb-5 adjust_image">
 										<span class="scale_image  border_activate">
-											<img class="grow_image2 img-fluid rounded mx-auto d-block" src="../public/images/obras/privadas/alto_padrao_2.jpg" alt="predio_alto_padrao" />
+											<img class="grow_image2 img-fluid rounded mx-auto d-block" src="../public/images/obras/fabricadas/casas-4.jpg" alt="predio_alto_padrao" />
 										</span>
 										<div class="hidden_text">
 											Prédio de Alto Padrão
@@ -58,7 +58,7 @@
 									</div>
 									<div class="col-4 col-12-narrow text_container  pb-5 adjust_image">
 										<span class="scale_image  border_activate">
-											<img class="grow_image2 img-fluid rounded mx-auto d-block" src="../public/images/obras/privadas/alto_padrao_2.jpg" alt="predio_alto_padrao" />
+											<img class="grow_image2 img-fluid rounded mx-auto d-block" src="../public/images/obras/fabricadas/casas-5.jpg" alt="predio_alto_padrao" />
 										</span>
 										<div class="hidden_text">
 											Prédio de Alto Padrão
@@ -69,19 +69,19 @@
 								<div id="row_animate_2" class="row left_row_hidden">
 									<div class="col-4 text_container col-6-narrow pb-5">
 										<span class="scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/shopping_center_1.jpg" alt="shopping_center" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/fabricadas/casas-6.jpg" alt="shopping_center" />
 										</span>
 										
 									</div>
 									<div class="col-4 text_container col-6-narrow">
 										<span class="scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/shopping_center_2.jpg" alt="shopping_center" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/fabricadas/casas-7.jpg" alt="shopping_center" />
 										</span>
 										
 									</div>
 									<div class="col-4 text_container col-12-narrow pb-5">
 										<span class="scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/alto_padrao_1.jpg" alt="predio_alto_padrao" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/fabricadas/casas-8.jpg" alt="predio_alto_padrao" />
 										</span>
 										
 									</div>

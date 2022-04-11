@@ -26,7 +26,7 @@
 								<div id="row_animate_1" class="row adjust_row_3_x_3 right_row_hidden">
 									<div class="col-3 col-12-narrow pb-5">
 										<span class="image fit scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/condominio.jpg" alt="condominio" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-1.jpg" alt="concreto-1" />
 										</span>
 										<div class="hidden_text">
 											Condomínio
@@ -34,7 +34,7 @@
 									</div>
 									<div class="col-3 col-12-narrow pb-5">
 										<span class="image fit scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/condominio.jpg" alt="condominio" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-2.jpg" alt="concreto-2" />
 										</span>
 										<div class="hidden_text">
 											Condomínio
@@ -42,7 +42,7 @@
 									</div>
 									<div class="col-3 col-12-narrow pb-5">
 										<span class="image fit scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/condominio.jpg" alt="condominio" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-3.jpg" alt="concreto-3" />
 										</span>
 										<div class="hidden_text">
 											Condomínio
@@ -50,7 +50,7 @@
 									</div>
 									<div class="col-3 col-12-narrow pb-5">
 										<span class="image fit scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/condominio.jpg" alt="condominio" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-4.jpg" alt="concreto-4" />
 										</span>
 										<div class="hidden_text">
 											Condomínio
@@ -72,7 +72,7 @@
 								<div id="row_animate_2" class="row adjust_row_3_x_3 left_row_hidden">
 								<div class="col-3 col-12-narrow pb-5">
 										<span class="image fit scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/alto_padrao_1.jpg" alt="predio_alto_padrao" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-5.jpg" alt="concreto" />
 										</span>
 										<div class="hidden_text">
 											Prédio de Alto Padrão
@@ -80,7 +80,7 @@
 									</div>
 									<div class="col-3 col-12-narrow pb-5">
 										<span class="image fit scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/alto_padrao_1.jpg" alt="predio_alto_padrao" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-6.jpg" alt="concreto" />
 										</span>
 										<div class="hidden_text">
 											Prédio de Alto Padrão
@@ -88,7 +88,7 @@
 									</div>
 									<div class="col-3 col-12-narrow pb-5">
 										<span class="image fit scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/alto_padrao_1.jpg" alt="predio_alto_padrao" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-7.jpg" alt="concreto" />
 										</span>
 										<div class="hidden_text">
 											Prédio de Alto Padrão
@@ -96,7 +96,7 @@
 									</div>
 									<div class="col-3 col-12-narrow pb-5">
 										<span class="image fit scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/alto_padrao_1.jpg" alt="predio_alto_padrao" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-8.jpg" alt="concreto" />
 										</span>
 										<div class="hidden_text">
 											Prédio de Alto Padrão
