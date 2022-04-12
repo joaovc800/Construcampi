@@ -8,6 +8,14 @@
 		<link rel="stylesheet" href="public/assets/bootstrap/css/bootstrap.min.css"/>
 		<link rel="stylesheet" href="public/assets/css/main.css" />
 		<link rel="stylesheet" href="public/assets/css/animacoes.css" />
+		<link rel="shortcut icon" href="public/images/shorticon.svg" />
+		<meta name="description" content="Venha conhecer a Construcampi, seu objetivo é o nosso principal compromisso e responsabilidade." />
+		<meta name="keywords" content="engenharia, projetos, construção, construindo">
+		<meta property="og:title" content="Construcampi" />
+		<meta property="og:description" content="Venha conhecer a construcampi" />
+		<meta property="og:image" content="public/images/cc1.jpg" /> 
+
+
 	</head>
 	<body class="landing is-preload">
 		<div id="page-wrapper" style="position:relative; display: block;">
