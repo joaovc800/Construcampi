@@ -7,6 +7,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../public/assets/css/obras.css" />
         <?php include "../includes/css_imports.php";?>
+		<meta name="keywords" content="obras,publicas,livrarias, museo, livraria,projeto governamental,hospital">
+		<meta property="og:description" content="Obras Privadas">
 	</head>
 	<body class="is-preload">
 		<!-- Header -->

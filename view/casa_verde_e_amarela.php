@@ -6,6 +6,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../public/assets/css/mcva.css" />
         <?php include "../includes/css_imports.php";?>
+		<meta name="keywords" content="casa, verde, amarela, minha casa, minha vida, programa">
+		<meta property="og:description" content="Programa casa verde e amarela">
 	</head>
 	<body class="is-preload">
 		<?php include "../includes/header.php"; ?>	
