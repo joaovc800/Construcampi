@@ -24,17 +24,17 @@
 								<div id="row_animate_1" class="row right_row_hidden">
 									<div class="col-4 text_container col-6-narrow pb-5">
 										<span class="scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/fabricadas/casas-1.jpg" alt="predio_comercial" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/fabricadas/casas-1.jpg" alt="casa_pre_fabricada" />
 										</span>
 									</div>
 									<div class="col-4 text_container col-6-narrow">
 										<span class="scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/fabricadas/casas-3.jpg" alt="loja_comercial" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/fabricadas/casas-3.jpg" alt="casa_pre_fabricada" />
 										</span>
 									</div>
 									<div class="col-4 text_container col-12-narrow pb-5">
 										<span class="scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/fabricadas/casas-2.jpg" alt="casas-1" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/fabricadas/casas-2.jpg" alt="casa_pre_fabricada" />
 										</span>
 									</div>
 								</div>
@@ -42,10 +42,10 @@
 								<div class="row adjust_row push-left">
 									<div class="col-4 col-12-narrow text_container pb-5 adjust_image">
 										<span class="scale_image  border_activate">
-											<img class="grow_image2 img-fluid rounded mx-auto d-block" src="../public/images/obras/fabricadas/casas-4.jpg" alt="predio_alto_padrao" />
+											<img class="grow_image2 img-fluid rounded mx-auto d-block" src="../public/images/obras/fabricadas/casas-4.jpg" alt="casa_pre_fabricada" />
 										</span>
 										<div class="hidden_text">
-											Prédio de Alto Padrão
+											Casa Pré-Fabricada (Exterior)
 										</div>
 									</div>
 									<div class="col-4 col-12-narrow text_container text-center adjust_text">
@@ -58,10 +58,10 @@
 									</div>
 									<div class="col-4 col-12-narrow text_container  pb-5 adjust_image">
 										<span class="scale_image  border_activate">
-											<img class="grow_image2 img-fluid rounded mx-auto d-block" src="../public/images/obras/fabricadas/casas-5.jpg" alt="predio_alto_padrao" />
+											<img class="grow_image2 img-fluid rounded mx-auto d-block" src="../public/images/obras/fabricadas/casas-5.jpg" alt="casa_pre_fabricada" />
 										</span>
 										<div class="hidden_text">
-											Prédio de Alto Padrão
+											Casa Pré-Fabricada (Interior)
 										</div>
 									</div>
 								</div>
@@ -69,19 +69,19 @@
 								<div id="row_animate_2" class="row left_row_hidden">
 									<div class="col-4 text_container col-6-narrow pb-5">
 										<span class="scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/fabricadas/casas-6.jpg" alt="shopping_center" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/fabricadas/casas-6.jpg" alt="casa_pre_fabricada" />
 										</span>
 										
 									</div>
 									<div class="col-4 text_container col-6-narrow">
 										<span class="scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/fabricadas/casas-7.jpg" alt="shopping_center" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/fabricadas/casas-7.jpg" alt="casa_pre_fabricada" />
 										</span>
 										
 									</div>
 									<div class="col-4 text_container col-12-narrow pb-5">
 										<span class="scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/fabricadas/casas-8.jpg" alt="predio_alto_padrao" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/fabricadas/casas-8.jpg" alt="casa_pre_fabricada" />
 										</span>
 										
 									</div>

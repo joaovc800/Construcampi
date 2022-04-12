@@ -23,9 +23,9 @@
 							<div class="col-12 col-12-narrow overflow_right"> <!-- cuidado! a anim direita tem um overflow diferente do esquerdo, por isso necessita de overflow_right aqui -->
 								<div class="row adjust_row push-left">
 									<div class="col-12 col-12-narrow order-md-1 text_container text-center adjust_text">
-										<h3 class="pb-4"> Os clientes</h3>
+										<h3 class="pb-4"> Grandes Produções</h3>
 										<div>
-											<p>De norte a sul, leste a oeste, nossas obras cobrem exponenciais áreas.<br> Chegando a incríveis totais de <strong>357,37 quilometros</strong> de áreas construídas quantificadas apenas na cidade de São Paulo, somos já a 12 maior empresa de engenharia do Brasil. </p>
+											<p>algo algo</p>
 											<p>Lectus ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia
 											accumsan vivamus augue cubilia vivamus nisi eu eget ornare varius gravida dolore
 											euismod lorem ipsum dolor.</p>
@@ -36,26 +36,26 @@
 								<div id="row_animate_1" class="row  right_row_hidden">
 									<div class="col-4 col-6-narrow text_container pb-5">
 										<span class="scale_image border_activate adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/reforma/reforma-2.jpg" alt="predio_comercial" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/reforma/reforma-2.jpg" alt="apartamento_reforma" />
 										</span>
 										<div class="hidden_text">
-											Predio Comercial
+											Apartamento em Reforma
 										</div>
 									</div>
 									<div class="col-4 col-6-narrow text_container">
 										<span class="scale_image border_activate adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/reforma/reforma-3.jpg" alt="loja_comercial" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/reforma/reforma-3.jpg" alt="predio_reforma" />
 										</span>
 										<div class="hidden_text">
-											Loja Comercial
+											Prédio em Reforma (Interior)
 										</div>
 									</div>
 									<div class="col-4 col-12-narrow text_container pb-5">
 										<span class="image fit scale_image border_activate adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/reforma/reforma-4.jpg" alt="condominio" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/reforma/reforma-4.jpg" alt="predio_reforma" />
 										</span>
 										<div class="hidden_text">
-											Condomínio
+											Prédio em Reforma (Interior)
 										</div>
 									</div>
 								</div>
@@ -63,26 +63,26 @@
 								<div id="row_animate_2" class="row  left_row_hidden">
 									<div class="col-4 col-6-narrow text_container pb-5">
 										<span class="scale_image border_activate adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/reforma/reforma-5.jpg" alt="shopping_center" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/reforma/reforma-5.jpg" alt="profissional_reforma" />
 										</span>
 										<div class="hidden_text">
-											Shopping Center
+											Prédio em Reforma (Profissional)
 										</div>
 									</div>
 									<div class="col-4 col-6-narrow text_container">
 										<span class="scale_image border_activate adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/reforma/reforma-6.jpg" alt="shopping_center" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/reforma/reforma-6.jpg" alt="predio_reforma" />
 										</span>
 										<div class="hidden_text">
-											Shopping Center
+											Prédio em Reforma (Estrutura)
 										</div>
 									</div>
 									<div class="col-4 col-12-narrow text_container pb-5">
 										<span class="image fit scale_image border_activate adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/reforma/reforma-1.jpg" alt="predio_alto_padrao" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/reforma/reforma-1.jpg" alt="predio_reforma" />
 										</span>
 										<div class="hidden_text">
-											Prédio de Alto Padrão
+											Prédio em Reforma
 										</div>
 									</div>
 								</div>

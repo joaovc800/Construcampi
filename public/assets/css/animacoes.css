@@ -109,10 +109,11 @@
     animation-delay: 0s;
 }
 
+/* CUIDADO QUE NO MOBILE É DIFERENTE */
 .hidden_text {
     position: absolute;
-    left: -200px;
-    width: 200px;
+    left: -400px;
+    width: 400px;
     height: 100px;
     text-align: center;
 }
@@ -177,6 +178,14 @@
 
 
 @media screen and (max-width:736px) { 
+
+    .hidden_text {
+        position: absolute;
+        left: -200px; 
+        width: 200px;
+        height: 100px;
+        text-align: center;
+    }
 
     .push_left_row {
         /* animation: push_left_row 0.9s; */

@@ -56,7 +56,7 @@
 											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/loja_comercial_1.jpg" alt="loja_comercial" />
 										</span>
 										<div class="hidden_text">
-											Loja Comercial
+											Loja Comercial (Restaurante)
 										</div>
 									</div>
 									<div class="col-4 col-12-narrow text_container pb-5">
@@ -83,7 +83,7 @@
 											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/shopping_center_2.jpg" alt="shopping_center" />
 										</span>
 										<div class="hidden_text">
-											Shopping Center
+											Shopping Center (Interior)
 										</div>
 									</div>
 									<div class="col-4 col-12-narrow text_container pb-5">
@@ -91,7 +91,7 @@
 											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/alto_padrao_1.jpg" alt="predio_alto_padrao" />
 										</span>
 										<div class="hidden_text">
-											Prédio de Alto Padrão
+											Prédio de Alto Padrão (Duplo)
 										</div>
 									</div>
 								</div>

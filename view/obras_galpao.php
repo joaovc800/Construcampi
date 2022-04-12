@@ -40,7 +40,7 @@
 											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/galpoes/galpao-1.jpg" alt="galpao" />
 										</span>
 										<div class="hidden_text">
-											Galpão
+											Galpão (Interior)
 										</div>
 									</div>
 									<div class="col-4 col-6-narrow text_container">
@@ -48,7 +48,7 @@
 											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/galpoes/galpao-2.jpg" alt="galpao" />
 										</span>
 										<div class="hidden_text">
-											Galpão
+											Galpão (Interior)
 										</div>
 									</div>
 									<div class="col-4 col-12-narrow text_container pb-5">
@@ -56,7 +56,7 @@
 											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/galpoes/galpao-3.jpg" alt="galpao" />
 										</span>
 										<div class="hidden_text">
-											Galpão
+											Galpão (Exterior)
 										</div>
 									</div>
 								</div>
@@ -64,10 +64,10 @@
 								<div id="row_animate_2" class="row right_row_hidden">
 									<div class="col-4 col-6-narrow text_container pb-5">
 										<span class="scale_image border_activate adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/galpoes/metal-1.jpg" alt="estrutura_metal" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/galpoes/metal-1.jpg" alt="estrutura_metalica" />
 										</span>
 										<div class="hidden_text">
-											Estrutura Metalica
+											Galpão (Exterior com Estrutura Metalica)
 										</div>
 									</div>
 									<div class="col-4 col-6-narrow text_container">
@@ -75,15 +75,15 @@
 											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/galpoes/galpao-4.jpg" alt="galpao" />
 										</span>
 										<div class="hidden_text">
-											Galpão
+											Galpão (Exterior)
 										</div>
 									</div>
 									<div class="col-4 col-12-narrow text_container pb-5">
 										<span class="image fit scale_image border_activate adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/galpoes/metal-2.jpg" alt="estrutura_metal" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/galpoes/metal-2.jpg" alt="estrutura_metalica" />
 										</span>
 										<div class="hidden_text">
-											Estrutura Metalica
+											Galpão (Interior com Estrutura Metalica)
 										</div>
 									</div>
 								</div>

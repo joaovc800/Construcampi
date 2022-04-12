@@ -26,35 +26,23 @@
 								<div id="row_animate_1" class="row adjust_row_3_x_3 right_row_hidden">
 									<div class="col-3 col-12-narrow pb-5">
 										<span class="image fit scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-1.jpg" alt="concreto-1" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-1.jpg" alt="construcao_asfalto" />
 										</span>
-										<div class="hidden_text">
-											Condomínio
-										</div>
 									</div>
 									<div class="col-3 col-12-narrow pb-5">
 										<span class="image fit scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-2.jpg" alt="concreto-2" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-5.jpg" alt="asfalto" />
 										</span>
-										<div class="hidden_text">
-											Condomínio
-										</div>
 									</div>
 									<div class="col-3 col-12-narrow pb-5">
 										<span class="image fit scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-3.jpg" alt="concreto-3" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-3.jpg" alt="asfalto" />
 										</span>
-										<div class="hidden_text">
-											Condomínio
-										</div>
 									</div>
 									<div class="col-3 col-12-narrow pb-5">
 										<span class="image fit scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-4.jpg" alt="concreto-4" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-2.jpg" alt="construcao_asfalto" />	
 										</span>
-										<div class="hidden_text">
-											Condomínio
-										</div>
 									</div>
 								</div>
 								<div class="row adjust_row_3_x_3">
@@ -72,35 +60,23 @@
 								<div id="row_animate_2" class="row adjust_row_3_x_3 left_row_hidden">
 								<div class="col-3 col-12-narrow pb-5">
 										<span class="image fit scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-5.jpg" alt="concreto" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-4.jpg" alt="asfalto" />
 										</span>
-										<div class="hidden_text">
-											Prédio de Alto Padrão
-										</div>
 									</div>
 									<div class="col-3 col-12-narrow pb-5">
 										<span class="image fit scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-6.jpg" alt="concreto" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-6.jpg" alt="asfalto" />
 										</span>
-										<div class="hidden_text">
-											Prédio de Alto Padrão
-										</div>
 									</div>
 									<div class="col-3 col-12-narrow pb-5">
 										<span class="image fit scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-7.jpg" alt="concreto" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-7.jpg" alt="asfalto" />
 										</span>
-										<div class="hidden_text">
-											Prédio de Alto Padrão
-										</div>
 									</div>
 									<div class="col-3 col-12-narrow pb-5">
 										<span class="image fit scale_image adjust_img">
-											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-8.jpg" alt="concreto" />
+											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/pavimentacao/concreto-8.jpg" alt="asfalto" />
 										</span>
-										<div class="hidden_text">
-											Prédio de Alto Padrão
-										</div>
 									</div>
 								</div>
 							</div>
