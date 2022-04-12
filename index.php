@@ -15,6 +15,7 @@
 		<meta property="og:description" content="Venha conhecer a Construcampi, seu objetivo é o nosso principal compromisso e responsabilidade.">
 		<meta name="description" content="Venha conhecer a Construcampi, seu objetivo é o nosso principal compromisso e responsabilidade.">
 		<meta property="og:image" content="public/images/cc1.jpg">
+		<meta property="og:image:type" content="image/jpg">
 		<!-- <meta property="og:image" itemprop="image" content="https://barbeariatikos.herokuapp.com/imgs/logo.jpeg"> -->
 		<meta property="og:image:width" content="300">
 		<meta property="og:image:height" content="300">
