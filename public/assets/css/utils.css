@@ -924,6 +924,9 @@ ol, ul {
     background: linear-gradient(45deg,#ae8625,#f7e7ba,#d2ac47,#edc967)!important;
   }
 
+.link_page:hover {
+    color: red;
+}
 /* Home modal video */
 
 /*.modal-fullscreen .modal-body {

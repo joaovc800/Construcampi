@@ -146,11 +146,11 @@ input, select, textarea {
 
 	.dark a {
 		color: #fff;
-		border-bottom-color: rgba(255, 255, 255, 0.5);
 	}
 
 		.dark a:hover {
-			border-bottom-color: rgba(255, 255, 255, 0);
+			border-bottom: 1px solid red;
+			border-bottom-color: red;
 		}
 
 	sub {

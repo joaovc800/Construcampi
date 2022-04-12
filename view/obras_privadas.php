@@ -28,9 +28,10 @@
 									<div class="col-6 col-12-narrow order-md-1 text_container text-center adjust_text">
 										<h3 class="pb-4"> Nosso legado</h3>
 										<div>
-											<p>De norte a sul, de leste a oeste, as obras da Constru Campi cobrem exponenciais áreas.<br> Chegando a incríveis totais de <strong>257,37 quilometros</strong> de áreas construídas quantificadas apenas na cidade de São Paulo, somos já a 12 maior empresa de engenharia do Brasil. </p>
-											<p>Este grande sucesso se da pelo nosso prezar com aos nossos clientes que buscam não apenas o produto final, mas a real experiência de total controle sobre as decisões e preferências do projeto.</p> <br>
-											<p></p>
+											<p>As obras privadas realizadas pela são de variados tipos: Prédios de Alto Padrão, Prédios comerciais, Lojas Comerciais, Condomínios  (Prédio ou Comunidade), Shopping centers e uma gama ilimitada de outras obras para apoiar qualquer proposta de nossos clientes.</p>
+											<p>De norte a sul, de leste a oeste, as obras da CONSTRUCAMPI cobrem exponenciais áreas.<br> Chegando a incríveis totais de <strong>257,37 quilometros</strong> de áreas construídas quantificadas apenas na cidade de São Paulo, somos já a 12 maior empresa de engenharia do Brasil. </p>
+											<p>Este grande sucesso se dá pelo nosso prezar com aos nossos clientes que buscam não apenas o produto final, mas a real experiência de total controle sobre as decisões e preferências do projeto.</p> <br>
+											<p><a href="./sobre" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
 										</div>
 									</div>
 									<div class="col-6 col-12-narrow order-md-2 text_container pb-5 adjust_image">

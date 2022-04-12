@@ -16,7 +16,7 @@
 		<!-- Main -->
 			<section id="second" class="main pb-5">
 				<header class="imagem_com_texto">
-					<h2>Galpões e estruturas metálicas</h2>
+					<h2>Galpões e Estruturas Metálicas</h2>
 					<p>Complexas estruturas feitas para segurabilidade de aplicação correspondente à necessidade do cliente</p>
 				</header>
 				<div class="content dark style2">
@@ -26,12 +26,9 @@
 								<!-- Row grande com o texto -->
 								<div class="row adjust_row push-left">
 									<div class="col-12 col-12-narrow order-md-1 text_container text-center adjust_text">
-										<h3 class="pb-4"> Os clientes</h3>
+										<h3 class="pb-4"> Metodos e Estruturas </h3>
 										<div>
-											<p>De norte a sul, leste a oeste, nossas obras cobrem exponenciais áreas.<br> Chegando a incríveis totais de <strong>357,37 quilometros</strong> de áreas construídas quantificadas apenas na cidade de São Paulo, somos já a 12 maior empresa de engenharia do Brasil. </p>
-											<p>Lectus ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia
-											accumsan vivamus augue cubilia vivamus nisi eu eget ornare varius gravida dolore
-											euismod lorem ipsum dolor.</p>
+										<p>O amplo mercado de engenharia clama por obras bem estruturadas e nos da CONSTRUCAMPI trazemos métodos inovativos como o <strong>Light Steel Frame</strong> (Liga estrutural de metal leve), <strong>Wood frame</strong> (estruturas de madeira) e <strong>Concreto pré-moldado</strong>.<br>Estes métodos nos trazem grandes vantagens para menores custos e maiores construções de galpões com maior segurança e melhor utilização do espaço, assim como também estruturas de alta qualidade e mais rápida construção.</p>
 										</div>
 									</div>
 								</div>

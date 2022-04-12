@@ -27,10 +27,13 @@
                             <div class="col-4 col-12-narrow text-center">
                                 <h3> Visão e Projetos</h3>
                                 <div class="px-5">
-                                    <p> Tendo em vista que anualmente o crescimento da população Brasileira está entre um aumento de 2% a 4% (2020-2022), nós da Constru Campi temos o dever e orgulho de construir as melhores obras públicas possíveis para a ampla gama populacional de nosso querido País.  </p>
-                                    <p> 
-										Temos também grande orgulho em fazer ativa parte no projeto governamental  <a href="./casa_verde_e_amarela.php">Casa Verde e Amarela</a>.
-									</p>   
+									<p> Tendo em vista que anualmente o crescimento da população Brasileira está entre um aumento de 2% a 3%, nós da CONSTRUCAMPI  temos o dever e orgulho de construir as melhores obras públicas possíveis para a ampla gama populacional de nosso querido País.  </p>
+                                    <p> Grandes obras requerem grandes habilidades, por esta causa a CONSTRUCAMPI conta com <strong>grandes engenheiros renomados</strong> quem tem anos de experiência em arquiteturas variando entre baixa e grande densidade, design de arquitetura baseadas em outras nações, visão de geolocalização para obras dedicadas e entre outras habilidades requisitadas em construções urbanas ou rurais.
+                                    <p> A CONSTRUCAMPI preza pelo bem do <strong>meio ambiente</strong>, por este motivo utilizamos das modernas formas de reutilização de material e redução em descartes desnecessários de entulho.</p>
+                                    <p>
+                                        Temos também grande orgulho em fazer ativa parte no projeto governamental  <a href="./casa_verde_e_amarela.php">Casa Verde e Amarela</a>.
+                                    </p>  
+									<p><a href="./sobre" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
                                 </div>
                             </div>
 							<div class="col-8 col-12-narrow">
@@ -77,9 +80,9 @@
 											Hospital
 										</div> -->
 									</div>
-									<div class="col-4 col-12-narrow text-center">
+									<div class="col-4 col-12-narrow text-center px-5">
 										<h2>Variedade, estilo e luxo</h2>
-										<p>Nossas obras são das mais variadas proporções; desde relativas pequenas obras ( <a href="./obras_pavimentacao.php">rodovias</a> )  a grandes prédios com varios propósitos como hospitais, bibliotecas, forúms, prefeituras, faculdades e estações. </P>
+										<p> Nossas obras publicas são das mais variadas proporções; desde relativas pequenas obras  (<a class="link_page" href="./obras_pavimentacao.php">rodovias</a>)  a grandes prédios com varios propósitos como hospitais e faculdades, outras obras seriam bibliotecas, forúms, prefeituras, e estações. (A CONSTRUCAMPI não é limitada apenas a estas obras descritas; entrar em <a class="link_page" href="./contatos">contato</a> para seu caso espefício) </P>
 									</div>
 									<div class="col pb-5">
 										<span class="image fit scale_image border_activate adjust_img">
@@ -94,9 +97,6 @@
 						</div>
 					</div>
 				</div>
-			</section>
-			<section>
-				<!-- colocar as cidades em uma nova div-->
 			</section>
 		<!-- Footer -->
 			<?php include "../includes/footer.php"; ?>
