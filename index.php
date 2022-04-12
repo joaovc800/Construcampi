@@ -14,11 +14,11 @@
 		<meta property="og:title" content="Construcampi">
 		<meta property="og:description" content="Venha conhecer a Construcampi, seu objetivo é o nosso principal compromisso e responsabilidade.">
 		<meta name="description" content="Construcampi, seu objetivo é o nosso principal compromisso e responsabilidade.">
-		<meta property="og:image" content="http://construcampi.herokuapp.com/public/images/cc1.jpg">
+		<meta property="og:image" content="public/images/Constru_Campi_logo.jpg">
 		<meta property="og:image:type" content="image/jpg">
-		<meta property="og:image" itemprop="image" content="http://construcampi.herokuapp.com/public/images/cc1.jpg">
-		<meta property="og:image:width" content="300">
-		<meta property="og:image:height" content="300">
+		<meta property="og:image" itemprop="image" content="public/images/Constru_Campi_logo.jpg">
+		<meta property="og:image:width" content="200">
+		<meta property="og:image:height" content="200">
 		<meta property="og:url" content="http://construcampi.herokuapp.com/">
 
 	</head>
