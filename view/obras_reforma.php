@@ -25,12 +25,12 @@
 							<div class="col-12 col-12-narrow overflow_right"> <!-- cuidado! a anim direita tem um overflow diferente do esquerdo, por isso necessita de overflow_right aqui -->
 								<div class="row adjust_row push-left">
 									<div class="col-12 col-12-narrow order-md-1 text_container text-center adjust_text">
-										<h3 class="pb-4"> Segurança e Grandes Produções</h3>
+										<h3 class="pb-4"> Missão e Segurança</h3>
 										<div>
-											<p>algo algo</p>
-											<p>Lectus ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia
-											accumsan vivamus augue cubilia vivamus nisi eu eget ornare varius gravida dolore
-											euismod lorem ipsum dolor.</p>
+											<p>As Reformas são importantes para qualquer obra e devem ser feitas com a <strong>maior segurança possível</strong>; um prédio que não recebe manutenção a anos pode já ter perdido toda a estabilidade proposta pelos criadores e é um fator de riscoo não apenas para as pessoas que transitam nele mas também aos edifícios ao redor.</p>
+											<p>Nós da CONSTRUCAMPI temos a missão de proporcionar não apenas a segurança mas também a total Reforma da obra em questão, sejá esta um prédio, uma via; edificios em geral.</p>
+											<p>Podemos proporcionar tudo isto com grandes profissionais, planejamento, segurança, e plano de descarte (para preservar o meio ambiente), seguindo todas as etapas necessárias para uma grande reforma.</p>
+											<p><a href="./sobre" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
 										</div>
 									</div>
 								</div>

@@ -49,12 +49,13 @@
 								</div>
 								<div class="row adjust_row_3_x_3">
 									<div class="col-12 col-12-narrow order-md-1 text-center adjust_text">
-										<h3 class="pb-4"> Mobilidade para maior produção</h3>
+										<h3 class="pb-4"> Valores e Mobilidade para maior produção</h3>
 										<div>
-											<p>Todos sabem que é necessario uma via sem burracos, por isso.. </p>
-											<p>Lectus ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia
-											accumsan vivamus augue cubilia vivamus nisi eu eget ornare varius gravida dolore
-											euismod lorem ipsum dolor.</p>
+										<p>A malha rodoviária do Brasil é extensa, em 2019 a extensão total chegava a <strong>75,8 mil</strong> quilômetros e apenas <strong>12,4% deste total</strong> são de rodovias pavimentadas. </p>
+                                            <p>Nós da CONSTRUCAMPI trazemos não só apenas soluções para esta deficiência, como também a total manutenção de rodovias previamente pavimentadas.</p>
+                                            <p>Outro grande problema que rodovias modernas encontram está no desgaste causado pela grande carga rodoviária e asfalto de baixa qualidade, este aos quais geram buracos e degradam a mobilidade causando acidentes e transtornos a população. </p>
+                                            <p>A CONSTRUCAMPI previne estes problemas trazendo segurança com asfalto de <strong>alta qualidade</strong>, utilizando de métodos eco-friendly (melhor ao meio ambiente) que não é apenas sustentável, como também abaixa os custos e aumenta a durabilidade e qualidade das vias.</p>
+											<p><a href="./sobre" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
 										</div>
 									</div>
 								</div>
