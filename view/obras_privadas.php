@@ -24,12 +24,11 @@
 							<div class="col-12 col-12-narrow overflow_right"> <!-- cuidado! a anim direita tem um overflow diferente do esquerdo, por isso necessita de overflow_right aqui -->
 								<div class="row adjust_row push-left">
 									<div class="col-6 col-12-narrow order-md-1 text_container text-center adjust_text">
-										<h3 class="pb-4"> Os clientes</h3>
+										<h3 class="pb-4"> Nosso legado</h3>
 										<div>
-											<p>De norte a sul, leste a oeste, nossas obras cobrem exponenciais áreas.<br> Chegando a incríveis totais de <strong>357,37 quilometros</strong> de áreas construídas quantificadas apenas na cidade de São Paulo, somos já a 12 maior empresa de engenharia do Brasil. </p>
-											<p>Lectus ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia
-											accumsan vivamus augue cubilia vivamus nisi eu eget ornare varius gravida dolore
-											euismod lorem ipsum dolor.</p>
+											<p>De norte a sul, de leste a oeste, as obras da Constru Campi cobrem exponenciais áreas.<br> Chegando a incríveis totais de <strong>257,37 quilometros</strong> de áreas construídas quantificadas apenas na cidade de São Paulo, somos já a 12 maior empresa de engenharia do Brasil. </p>
+											<p>Este grande sucesso se da pelo nosso prezar com aos nossos clientes que buscam não apenas o produto final, mas a real experiência de total controle sobre as decisões e preferências do projeto.</p> <br>
+											<p></p>
 										</div>
 									</div>
 									<div class="col-6 col-12-narrow order-md-2 text_container pb-5 adjust_image">
@@ -91,7 +90,7 @@
 											<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/alto_padrao_1.jpg" alt="predio_alto_padrao" />
 										</span>
 										<div class="hidden_text">
-											Prédio de Alto Padrão (Duplo)
+											Prédio de Alto Padrão (Estrutura Dupla)
 										</div>
 									</div>
 								</div>

@@ -23,7 +23,7 @@
 							<div class="col-12 col-12-narrow overflow_right"> <!-- cuidado! a anim direita tem um overflow diferente do esquerdo, por isso necessita de overflow_right aqui -->
 								<div class="row adjust_row push-left">
 									<div class="col-12 col-12-narrow order-md-1 text_container text-center adjust_text">
-										<h3 class="pb-4"> Grandes Produções</h3>
+										<h3 class="pb-4"> Segurança e Grandes Produções</h3>
 										<div>
 											<p>algo algo</p>
 											<p>Lectus ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia
