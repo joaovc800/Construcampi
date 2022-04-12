@@ -6,6 +6,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../public/assets/css/obras.css" />
         <?php include "../includes/css_imports.php";?>
+		<meta name="keywords" content="casas, pré-fabricadas, arquiteruras">
+		<meta property="og:description" content="Casas pré-fabricadas">
 	</head>
 	<body class="is-preload">
 		<!-- Header -->
