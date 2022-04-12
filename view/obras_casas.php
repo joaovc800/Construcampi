@@ -7,7 +7,7 @@
 		<link rel="stylesheet" href="../public/assets/css/obras.css" />
         <?php include "../includes/css_imports.php";?>
 		<meta name="keywords" content="casas, pré-fabricadas, arquiteruras">
-		<meta property="og:description" content="Casas pré-fabricadas">
+		<meta property="og:description" content="Casas pré-fabricadas, nada como a facilidade de ter sua casa de forma mais rápida">
 	</head>
 	<body class="is-preload">
 		<!-- Header -->

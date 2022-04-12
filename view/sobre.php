@@ -7,7 +7,7 @@
 		<link rel="stylesheet" href="../public/assets/css/sobre.css" />
         <?php include "../includes/css_imports.php";?>
 		<meta name="keywords" content="contrucampi,Construcampi,tragetória,CONSTRUCAMPI">
-		<meta property="og:description" content="Quem somos">
+		<meta property="og:description" content="Venha conhecer mais sobre quem somos, familia construcampi">
 	</head>
     <body class="landing is-preload">
 		<!-- Wrapper -->

@@ -7,7 +7,7 @@
 		<link rel="stylesheet" href="../public/assets/css/obras.css" />
         <?php include "../includes/css_imports.php";?>
 		<meta name="keywords" content="obras,privadas,alto padrão, shopping, center, prédio, prédios, comercial">
-		<meta property="og:description" content="Obras Privadas">
+		<meta property="og:description" content="Obras Privadas, tudo sobre as melhores obras da construcampi">
 	</head>
 	<body class="is-preload">
 		<!-- Header -->

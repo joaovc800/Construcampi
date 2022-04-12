@@ -8,7 +8,7 @@
 		<link rel="stylesheet" href="../public/assets/css/obras.css" />
         <?php include "../includes/css_imports.php";?>
 		<meta name="keywords" content="obras,publicas,livrarias, museo, livraria,projeto governamental,hospital">
-		<meta property="og:description" content="Obras Privadas">
+		<meta property="og:description" content="Obras públicas, conheça nossas obras públicas feitas com carinho">
 	</head>
 	<body class="is-preload">
 		<!-- Header -->

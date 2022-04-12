@@ -7,7 +7,7 @@
 		<link rel="stylesheet" href="../public/assets/css/obras.css" />
         <?php include "../includes/css_imports.php";?>
 		<meta name="keywords" content="galpões, estruturas, metálicas, estrutura metalica">
-		<meta property="og:description" content="Galpões e estruturas metálicas">
+		<meta property="og:description" content="Galpões e estruturas metálicas, de forma mais segura e de fácil acesso">
 	</head>
 	<body class="is-preload">
 		<!-- Header -->
