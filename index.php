@@ -82,9 +82,9 @@
 				<section id="main" class="container">
 					<!-- VIdeo -->
 					<section class="box special">
-						<header class="major mb-5">
-							<h3>A CONSTRUCAMPI engenharia vem construindo sonhos em projetos de vida a mais de 30 anos.<br></h3> 
-							<p class="no_style px-5 mx-5">Fundada em 1983, temos total prezar pela nossa tradição de melhor qualidade a tudo que é mais importante a você, para assim termos a satisfação de entregar alto padrão e luxo que condiz com a demanda de nossos clientes.</p> 	
+						<header class="major mb-3"> 
+							<p>Há mais de 30 anos projetando e tornando realidade os sonhos e projetos de vida de nossos clientes.
+							<br><br>Fundada em 1983, atualmente localizada no centro comercial de Alphaville, a ConstruCampi conta com tradição e confiabilidade de mercado, trabalhando incessantemente para trazer a melhor qualidade e eficiência no ramo da engenharia civil.</p> 	
 						</header>
 						<!-- Da pra perceber um offset estranho ao selecionar o icone, isso é por causa da div Não ter o translate, o translate esta criando aquele efeito de ampliar -->
 						
