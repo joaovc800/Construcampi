@@ -507,7 +507,7 @@ dl {
 
 #footer {
     background: #2b2823;
-    padding: 4em 0 6em 0;
+    padding: 3em 0 3em 0;
     text-align: center;
 }
 
@@ -548,6 +548,12 @@ dl {
     border-left: 0;
     margin-left: 0;
     padding-left: 0;
+}
+
+#footer ul li ul {
+    margin-top: 5px;
+    display: inline-flex!important;
+    text-align: center;
 }
 
 /* Abaixo sao as resposividades de tela */

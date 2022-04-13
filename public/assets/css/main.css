@@ -122,7 +122,6 @@
 		-webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-		border-bottom: dotted 1px;
 		color: #e89980;
 		text-decoration: none;
 	}
@@ -3256,8 +3255,14 @@
 
 	#footer {
 		background: #2b2823;
-		padding: 4em 0 6em 0;
+		padding: 3em 0 3em 0;
 		text-align: center;
+	}
+	#footer a{
+		text-decoration: none!important;
+	}
+	#footer h5{
+		font-size: 1.25rem!important;
 	}
 
 		#footer .icons a {
@@ -3297,6 +3302,11 @@
 					border-left: 0;
 					margin-left: 0;
 					padding-left: 0;
+				}
+				#footer ul li ul {
+					margin-top: 5px;
+					display: inline-flex!important;
+					text-align: center;
 				}
 
 /* CTA */
