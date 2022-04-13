@@ -8,7 +8,7 @@
 	<link rel="stylesheet" href="public/assets/bootstrap/css/bootstrap.min.css" />
 	<link rel="stylesheet" href="public/assets/css/main.css" />
 	<link rel="stylesheet" href="public/assets/css/animacoes.css" />
-	<link rel="shortcut icon" href="public/images/shorticon.svg" />
+	<link rel="shortcut icon" href="public/images/shorticon2.svg" />
 	<meta name="keywords" content="engenharia,arquitetura,projetos, construção, construindo,contrucampi,Construcampi,CONSTRUCAMPI">
 	<meta property="og:site_name" content="Construcampi">
 	<meta property="og:title" content="Construcampi">
