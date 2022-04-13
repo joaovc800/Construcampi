@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../public/assets/css/obras.css" />
         <?php include "../includes/css_imports.php";?>
-		<meta name="keywords" content="pavimentação, pavimentações, asfáltica,asfálticas">
+		<meta name="keywords" content="arquitetura,pavimentação, pavimentações, asfáltica,asfálticas">
 		<meta property="og:description" content="Pavimentações Asfálticas, nada como uma rua ou estrada sem buracos">
 	</head>
 	<body class="is-preload">

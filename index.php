@@ -9,7 +9,7 @@
 	<link rel="stylesheet" href="public/assets/css/main.css" />
 	<link rel="stylesheet" href="public/assets/css/animacoes.css" />
 	<link rel="shortcut icon" href="public/images/shorticon.svg" />
-	<meta name="keywords" content="engenharia, projetos, construção, construindo,contrucampi,Construcampi,CONSTRUCAMPI">
+	<meta name="keywords" content="engenharia,arquitetura,projetos, construção, construindo,contrucampi,Construcampi,CONSTRUCAMPI">
 	<meta property="og:site_name" content="Construcampi">
 	<meta property="og:title" content="Construcampi">
 	<meta property="og:description" content="Venha conhecer a Construcampi, seu objetivo é o nosso principal compromisso e responsabilidade.">
