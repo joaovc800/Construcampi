@@ -555,6 +555,18 @@ dl {
     display: inline-flex!important;
     text-align: center;
 }
+#footer h1, h2, h3, h4, h5, h6 {
+    color: #646464;
+    font-weight: 300;
+    line-height: 1em;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+#footer h5{
+    font-size: 1.25rem!important;
+}
 
 /* Abaixo sao as resposividades de tela */
 

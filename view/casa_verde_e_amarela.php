@@ -30,7 +30,7 @@
 			<!-- Section -->
 			<section id="first">
 				<header>
-					<h2>Equipe</h2>
+					<h2 class="text-light" class="text-light">Equipe</h2>
 				</header>
 				<div class="content">
 					<p>Contamos com a <strong>MELHOR</strong> equipe de construção e desenvolvimento de obras, nossos profissionais são bem capacitados e sempre aptos ao nosso desenvolvimento diário em contruir e evoluir, buscando sempre a a satisfação do cliente em primeiro lugar.</p>
@@ -41,7 +41,7 @@
 			<!-- Section -->
 			<section>
 				<header>
-					<h2>Compentências</h2>
+					<h2 class="text-light">Compentências</h2>
 				</header>
 				<div class="content">
 					<p>Alto nível de <strong>COMPETÊNCIA</strong> com a melhor mão de obra à oferecer como:</p>
@@ -61,7 +61,7 @@
 			<!-- Section -->
 			<section>
 				<header>
-					<h2>Tipos de trabalhos</h2>
+					<h2 class="text-light">Tipos de trabalhos</h2>
 				</header>
 				<div class="content">
 					<p>Fique a vontade para conhecer o tipo de <strong>TRABALHO</strong> que realizamos com a maior satisfação.</p>
@@ -69,7 +69,7 @@
 						<!-- Section -->
 						<section>
 							<header>
-								<h3>Apartamentos</h3>
+								<h3 class="text-light">Apartamentos</h3>
 								<p>Faixada de mais alto padrão, estrutura sólida e resistente para segurança de todos.</p>
 							</header>
 							<div class="content">
@@ -85,7 +85,7 @@
 						<!-- Section -->
 						<section>
 							<header>
-								<h3>Casas</h3>
+								<h3 class="text-light">Casas</h3>
 								<p>Design e conforto e tudo que há de bom! as casas do nosso programa casa verde e amarela proporciona tudo isso e muito mais.</p>
 							</header>
 							<div class="content">
@@ -100,7 +100,7 @@
 						<!-- Section -->
 						<section>
 							<header>
-								<h3>Áreas internas</h3>
+								<h3 class="text-light">Áreas internas</h3>
 								<p>Nossas áreas internas são sofisticadas e bem estruturadas para melhor conduzir os espaços dentro da residência assim dando uma ampla capacidade.</p>
 							</header>
 							<div class="content">
@@ -118,7 +118,7 @@
 			<!-- Section -->
 			<section>
 				<header>
-					<h2>Contato</h2>
+					<h2 class="text-light">Contato</h2>
 				</header>
 				<div class="content">
 					<p><strong>VENHA</strong> agora ser Construcampi! Dúvidas entre em contato com a nossa consutoria.</p>

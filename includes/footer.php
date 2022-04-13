@@ -5,9 +5,9 @@
                
                 <div class="mb-1">
                     <a class="navbar-brand" aria-label="Space">
-                        <h1 class="text-light">
+                        <h5 class="text-light">
                             CONSTRUC<span style="color:#f00">A</span>MPI
-                        </h1>
+                        </h5>
                     </a>
                 </div>
                

@@ -98,39 +98,6 @@ input, select, textarea {
 			transition: none !important;
 		}
 
-/* Typography */
-
-		@media screen and (max-width: 1920px) {
-
-			html {
-				font-size: 13pt;
-			}
-
-		}
-
-		@media screen and (max-width: 1152px) {
-
-			html {
-				font-size: 14pt;
-			}
-
-		}
-
-		@media screen and (max-width: 736px) {
-
-			html {
-				font-size: 12pt;
-			}
-
-		}
-
-		@media screen and (max-width: 480px) {
-
-			html {
-				font-size: 11pt;
-			}
-
-		}
 
 	body {
 		background-color: #ffffff;
@@ -153,7 +120,7 @@ input, select, textarea {
 		transition: border-bottom-color 0.25s ease-in-out;
 		text-decoration: none;
 		color: #000000;
-		border-bottom: dotted 1px;
+		
 	}
 
 		a:hover {
