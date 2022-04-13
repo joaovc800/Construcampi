@@ -2,6 +2,11 @@
     color: #dddddd;
 }
 
+.container header p {
+    color: #dddddd;
+    border-bottom: 1px solid #555555;
+}
+
 .box p {
     color: rgba(255, 255, 255, 0.65);
 }
