@@ -1,9 +1,4 @@
 <!DOCTYPE HTML>
-<!--
-	Construcampi
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
 	<head>
 		<title>Politica de Privacidade</title>
@@ -22,14 +17,14 @@
 			<!-- Main -->
 				<section id="main" class="container">
 					<header class="pt-5">
-						<h2>Política de Privacidade CONSTRUCAMPI</h2>
+						<h2>Política de Privacidade Construcampi</h2>
 						<p></p>
 					</header>
 					<div class="box">
-						<p>A sua privacidade é importante para nós. É política do CONSTRUCAMPI respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no site <a href=contru.com.br>CONSTRUCAMPI</a>, e outros sites que possuímos e operamos.</p> 
+						<p>A sua privacidade é importante para nós. É política do Construcampi respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no site <a href=contru.com.br>CONSTRUCAMPI</a>, e outros sites que possuímos e operamos.</p> 
 						<p>Solicitamos informações pessoais apenas quando realmente precisamos delas para lhe fornecer um serviço. Fazemo-lo por meios justos e legais, com o seu conhecimento e consentimento. Também informamos por que estamos coletando e como será usado. </p> 
 						<p>Apenas retemos as informações coletadas pelo tempo necessário para fornecer o serviço solicitado. Quando armazenamos dados, protegemos dentro de meios comercialmente aceitáveis ​​para evitar perdas e roubos, bem como acesso, divulgação, cópia, uso ou modificação não autorizados.</p> <p>Não compartilhamos informações de identificação pessoal publicamente ou com terceiros, exceto quando exigido por lei.</p> <p>O nosso site pode ter links para sites externos que não são operados por nós. Esteja ciente de que não temos controle sobre o conteúdo e práticas desses sites e não podemos aceitar responsabilidade por suas respectivas <a href='https://politicaprivacidade.com' target='_BLANK'>políticas de privacidade</a>. </p> 
-						<p>Você é livre para recusar a nossa solicitação de informações pessoais, entendendo que talvez não possamos fornecer alguns dos serviços desejados.</p> <p>O uso continuado de nosso site será considerado como aceitação de nossas práticas em torno de privacidade e informações pessoais. Se você tiver alguma dúvida sobre como lidamos com dados do usuário e informações pessoais, entre em contacto connosco.</p> <h2>Política de Cookies CONSTRUCAMPI</h2> <h3>O que são cookies?</h3> <p>Como é prática comum em quase todos os sites profissionais, este site usa cookies, que são pequenos arquivos baixados no seu computador, para melhorar sua experiência. Esta página descreve quais informações eles coletam, como as usamos e por que às vezes precisamos armazenar esses cookies. Também compartilharemos como você pode impedir que esses cookies sejam armazenados, no entanto, isso pode fazer o downgrade ou 'quebrar' certos elementos da funcionalidade do site.</p> 
+						<p>Você é livre para recusar a nossa solicitação de informações pessoais, entendendo que talvez não possamos fornecer alguns dos serviços desejados.</p> <p>O uso continuado de nosso site será considerado como aceitação de nossas práticas em torno de privacidade e informações pessoais. Se você tiver alguma dúvida sobre como lidamos com dados do usuário e informações pessoais, entre em contacto connosco.</p> <h2>Política de Cookies Construcampi</h2> <h3>O que são cookies?</h3> <p>Como é prática comum em quase todos os sites profissionais, este site usa cookies, que são pequenos arquivos baixados no seu computador, para melhorar sua experiência. Esta página descreve quais informações eles coletam, como as usamos e por que às vezes precisamos armazenar esses cookies. Também compartilharemos como você pode impedir que esses cookies sejam armazenados, no entanto, isso pode fazer o downgrade ou 'quebrar' certos elementos da funcionalidade do site.</p> 
 						<h3>Como usamos os cookies?</h3> 
 						<p>Utilizamos cookies por vários motivos, detalhados abaixo. Infelizmente, na maioria dos casos, não existem opções padrão do setor para desativar os cookies sem desativar completamente a funcionalidade e os recursos que eles adicionam a este site. É recomendável que você deixe todos os cookies se não tiver certeza se precisa ou não deles, caso sejam usados ​​para fornecer um serviço que você usa.</p> 
 						<h3>Desativar cookies</h3> 
@@ -55,11 +50,11 @@
 						</ul> 
 						<div class="numeral"> 
 							<h3>Compromisso do Usuário</h3> 
-							<p>O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o CONSTRUCAMPI oferece no site e com caráter enunciativo, mas não limitativo:</p> 
+							<p>O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o Construcampi oferece no site e com caráter enunciativo, mas não limitativo:</p> 
 								<ul> 
 									<li>Não se envolver em atividades que sejam ilegais ou contrárias à boa fé a à ordem pública;</li> 
 									<li>Não difundir propaganda ou conteúdo de natureza racista, xenofóbica, <a style='color: inherit !important; text-decoration:none !important;' href='https://ondeapostar.pt/onde-da-a-bola/'>Onde ver a Bola</a> ou azar, qualquer tipo de pornografia ilegal, de apologia ao terrorismo ou contra os direitos humanos;</li> 
-									<li>Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do CONSTRUCAMPI, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados.</li> 
+									<li>Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do Construcampi, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados.</li> 
 								</ul> 
 							<h3>Mais informações</h3> 
 							<p>Esperemos que esteja esclarecido e, como mencionado anteriormente, se houver algo que você não tem certeza se precisa ou não, geralmente é mais seguro deixar os cookies ativados, caso interaja com um dos recursos que você usa em nosso site.</p> 
