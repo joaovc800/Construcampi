@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-3">
-               
+
                 <div class="mb-1">
                     <a class="navbar-brand" aria-label="Space">
                         <h5 class="text-light">
@@ -10,7 +10,7 @@
                         </h5>
                     </a>
                 </div>
-               
+
                 <ul class="list-unstyled list-py-1 mb-0">
                     <li><a class="link-sm link-light">Copyright &copy 2022</a></li>
                     <li><a class="link-sm link-light">Todos os diretos reservados</a></li>
@@ -38,46 +38,46 @@
                 <h5 class="text-white mb-3">Obras</h5>
 
                 <ul class="list-unstyled list-py-1 mb-0">
-                    <li><a class="link-sm link-light" href="#">Obras privadas</a></li>
-                    <li><a class="link-sm link-light" href="#">Obras públicas</a></li>
-                    <li><a class="link-sm link-light" href="#">Galpões e estruturas metálicas</a></li>
-                    <li><a class="link-sm link-light" href="#">Reformas em geral</a></li>
-                    <li><a class="link-sm link-light" href="#">Casas pré-fabricadas</a></li>
-                    <li><a class="link-sm link-light" href="#">Pavimentações asfálticas</a></li>
+                    <li><a class="link-sm link-light" href="obras_privadas.php">Obras privadas</a></li>
+                    <li><a class="link-sm link-light" href="obras_publicas.php">Obras públicas</a></li>
+                    <li><a class="link-sm link-light" href="obras_galpao.php">Galpões e estruturas metálicas</a></li>
+                    <li><a class="link-sm link-light" href="obras_reforma.php">Reformas em geral</a></li>
+                    <li><a class="link-sm link-light" href="obras_casas.php">Casas pré-fabricadas</a></li>
+                    <li><a class="link-sm link-light" href="obras_pavimentacao.php">Pavimentações asfálticas</a></li>
                 </ul>
-                
+
             </div>
 
             <div class="col-sm mb-7 mb-sm-0">
                 <h5 class="text-white mb-3">A Construcampi</h5>
 
                 <ul class="list-unstyled list-py-1 mb-0">
-                    <li><a class="link-sm link-light" href="#">Quem somos</a></li>
-                    <li><a class="link-sm link-light" href="#">Políticas de privacidade</a></li>
+                    <li><a class="link-sm link-light" href="sobre.php">Quem somos</a></li>
+                    <li><a class="link-sm link-light" href="politicas_privacidade.php">Políticas de privacidade</a></li>
                 </ul>
-            
+
             </div>
 
             <div class="col-sm">
                 <h5 class="text-white mb-3">Parceiros</h5>
 
-               
+
                 <ul class="list-unstyled list-py-1 mb-0">
                     <li><a class="link-sm link-light" href="#">Parceirias públicas e privadas</a></li>
                 </ul>
-               
+
             </div>
 
             <div class="col-sm">
                 <h5 class="text-white mb-3">Programas</h5>
 
                 <ul class="list-unstyled list-py-1 mb-5">
-                    <li><a class="link-sm link-light" href="#">Casa verde e amarela</a></li>
+                    <li><a class="link-sm link-light" href="casa_verde_e_amarela.php">Casa verde e amarela</a></li>
 
                 </ul>
-                
+
             </div>
-            
+
         </div>
 
     </div>
