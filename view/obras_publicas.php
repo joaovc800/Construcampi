@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<!-- Legendas desativadas por bug no css -->
-		<title>Obras Publica</title>
+		<title>Obras Publicas</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../public/assets/css/obras.css" />
