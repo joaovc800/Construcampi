@@ -53,7 +53,7 @@
 
                 <ul class="list-unstyled list-py-1 mb-0">
                     <li><a class="link-sm link-light" href="sobre.php">Quem somos</a></li>
-                    <li><a class="link-sm link-light" href="politicas_privacidade.php">Políticas de privacidade</a></li>
+                    <li><a class="link-sm link-light" href="politica_privacidade.php">Políticas de privacidade</a></li>
                 </ul>
 
             </div>
