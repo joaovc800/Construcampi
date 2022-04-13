@@ -1,9 +1,9 @@
-.container header{
-    color: #bbbbbb;
+.container header h2{
+    color: #dddddd;
 }
 
 .box p {
-    color: #999999;
+    color: rgba(255, 255, 255, 0.65);
 }
 
 .box a {
@@ -16,9 +16,28 @@
 }
 
 .box h2,h3,h4 {
-    color: #bbbbbb;
+    color: #dddddd;
 }
 
-.box li, ul {
-    color: #999999;
+.box li {
+    color: rgba(255, 255, 255, 0.65);
+}
+
+.box ul li::before {
+    list-style-type: circle;
+    content: "\2022";
+    color: red;
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+}
+
+.numeral ul {
+    list-style-type: upper-roman !important;
+    color: red;
+}
+
+.numeral ul li::before {
+   content: none;
 }
