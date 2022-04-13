@@ -87,17 +87,6 @@ input, select, textarea {
 		overflow-x: hidden;
 	}
 
-		/* body.is-preload *, body.is-preload *:before, body.is-preload *:after {
-			-moz-animation: none !important;
-			-webkit-animation: none !important;
-			-ms-animation: none !important;
-			animation: none !important;
-			-moz-transition: none !important;
-			-webkit-transition: none !important;
-			-ms-transition: none !important;
-			transition: none !important;
-		} */
-
 
 	body {
 		background-color: #ffffff;
@@ -3688,10 +3677,6 @@ input, select, textarea {
 		transition: opacity 1s ease;
 	}
 
-		/* body.is-preload #wrapper:before {
-			opacity: 0;
-		} */
-
 	#wrapper > section.intro {
 		transition: opacity 1s ease;
 		opacity: 1;
@@ -3705,17 +3690,6 @@ input, select, textarea {
 			transition: transform 1s ease;
 		}
 
-		/* body.is-preload #wrapper > section.intro {
-			opacity: 0;
-		} */
-
-			/* body.is-preload #wrapper > section.intro > header {
-				transform: translateY(1rem);
-			} */
-
-			/* body.is-preload #wrapper > section.intro > .content {
-				transform: translateY(-1rem);
-			} */
 
 		@media screen and (max-width: 1280px) {
 
@@ -3723,18 +3697,6 @@ input, select, textarea {
 				transition: transform 1s ease, opacity 1s ease;
 			}
 
-			/* body.is-preload #wrapper > section.intro > header {
-				transform: none;
-			} */
-
-				/* body.is-preload #wrapper > section.intro > header > * {
-					transform: translate(-0.5rem);
-					opacity: 0;
-				} */
-
-			/* body.is-preload #wrapper > section.intro > .content {
-				transform: none;
-			} */
 
 		}
 
