@@ -34,6 +34,9 @@
                         <li style="white-space: nowrap;">
                             <a href="../view/obras_pavimentacao.php" style="display: block;">Pavimentações asfálticas</a>
                         </li>
+                        <li style="white-space: nowrap;">
+                            <a href="../view/obras_pavimentacao.php" style="display: block;">Política de Privacidade</a>
+                        </li>
                     </ul>
                 </li>
                 <li style="white-space: nowrap;">

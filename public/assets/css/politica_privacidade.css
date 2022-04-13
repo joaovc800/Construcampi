@@ -1,0 +1,24 @@
+.container header{
+    color: #bbbbbb;
+}
+
+.box p {
+    color: #999999;
+}
+
+.box a {
+    color: #fff;
+}
+
+.box a:hover {
+    color: #f00;
+    border-bottom: 1px solid #f00;
+}
+
+.box h2,h3,h4 {
+    color: #bbbbbb;
+}
+
+.box li, ul {
+    color: #999999;
+}
