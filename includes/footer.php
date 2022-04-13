@@ -12,8 +12,8 @@
                 </div>
 
                 <ul class="list-unstyled list-py-1 mb-0">
-                    <li><a class="link-sm link-light">Copyright &copy 2022</a></li>
-                    <li><a class="link-sm link-light">Todos os diretos reservados</a></li>
+                    <li><span class="link-sm link-light">Copyright &copy 2022</span></li>
+					<li><span class="link-sm link-light">Todos os diretos reservados</span></li>
                     <li>
                         <ul class="list-unstyled">
                             <li><a href="#" class="link-sm link-light icon brands fa-twitter"><span
