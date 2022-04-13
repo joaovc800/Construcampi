@@ -567,6 +567,10 @@ dl {
     font-size: 1.25rem!important;
 }
 
+#footer a:hover{
+	color: #f56a6a!important;
+	border-bottom: 1px solid;
+}
 /* Abaixo sao as resposividades de tela */
 
 /* Wide */
