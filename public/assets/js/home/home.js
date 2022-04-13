@@ -26,13 +26,15 @@ $(function(){
     
     const modal = `
       <div class="modal-dialog modal-fullscreen">
-        <div class="modal-content" style="background-color:#222222; z-index:"20000;">
+        <div class="modal-content" style="background-color:#222222; z-index:30000;">
           <div class="modal-header" style="border-bottom:1px solid #ae9625">
             <h5 class="modal-title h4" id="exampleModalFullscreenLabel">CONSTRU</a>C<span style="color:#f00">A</span>MPI</h5>
             <button type="button" class="btn-close btn-close-white" onclick="exit_modal()" data-bs-dismiss="modal"></button>
           </div>
-          <div class="modal-body" id="modal-body" style="position:relative;">
-            
+          <div class="modal-body" id="modal-body" style="position:relative; overflow:hidden;">
+            <video preload="auto" autoplay loop style="position:absolute; left:0; right:0; width:100%; transform: translateY(-10em);">
+              <source src="./public/videos/video_site_completo.mp4">
+            </video>
           </div>
           
           <div class="modal-footer" style="border-top:1px solid #ae9625; justify-content:space-between;">
@@ -43,31 +45,7 @@ $(function(){
     </div>
     `
     document.getElementById("div_modal_video").innerHTML = modal;
-    // Depois criar outra funcao dentro da query para apenas calcular e uma para setar, esta de calc sendo inserida na de setar
-    // Basicamente estamos fazendo o calculo do CSS aqui (100%) para criar um zoom.
-    function getAbsoluteHeight() {
-      const element = document.getElementById('modal-body');
-      const elementPlayer = document.getElementById('frame1');
-
-      let elHeight = $(element).height();
-      let elWidth = $(element).width();
-
-      elementPlayer.style.width = `${elWidth + 30}px`; // + 30 é a margin
-      elementPlayer.style.height = `${elHeight}px`;
-    }
-
     $("#div_modal_video").modal("show");  
-    $(window).resize(getAbsoluteHeight);
-
-    // isto é para ser limpado depois com as novas funcoes acimas
-    // Adicionar para rodar a primeira vez o width
-    const element = document.getElementById('modal-body');
-
-    let elHeight = $(element).height();
-    let elWidth = $(element).width();
-
-    element.innerHTML = `<iframe id="frame1" src="https://www.youtube.com/embed/LHw48W4Fcy4?rel=0?Version=3&showinfo=0&autoplay=1&loop=1" style="position:absolute;left:0;right:0;height:${elHeight}px;width:${elWidth + 30}px;"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
-    
   }
 
   // Criar elemento do modal
