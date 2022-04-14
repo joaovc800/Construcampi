@@ -185,9 +185,21 @@
 							<li><span class="link-sm link-light">Todos os diretos reservados</span></li>
 							<li>
 								<ul class="list-unstyled">
-									<li><a href="#" class="link-sm link-light icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-									<li><a href="#" class="link-sm link-light icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-									<li><a href="#" class="link-sm link-light icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+									<li>
+										<a href="https://twitter.com/construcampi" class="link-sm link-light icon brands fa-twitter"><span
+											class="label">Twitter</span>
+										</a>
+									</li>
+									<li>
+										<a href="https://www.facebook.com/Construcampi-109910015025142" class="link-sm link-light icon brands fa-facebook-f"><span
+											class="label">Facebook</span>
+										</a>
+									</li>
+									<li>
+										<a href="https://www.instagram.com/construcampi_oficial/" class="link-sm link-light icon brands fa-instagram"><span
+											class="label">Instagram</span>
+										</a>
+									</li>
 								</ul>
 							</li>
 						</ul>
