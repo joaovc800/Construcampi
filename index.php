@@ -184,9 +184,21 @@
 							<li><span class="link-sm link-light">Todos os diretos reservados</span></li>
 							<li>
 								<ul class="list-unstyled">
-									<li><a href="#" class="link-sm link-light icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-									<li><a href="#" class="link-sm link-light icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-									<li><a href="#" class="link-sm link-light icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+									<li>
+										<a href="https://twitter.com/construcampi" class="link-sm link-light icon brands fa-twitter"><span
+											class="label">Twitter</span>
+										</a>
+									</li>
+									<li>
+										<a href="https://www.facebook.com/Construcampi-109910015025142" class="link-sm link-light icon brands fa-facebook-f"><span
+											class="label">Facebook</span>
+										</a>
+									</li>
+									<li>
+										<a href="https://www.instagram.com/construcampi_oficial/" class="link-sm link-light icon brands fa-instagram"><span
+											class="label">Instagram</span>
+										</a>
+									</li>
 								</ul>
 							</li>
 						</ul>
@@ -213,7 +225,7 @@
 					<div class="col-sm">
 						<h5 class="text-white mb-3">Parceiros</h5>
 						<ul class="list-unstyled list-py-1 mb-0">
-							<li><a class="link-sm link-light" href="#">Parceirias públicas e privadas</a></li>
+							<li><a class="link-sm link-light" href="#">Parcerias públicas e privadas</a></li>
 						</ul>
 					</div>
 					<div class="col-sm">

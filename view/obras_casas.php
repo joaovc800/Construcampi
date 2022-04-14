@@ -56,9 +56,9 @@
 							<div class="col-4 col-12-narrow text_container text-center adjust_text">
 								<h3 class="pb-4"> Casas Pré-Fabricadas Modulares</h3>
 								<div>
-									<p>Arquiteturas onde o cliente apenas paga pelo que sera utilizado, este é o propósito das casas pré-fabricadas da Constru Campi.<br> </p>
+									<p>Arquiteturas onde o cliente apenas paga pelo que sera utilizado, este é o propósito das casas pré-fabricadas da Construcampi.<br> </p>
 									<p>Utilizando das práticas de engenharia moderna em pricipal a construção off-site (construção remota), trazemos luxo não apenas na área exterior mas também na área interior com pré-criação, esta a qual pode ser facilmente redesenhada para a expecificação de nossos clientes.</p>
-									<p><a href="./sobre" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
+									<p><a href="./contatos.php" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
 								</div>
 							</div>
 							<div class="col-4 col-12-narrow text_container  pb-5 adjust_image">

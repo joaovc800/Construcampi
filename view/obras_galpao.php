@@ -28,7 +28,7 @@
 									<div class="col-12 col-12-narrow order-md-1 text_container text-center adjust_text">
 										<h3 class="pb-4"> Metodos e Estruturas </h3>
 										<div>
-										<p>O amplo mercado de engenharia clama por obras bem estruturadas e nos da CONSTRUCAMPI trazemos métodos inovativos como o <strong>Light Steel Frame</strong> (Liga estrutural de metal leve), <strong>Wood frame</strong> (estruturas de madeira) e <strong>Concreto pré-moldado</strong>.<br>Estes métodos nos trazem grandes vantagens para menores custos e maiores construções de galpões com maior segurança e melhor utilização do espaço, assim como também estruturas de alta qualidade e mais rápida construção.</p>
+										<p>O amplo mercado de engenharia clama por obras bem estruturadas e nos da Construcampi trazemos métodos inovativos como o <strong>Light Steel Frame</strong> (Liga estrutural de metal leve), <strong>Wood frame</strong> (estruturas de madeira) e <strong>Concreto pré-moldado</strong>.<br>Estes métodos nos trazem grandes vantagens para menores custos e maiores construções de galpões com maior segurança e melhor utilização do espaço, assim como também estruturas de alta qualidade e mais rápida construção.</p>
 										<p><a href="./contatos.php" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
 										</div>
 									</div>
