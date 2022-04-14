@@ -31,9 +31,9 @@
 							<div class="col-6 col-12-narrow order-md-1 text_container text-center adjust_text">
 								<h3 class="pb-4"> Nosso legado</h3>
 								<div>
-									<p>A modernidade e elegância são conceitos que permeiam a arquitetura e urbanismo contemporâneos, por isso, nós da CONSTRUCAMPI possuímos uma equipe altamente capacitada, que visa trazer a excelência no que tange à beleza e qualidade de nossas construções.</p>
+									<p>A modernidade e elegância são conceitos que permeiam a arquitetura e urbanismo contemporâneos, por isso, nós da Construcampi possuímos uma equipe altamente capacitada, que visa trazer a excelência no que tange à beleza e qualidade de nossas construções.</p>
 
-									<p>Dentro de nosso hall de construções no setor privado, podemos destacar: Prédios de Alto Padrão, Prédios comerciais, Lojas Comerciais, Condomínios (Prédio ou Comunidade), Shopping centers e uma gama ilimitada de outras obras para apoiar qualquer proposta de nossos clientes. De norte a sul, de leste a oeste, as obras da CONSTRUCAMPI cobrem exponenciais áreas. Sendo assim, estamos sempre preparados para entregar as melhores construções dentro do ramo, trazendo conosco nossa cultura de qualidade e excelência, que figura nossa empresa entre as maiores construtoras do país.</p>
+									<p>Dentro de nosso hall de construções no setor privado, podemos destacar: Prédios de Alto Padrão, Prédios comerciais, Lojas Comerciais, Condomínios (Prédio ou Comunidade), Shopping centers e uma gama ilimitada de outras obras para apoiar qualquer proposta de nossos clientes. De norte a sul, de leste a oeste, as obras da Construcampi cobrem exponenciais áreas. Sendo assim, estamos sempre preparados para entregar as melhores construções dentro do ramo, trazendo conosco nossa cultura de qualidade e excelência, que figura nossa empresa entre as maiores construtoras do país.</p>
 
 									<p>Este sucesso se dá pelo nosso prezar com nossos clientes que encontram conosco não apenas resultados de excelência, mas também a experiência de uma empresa que está inteiramente comprometida em fazer da realização dos sonhos de seus clientes e parceiros sua principal prioridade e responsabilidade.</p>
 									

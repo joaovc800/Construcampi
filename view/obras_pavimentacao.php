@@ -52,9 +52,9 @@
 										<h3 class="pb-4"> Valores e Mobilidade para maior produção</h3>
 										<div>
 										<p>A malha rodoviária do Brasil é extensa, em 2019 a extensão total chegava a <strong>75,8 mil</strong> quilômetros e apenas <strong>12,4% deste total</strong> são de rodovias pavimentadas. </p>
-                                            <p>Nós da CONSTRUCAMPI trazemos não só apenas soluções para esta deficiência, como também a total manutenção de rodovias previamente pavimentadas.</p>
+                                            <p>Nós da Construcampi trazemos não só apenas soluções para esta deficiência, como também a total manutenção de rodovias previamente pavimentadas.</p>
                                             <p>Outro grande problema que rodovias modernas encontram está no desgaste causado pela grande carga rodoviária e asfalto de baixa qualidade, este aos quais geram buracos e degradam a mobilidade causando acidentes e transtornos a população. </p>
-                                            <p>A CONSTRUCAMPI previne estes problemas trazendo segurança com asfalto de <strong>alta qualidade</strong>, utilizando de métodos eco-friendly (melhor ao meio ambiente) que não é apenas sustentável, como também abaixa os custos e aumenta a durabilidade e qualidade das vias.</p>
+                                            <p>A Construcampi previne estes problemas trazendo segurança com asfalto de <strong>alta qualidade</strong>, utilizando de métodos eco-friendly (melhor ao meio ambiente) que não é apenas sustentável, como também abaixa os custos e aumenta a durabilidade e qualidade das vias.</p>
 											<p><a href="./contatos.php" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
 										</div>
 									</div>
