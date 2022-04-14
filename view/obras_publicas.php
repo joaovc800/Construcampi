@@ -35,10 +35,8 @@
 
 							<p>Tendo em vista que, anualmente, o crescimento da população brasileira figura um aumento de 2% a 3%, nós da CONSTRUCAMPI temos o dever e orgulho de construir as melhores obras públicas possíveis para a ampla gama populacional de nosso querido país, entre as principais modalidades de obras públicas com as quais trabalhamos, podemos destacar: <strong>Saúde</strong> (Hospitais, UBS’s, , Ambulatórios, Centros de Atenção Psicossocial); <strong>Educação</strong> (Creches, Escolas, Universidades, Institutos Educacionais); <strong>Infraestrutura de Transportes</strong> (Rodovias, Ferrovias, Pontes, Túneis, Aeroportos, Sistema Metroviário, Portos); <strong>Cultura e Lazer</strong> (Parques, Praças, Centros Esportivos, Bibliotecas, Museus).</p>
 
-							<p>Temos também grande orgulho em participar do projeto governamental Casa Verde e Amarela, antigo Minha Casa Minha Vida, programa habitacional que visa financiar moradias para pessoas com renda familiar bruta de até R$ 7.000 reais, no intuito de promover maior qualidade de vida e moradia aos cidadãos brasileiros.</p>
-							<p>
-								Temos também grande orgulho em fazer ativa parte no projeto governamental <a class="link_page" href="./casa_verde_e_amarela.php">Casa Verde e Amarela</a>.
-							</p>
+							<p>Temos também grande orgulho em participar do projeto governamental <a class="link_page" href="./casa_verde_e_amarela.php">Casa Verde e Amarela</a>, antigo Minha Casa Minha Vida, programa habitacional que visa financiar moradias para pessoas com renda familiar bruta de até R$ 7.000 reais, no intuito de promover maior qualidade de vida e moradia aos cidadãos brasileiros.</p>
+							
 							<p><a href="./contatos.php" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
 						</div>
 					</div>
