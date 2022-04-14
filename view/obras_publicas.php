@@ -29,13 +29,13 @@
 					<div class="col-12-narrow text-center">
 						<h3> Visão e Projetos</h3>
 						<div class="px-5">
-							<p>
-								Desde sua fundação em 1983, a CONSTRUCAMPI traz consigo o sentimento e a responsabilidade de realizar projetos que possam contribuir com a população do Brasil em geral. Foi alinhando estes preceitos a um amplo conhecimento jurídico do processo de licitações, que adentramos ao ramo das construções públicas.
-								<br>
-								Obras de tamanha importância e magnitude requerem grandes habilidades e o aporte necessário para que sejam realizadas com excelência e segurança, por isso, a CONSTRUCAMPI conta com uma ampla e capacitada equipe de engenheiros, arquitetos, juristas e técnicos do ramo da construção civil público, altamente renomados e com anos de experiência no mercado, fazendo com que, assim, nossa empresa seja sinônimo de qualidade e confiança.
-								Tendo em vista que, anualmente, o crescimento da população brasileira figura um aumento de 2% a 3%, nós da CONSTRUCAMPI temos o dever e orgulho de construir as melhores obras públicas possíveis para a ampla gama populacional de nosso querido país, entre as principais modalidades de obras públicas com as quais trabalhamos, podemos destacar: <strong>Saúde</strong> (Hospitais, UBS’s, , Ambulatórios, Centros de Atenção Psicossocial); <strong>Educação</strong> (Creches, Escolas, Universidades, Institutos Educacionais); <strong>Infraestrutura de Transportes</strong> (Rodovias, Ferrovias, Pontes, Túneis, Aeroportos, Sistema Metroviário, Portos); <strong>Cultura e Lazer</strong> (Parques, Praças, Centros Esportivos, Bibliotecas, Museus).
-								Temos também grande orgulho em participar do projeto governamental Casa Verde e Amarela, antigo Minha Casa Minha Vida, programa habitacional que visa financiar moradias para pessoas com renda familiar bruta de até R$ 7.000 reais, no intuito de promover maior qualidade de vida e moradia aos cidadãos brasileiros.
-							</p>
+							<p>Desde sua fundação em 1983, a CONSTRUCAMPI traz consigo o sentimento e a responsabilidade de realizar projetos que possam contribuir com a população do Brasil em geral. Foi alinhando estes preceitos a um amplo conhecimento jurídico do processo de licitações, que adentramos ao ramo das construções públicas.</p>
+
+							<p>Obras de tamanha importância e magnitude requerem grandes habilidades e o aporte necessário para que sejam realizadas com excelência e segurança, por isso, a CONSTRUCAMPI conta com uma ampla e capacitada equipe de engenheiros, arquitetos, juristas e técnicos do ramo da construção civil público, altamente renomados e com anos de experiência no mercado, fazendo com que, assim, nossa empresa seja sinônimo de qualidade e confiança.</p>
+
+							<p>Tendo em vista que, anualmente, o crescimento da população brasileira figura um aumento de 2% a 3%, nós da CONSTRUCAMPI temos o dever e orgulho de construir as melhores obras públicas possíveis para a ampla gama populacional de nosso querido país, entre as principais modalidades de obras públicas com as quais trabalhamos, podemos destacar: Saúde (Hospitais, UBS’s, , Ambulatórios, Centros de Atenção Psicossocial); Educação (Creches, Escolas, Universidades, Institutos Educacionais); Infraestrutura de Transportes (Rodovias, Ferrovias, Pontes, Túneis, Aeroportos, Sistema Metroviário, Portos); Cultura e Lazer (Parques, Praças, Centros Esportivos, Bibliotecas, Museus).</p>
+
+							<p>Temos também grande orgulho em participar do projeto governamental Casa Verde e Amarela, antigo Minha Casa Minha Vida, programa habitacional que visa financiar moradias para pessoas com renda familiar bruta de até R$ 7.000 reais, no intuito de promover maior qualidade de vida e moradia aos cidadãos brasileiros.</p>
 							<p>
 								Temos também grande orgulho em fazer ativa parte no projeto governamental <a class="link_page" href="./casa_verde_e_amarela.php">Casa Verde e Amarela</a>.
 							</p>
