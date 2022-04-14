@@ -135,7 +135,7 @@
 			<div class="row">
 				<div class="col-6 col-12-narrower">
 					<section class="box special">
-						<span class="image featured" style="overflow: hidden;"><img src="public/images/cc1.jpg" alt="" class="grow_image" /></span>
+						<span class="image featured" style="overflow: hidden;"><img src="public/images/cc1.jpg" class="grow_image" /></span>
 						<h3>Sed lorem adipiscing</h3>
 						<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim
 							rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
@@ -146,12 +146,11 @@
 				</div>
 				<div class="col-6 col-12-narrower">
 					<section class="box special">
-						<span class="image featured" style="overflow: hidden;"><img src="public/images/cc2.jpg" alt="" class="grow_image" /></span>
-						<h3>Accumsan integer</h3>
-						<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim
-							rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+						<span class="image featured" style="overflow: hidden;"><img src="public/images/cc2.jpg" class="grow_image" /></span>
+						<h3>Contatos</h3>
+						<p>Entre em contato conosco para conhecer mais sobre nossos serviços e programas governamentais, garantimos a total satisfação, será um prazer atende-lo.</p>
 						<ul class="actions special">
-							<li><a href="#" class="button alt">Learn More</a></li>
+							<li><a href="view/contatos.php" class="button alt">Entre em contato</a></li>
 						</ul>
 					</section>
 				</div>
