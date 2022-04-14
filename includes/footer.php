@@ -22,12 +22,6 @@
                                         class="label">Facebook</span></a></li>
                             <li><a href="#" class="link-sm link-light icon brands fa-instagram"><span
                                         class="label">Instagram</span></a></li>
-                            <li><a href="#" class="link-sm link-light icon brands fa-github"><span
-                                        class="label">Github</span></a></li>
-                            <li><a href="#" class="link-sm link-light icon brands fa-dribbble"><span
-                                        class="label">Dribbble</span></a></li>
-                            <li><a href="#" class="link-sm link-light icon brands fa-google-plus"><span
-                                        class="label">Google+</span></a></li>
                         </ul>
                     </li>
                 </ul>
