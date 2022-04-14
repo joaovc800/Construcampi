@@ -33,7 +33,7 @@
                                     <p>
                                         Temos também grande orgulho em fazer ativa parte no projeto governamental  <a href="./casa_verde_e_amarela.php">Casa Verde e Amarela</a>.
                                     </p>  
-									<p><a href="./sobre" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
+									<p><a href="./contatos.php" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
                                 </div>
                             </div>
 							<div class="col-8 col-12-narrow">

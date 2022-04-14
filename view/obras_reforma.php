@@ -30,7 +30,7 @@
 											<p>As Reformas são importantes para qualquer obra e devem ser feitas com a <strong>maior segurança possível</strong>; um prédio que não recebe manutenção a anos pode já ter perdido toda a estabilidade proposta pelos criadores e é um fator de riscoo não apenas para as pessoas que transitam nele mas também aos edifícios ao redor.</p>
 											<p>Nós da CONSTRUCAMPI temos a missão de proporcionar não apenas a segurança mas também a total Reforma da obra em questão, sejá esta um prédio, uma via; edificios em geral.</p>
 											<p>Podemos proporcionar tudo isto com grandes profissionais, planejamento, segurança, e plano de descarte (para preservar o meio ambiente), seguindo todas as etapas necessárias para uma grande reforma.</p>
-											<p><a href="./sobre" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
+											<p><a href="./contatos.php" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
 										</div>
 									</div>
 								</div>

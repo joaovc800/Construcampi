@@ -52,6 +52,7 @@
                 <h5 class="text-white mb-3">A Construcampi</h5>
 
                 <ul class="list-unstyled list-py-1 mb-0">
+                    <li><a class="link-sm link-light" href="contatos.php">Contatos</a></li>
                     <li><a class="link-sm link-light" href="sobre.php">Quem somos</a></li>
                     <li><a class="link-sm link-light" href="politica_privacidade.php">Políticas de privacidade</a></li>
                 </ul>

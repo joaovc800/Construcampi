@@ -55,7 +55,7 @@
                                             <p>Nós da CONSTRUCAMPI trazemos não só apenas soluções para esta deficiência, como também a total manutenção de rodovias previamente pavimentadas.</p>
                                             <p>Outro grande problema que rodovias modernas encontram está no desgaste causado pela grande carga rodoviária e asfalto de baixa qualidade, este aos quais geram buracos e degradam a mobilidade causando acidentes e transtornos a população. </p>
                                             <p>A CONSTRUCAMPI previne estes problemas trazendo segurança com asfalto de <strong>alta qualidade</strong>, utilizando de métodos eco-friendly (melhor ao meio ambiente) que não é apenas sustentável, como também abaixa os custos e aumenta a durabilidade e qualidade das vias.</p>
-											<p><a href="./sobre" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
+											<p><a href="./contatos.php" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
 										</div>
 									</div>
 								</div>
