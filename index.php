@@ -212,7 +212,7 @@
 					<div class="col-sm">
 						<h5 class="text-white mb-3">Parceiros</h5>
 						<ul class="list-unstyled list-py-1 mb-0">
-							<li><a class="link-sm link-light" href="#">Parceirias públicas e privadas</a></li>
+							<li><a class="link-sm link-light" href="#">Parcerias públicas e privadas</a></li>
 						</ul>
 					</div>
 					<div class="col-sm">
