@@ -21,7 +21,7 @@
 	<section id="second" class="main pb-5">
 		<header class="imagem_com_texto">
 			<h2>Obras Públicas</h2>
-			<p> Idelização de obras para com o povo de nossa nação </p>
+			<p> Idealização de obras para com o povo de nossa nação </p>
 		</header>
 		<div class="content dark style2">
 			<div class="container-fluid adjust">
