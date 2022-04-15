@@ -39,7 +39,7 @@
 						<a href="view/sobre.php">Quem somos</a>
 					</li>
 					<li style="white-space: nowrap;">
-						<a href="index.php">Parcerias publicas e privadas</a>
+						<a href="view/parcerias_publicas.php">Parcerias publicas e privadas</a>
 					</li>
 					<li class="opener" style="user-select: none; cursor: pointer; white-space: nowrap;">
 						<a href="#" class="icon solid fa-angle-down">Obras</a>

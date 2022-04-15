@@ -1,0 +1,91 @@
+/* Utilizado para o bg não ser tão pequeno em telas grandes */
+
+/* ajustar main container */
+.adjust {
+    min-height:85vh;
+    height: 100%; 
+    border-radius:1em;
+    background-color:#fff;
+}
+
+header {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    border-bottom: 1px solid #777;
+}
+
+.background {
+    background-color: #222;
+}
+ /* {
+    color: white;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285aeb 90%);
+    background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285aeb 90%);
+} */
+
+.icon:hover {
+    color: red;
+}
+.instagram_color {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285aeb 90%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.instagram_color:hover {
+    background: red;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Utilizado para dividir os constatos do iframe */
+.divide_div {
+    width:50%;
+}
+
+@media screen and (max-width: 2400px) {
+	/* wide screen */
+	
+}
+
+
+
+@media screen and (max-width: 1366px) {
+	/* Laptops */
+	
+}
+
+
+@media screen and (max-width: 1000px) {
+	/* Narrow */
+    h4 {
+        font-size: 1em;
+    }
+}
+
+@media screen and (max-width: 736px) {
+	/* mobile */
+    h4 {
+        font-size: 1.2em;
+    }
+
+    /* Utilizado para mandar para baixo as divs */
+    .wrap_div {
+        flex-wrap: wrap !important;
+    }
+
+    .divide_div {
+        width:auto !important;
+    }
+
+    .icon {
+        font-size: 2.2em;
+    }
+
+    .icon_title {
+        display: none;
+    }
+}
