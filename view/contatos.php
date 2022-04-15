@@ -26,7 +26,7 @@
 							</div>
 							<div class="column d-flex wrap_div justify-content-around align-content-cent px-md-5">
 								<div class="row divide_div pt-5">
-									<div class="column pt-2 p-3 p-md-0" style="color:#fff">
+									<div class="column pt-2 p-3 p-md-0 adjust_text" style="color:#fff">
 										<div class="row">
 											<div class="col-12">
 												<div class="text-center p-3 pt-4" style="background-color:#222; border-radius:1em;"><i class="icon solid text-danger fa fa-map-marker" style="font-size:2em;" aria-hidden="true"></i> <p>Endereço: Ed. Amazonia - Alameda Mamoré, Alphaville - SP</p></div> 
@@ -34,7 +34,7 @@
 										</div>
 										<div class="row pt-5">
 											<div class="col-6">
-												<div class="text-center p-3 pt-4" style="background-color:#222; border-radius:1em;"><i class="icon solid text-danger fa fa-phone" style="font-size:2em;"></i><p>	Telefone: +55 11 99199-8401 </p></div> 
+												<div class="text-center p-3 pt-4" style="background-color:#222; border-radius:1em; height: 100%;"><i class="icon solid text-danger fa fa-phone" style="font-size:2em;"></i><p>	Telefone: +55 11 99199-8401 </p></div> 
 											</div>
 											<div class="col-6">
 												<div class="text-center p-3 pt-4" style="background-color:#222; border-radius:1em;"><i class="icon text-danger fa fa-envelope" style="font-size:2em;"></i><p> Email: construcampisite@gmail.com</p></div> 

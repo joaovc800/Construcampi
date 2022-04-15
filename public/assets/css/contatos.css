@@ -80,7 +80,9 @@ header {
     .divide_div {
         width:auto !important;
     }
-
+    .adjust_text {
+        font-size: 13px !important;
+    }
     .icon {
         font-size: 2.2em;
     }
