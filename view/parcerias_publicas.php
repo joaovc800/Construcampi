@@ -45,9 +45,9 @@
 										</span>
 									</div>
 								</div>
-								<div class="border_hardcoded mt-5"><!-- borda hardcoded --></div>
+								<div class="border_hardcoded my-5"><!-- borda hardcoded --></div>
 								<!-- Row grande com o texto -->
-								<div class="row adjust_row push-left">
+								<div class="row adjust_row push-left pt-5">
 									<div class="col-12 col-12-narrow order-md-1 text_container text-center adjust_text">
 										<h3 class="pb-4"> ADHEMIR FOGASSA MAQUETES </h3>
 										<div>
