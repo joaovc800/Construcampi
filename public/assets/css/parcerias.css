@@ -2368,10 +2368,39 @@ input, select, textarea {
 	justify-content: center;
 }
 
-/* screen scroll and appear */
 
-/* Adjust the container fluid */
+/* Utilizado para abrir o modal */
+.clickable {
+	cursor: zoom-in;
+	transition: all 0.2s ease-in-out;
+}
 
+.clickable:hover {
+	-webkit-filter: blur(1px);
+	filter: blur(1px);
+}
+/* Todas as telas acima deste nivel vão ser assim */
+@media screen and (min-width: 2580px) {
+	/* really wide */
+	.adjust {
+		padding: 0 3em 0 3em !important;
+	}
+	
+	.adjust_row {
+		margin: 0 5em 0 5em !important;
+	}
+
+	.adjust_text {
+		padding: 0 4em 0 3em !important;
+		font-size: 1.3em;
+		letter-spacing: 0.1em;
+		line-height: 2em;
+	}
+	
+	.adjust_row_3_x_3 {
+		padding: 0 17em 0 10em !important;
+	}
+}
 
 @media screen and (max-width: 2580px) {
 	/* really wide */

@@ -25,45 +25,48 @@
 					<div class="container-fluid adjust">
 						<div class="row ml-5 ">
 							<div class="col-12 col-12-narrow overflow_right"> <!-- cuidado! a anim direita tem um overflow diferente do esquerdo, por isso necessita de overflow_right aqui -->
-								<!-- Row grande com o texto -->
+								<!-- Row header com o texto -->
 								<div class="row adjust_row push-left">
-									<div class="col-12 col-12-narrow order-md-1 text_container text-center adjust_text">
+								<div class="col-12 col-12-narrow text_container text-center adjust_text">
 										<h3 class="pb-4"> AMCHAM BRASIL </h3>
-										<div>
-											<p>A Amcham vai muito além de uma típica câmara de comércio. Ela integra empresas brasileiras e internacionais em um ambiente que extrapola fronteiras na geração de conteúdo, disponibilizando também um completo e ativo de produtos e serviços empresariais.  <br> Ela integra empresas brasileiras e internacionais em um ambiente que extrapola fronteiras na geração de conteúdo, disponibilizando também um completo e ativo de produtos e serviços empresariais. </p>
-										</div>
 									</div>
 								</div>
 								<!-- row 2 items com animação da direita a origen -->
-								<div id="row_animate_1" class="row right_row_hidden adjust_row">
-									<div class="col-6 col-6-narrow d-flex justify-content-center">
-										<p><a href="https://www.amcham.com.br/" class="link_page"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a AMCHAM</a></p>
+								<div id="row_animate_1" class="row right_row_hidden adjust_row pt-5">
+									<div class="col-6 col-12-narrow order-md-1 text_container text-center adjust_text">
+										<div>
+											<p>Fundada em 1919, A Amcham vai muito além de uma típica câmara de comércio. Ela integra empresas brasileiras e internacionais em um ambiente que extrapola fronteiras na geração de conteúdo, disponibilizando também um completo e ativo de produtos e serviços empresariais.  <br/> A Amcham estimula o relacionamento empresarial a criar oportunidades de negócios, integrando empresários e executivos de diversas áreas de atuação através de trocas de experiências e de melhores práticas. <br/> Para isso, A Amcham promove diversas atividades como feiras de negócios, cafés de relacionamento, business matchmaking entre outras.</p>
+										</div>
 									</div>
-									<div class="col-6 col-6-narrow pb-5 d-flex justify-content-center">
+									<div class="col-6 col-12-narrow order-md-2 pb-5 d-flex flex-column justify-content-center align-items-center">
 										<span class="scale_image">
-											<img class="img-fluid" style="border-radius:1em;" src="../public/images/parcerias/amcham_logo.jpeg" alt="amcham" />
+											<img class="img-fluid clickable" style="border-radius:1em;" src="../public/images/parcerias/amcham_logo.jpeg" alt="amcham" />
 										</span>
+										<p><a href="https://www.amcham.com.br/" class="link_page"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a AMCHAM</a></p>
 									</div>
 								</div>
 								<div class="border_hardcoded my-5"><!-- borda hardcoded --></div>
-								<!-- Row grande com o texto -->
+								<!-- Row header com o texto -->
 								<div class="row adjust_row push-left pt-5">
 									<div class="col-12 col-12-narrow order-md-1 text_container text-center adjust_text">
 										<h3 class="pb-4"> ADHEMIR FOGASSA MAQUETES </h3>
+									</div>
+								</div>
+								<!-- row 2 items com animação da direita a origen -->
+								<div id="row_animate_2" class="row left_row_hidden adjust_row pt-5">
+									<!-- <div class="col-6 col-6-narrow d-flex justify-content-center align-items-end">
+										<p><a href="https://maquetes.com.br/" class="link_page"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a FOGASSA MAQUETES</a></p>
+									</div> -->
+									<div class="col-6 col-12-narrow order-md-1 text_container text-center adjust_text">	
 										<div>
 											<p>Fundada em 1973, a Adhemir Fogassa Maquetes foi responsável por mais de 8 mil maquetes, colocando-a entre as maiores empresas deste ramo no mundo. Além de exportar toda a qualidade brasileira através de maquetes e modelos reais para diversas cidades da Europa e Estados Unidos, em 2008 expandiu os negócios e conquistou espaço nos países árabes, atuando na capital Abu Dhabi e em Dubai.</p>
 										</div>
 									</div>
-								</div>
-								<!-- row 2 items com animação da direita a origen -->
-								<div id="row_animate_2" class="row right_row_hidden adjust_row">
-									<div class="col-6 col-6-narrow d-flex justify-content-center">
-										<p><a href="https://maquetes.com.br/" class="link_page"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a FOGASSA MAQUETES</a></p>
-									</div>
-									<div class="col-6 col-6-narrow pb-5 d-flex justify-content-center">
+									<div class="col-6 col-12-narrow order-md-1 pb-5 d-flex flex-column justify-content-center align-items-center">
 										<span class="scale_image">
-											<img class="img-fluid" src="../public/images/parcerias/fogassa_logo.png" alt="fogassa_logo" />
+											<img class="img-fluid clickable" src="../public/images/parcerias/fogassa_logo.png" alt="fogassa_logo" />
 										</span>
+										<p><a href="https://maquetes.com.br/" class="link_page"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a FOGASSA MAQUETES</a></p>
 									</div>
 								</div>
 							</div>
@@ -79,7 +82,7 @@
 
 		<!-- Scripts -->
 		<?php include "../includes/scripts_imports.php"; ?>
-		<script src="../public/assets/js/obras/galpao.js"></script>
+		<script src="../public/assets/js/parcerias/parcerias.js"></script>
 
 	</body>
 </html>

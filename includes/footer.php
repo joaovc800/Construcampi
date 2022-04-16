@@ -58,7 +58,7 @@
 
 
                 <ul class="list-unstyled list-py-1 mb-0">
-                    <li><a class="link-sm link-light" href="#">Parcerias públicas e privadas</a></li>
+                    <li><a class="link-sm link-light" href="parcerias_publicas.php">Parcerias públicas e privadas</a></li>
                 </ul>
 
             </div>

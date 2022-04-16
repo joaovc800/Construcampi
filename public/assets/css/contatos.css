@@ -18,15 +18,11 @@ header {
 .background {
     background-color: #222;
 }
- /* {
-    color: white;
-    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285aeb 90%);
-    background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285aeb 90%);
-} */
 
 .icon:hover {
     color: red;
 }
+
 .instagram_color {
     background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285aeb 90%);
     background-clip: text;
@@ -45,19 +41,6 @@ header {
 .divide_div {
     width:50%;
 }
-
-@media screen and (max-width: 2400px) {
-	/* wide screen */
-	
-}
-
-
-
-@media screen and (max-width: 1366px) {
-	/* Laptops */
-	
-}
-
 
 @media screen and (max-width: 1000px) {
 	/* Narrow */

@@ -1,14 +1,14 @@
 // Helpers para as animações de slide in
 $(document).ready(function() {
-    const row1 = document.getElementById("row_animate_1"); // privadas
-    const row2 = document.getElementById("row_animate_2"); // privadas
+    const row1 = document.getElementById("row_animate_1"); 
+    const row2 = document.getElementById("row_animate_2");
 
-    // Opções para o observer que checa se a pessoa esta perto da div
     let options = {
         rootMargin: '0px',
         threshold: [0.25] // 25% da div tem que ser vista
     }
 
+    // Inicia o observer
     let observer_row1 = new IntersectionObserver( function(entries) {
         if(entries[0].isIntersecting === true) {
             row1.classList.add('push_right_row');

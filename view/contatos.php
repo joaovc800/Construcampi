@@ -20,7 +20,7 @@
 							<div class="py-3 px-5">
 								<header class="d-flex justify-content-center py-3 px-5" >
 									<h1 class="h1">
-										<strong>Contatos</strong>
+										<strong>CONTATOS</strong>
 									</h1>
 								</header>
 							</div>
