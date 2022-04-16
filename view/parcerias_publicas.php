@@ -39,10 +39,12 @@
 										</div>
 									</div>
 									<div class="col-6 col-12-narrow order-md-2 pb-5 d-flex flex-column justify-content-center align-items-center">
-										<span class="scale_image">
-											<img class="img-fluid clickable" style="border-radius:1em;" src="../public/images/parcerias/amcham_logo.jpeg" alt="amcham" />
-										</span>
-										<p><a href="https://www.amcham.com.br/" class="link_page"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a AMCHAM</a></p>
+										<a href="https://www.amcham.com.br/" target="_blank" class="clickable">
+											<span class="scale_image">
+												<img class="img-fluid clickable" style="border-radius:1em;" src="../public/images/parcerias/amcham_logo.jpeg" alt="amcham" />
+											</span>
+										</a>
+										<p><a href="https://www.amcham.com.br/" target="_blank" class="link_page"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a AMCHAM</a></p>
 									</div>
 								</div>
 								<div class="border_hardcoded my-5"><!-- borda hardcoded --></div>
@@ -63,9 +65,11 @@
 										</div>
 									</div>
 									<div class="col-6 col-12-narrow order-md-1 pb-5 d-flex flex-column justify-content-center align-items-center">
-										<span class="scale_image">
-											<img class="img-fluid clickable" src="../public/images/parcerias/fogassa_logo.png" alt="fogassa_logo" />
-										</span>
+										<a href="https://maquetes.com.br/" class="clickable" target="_blank">
+											<span class="scale_image">
+												<img class="img-fluid" src="../public/images/parcerias/fogassa_logo.png" alt="fogassa_logo" />
+											</span>
+										</a>
 										<p><a href="https://maquetes.com.br/" class="link_page"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a FOGASSA MAQUETES</a></p>
 									</div>
 								</div>

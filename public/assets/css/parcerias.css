@@ -2371,8 +2371,8 @@ input, select, textarea {
 
 /* Utilizado para abrir o modal */
 .clickable {
-	cursor: zoom-in;
 	transition: all 0.2s ease-in-out;
+	border-bottom: none !important; 
 }
 
 .clickable:hover {
