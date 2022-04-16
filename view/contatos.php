@@ -34,10 +34,10 @@
 										</div>
 										<div class="row pt-5">
 											<div class="col-6">
-												<div class="text-center p-3 pt-4" style="background-color:#222; border-radius:1em; height: 100%;"><i class="icon solid text-danger fa fa-phone" style="font-size:2em;"></i><p>	Telefone: +55 11 99199-8401 </p></div> 
+												<div class="d-flex flex-column text-center p-3 pt-4" style="background-color:#222; border-radius:1em; height: 100%;"><i class="icon solid text-danger fa fa-phone" style="font-size:2em;"></i><p>	Telefone: +55 11 99199-8401</p></div> 
 											</div>
 											<div class="col-6">
-												<div class="text-center p-3 pt-4" style="background-color:#222; border-radius:1em;"><i class="icon text-danger fa fa-envelope" style="font-size:2em;"></i><p> Email: construcampisite@gmail.com</p></div> 
+												<div class="text-center p-3 pt-4" style="background-color:#222; border-radius:1em;"><i class="icon text-danger fa fa-envelope" style="font-size:2em;"></i><p style="word-wrap: break-word;"> Email: construcampiconstrucoesltda@hotmail.com</p></div> 
 											</div>
 										</div>
 									</div>
