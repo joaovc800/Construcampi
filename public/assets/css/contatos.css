@@ -83,4 +83,7 @@ header {
     .row {
         justify-content: center;
     }
+    .iframe_adjust {
+        padding: 0;
+    }
 }
