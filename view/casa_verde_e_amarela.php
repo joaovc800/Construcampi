@@ -32,7 +32,7 @@
 					<h2 class="text-light" class="text-light">O que é o Programa?</h2>
 				</header>
 				<div class="content">
-					<p>Contamos com a MELHOR equipe de construção e desenvolvimento de obras, nossos profissionais são altamente capacitados e sempre aptos ao nosso desenvolvimento diário em construir e evoluir, sempre priorizando a satisfação de nossos clientes</p>
+					<p>O <strong>Casa Verde e Amarela</strong> é o mais novo Programa Habitacional do Governo Federal, tendo como missão utilizar de políticas públicas de financiamentos e subsídios para combater o déficit habitacional, contribuindo para a garantia de moradia digna para os cidadãos brasileiros.</p>
 				</div>
 			</section>
 			<!-- Section -->
@@ -41,7 +41,7 @@
 					<h2 class="text-light" class="text-light">Equipe</h2>
 				</header>
 				<div class="content">
-					<p>Contamos com a <strong>MELHOR</strong> equipe de construção e desenvolvimento de obras, nossos profissionais são bem capacitados e sempre aptos ao nosso desenvolvimento diário em contruir e evoluir, buscando sempre a a satisfação do cliente em primeiro lugar.</p>
+					<p>Contamos com a <strong>MELHOR</strong> equipe de construção e desenvolvimento de obras, nossos profissionais são altamente capacitados e sempre aptos ao nosso desenvolvimento diário em construir e evoluir, sempre priorizando a satisfação de nossos clientes</p>
 					<span class="image main overf"><img class="grow_image2"src="../public/images/mcva/construct_job.jpg" alt="" /></span>
 				</div>
 			</section>
@@ -49,7 +49,7 @@
 			<!-- Section -->
 			<section>
 				<header>
-					<h2 class="text-light">Compentências</h2>
+					<h2 class="text-light">Competências</h2>
 				</header>
 				<div class="content">
 					<p>Alto nível de <strong>COMPETÊNCIA</strong> com a melhor mão de obra à oferecer como:</p>
@@ -62,64 +62,52 @@
 						<li class="icon solid fa-pencil-ruler">Planejamento</li>
 						<li class="icon solid fa-building">Entrega impecável</li>
 					</ul>
-					<p>Tudo que há de melhor sobre o programa casa verde e amarela, você encontra aqui.</p>
+					<p>Tudo que há de melhor sobre o programa <strong> Casa Verde e Amarela</strong>, você encontra aqui.</p>
 				</div>
 			</section>
 
 			<!-- Section -->
 			<section>
 				<header>
-					<h2 class="text-light">Tipos de trabalhos</h2>
+					<h2 class="text-light">Apartamentos</h2>
+					<p class="text-light">Fachadas de alto padrão, estrutura sólida e resistente para segurança de todos.</p>
 				</header>
 				<div class="content">
-					<p>Fique a vontade para conhecer o tipo de <strong>TRABALHO</strong> que realizamos com a maior satisfação.</p>
-
 						<!-- Section -->
-						<section>
-							<header>
-								<h3 class="text-light">Apartamentos</h3>
-								<p>Faixada de mais alto padrão, estrutura sólida e resistente para segurança de todos.</p>
-							</header>
-							<div class="content">
-								<div class="gallery">
-									<a class="landscape overf"><img class="grow_image2" src="../public/images/mcva/gallery/apartamento1.jpg" alt="apartamento1" /></a>
-									<a class="overf"><img class="grow_image2" src="../public/images/mcva/gallery/apartamento2.jpg" alt="" /></a>
-									<a class="overf"><img class="grow_image2" src="../public/images/mcva/gallery/apartamento3.jpg" alt="" /></a>
-									<a class="landscape overf"><img class="grow_image2" src="../public/images/mcva/gallery/construct1.jpg" alt="" /></a>
-								</div>
-							</div>
-						</section>
-
+					<div class="gallery">
+						<a class="landscape overf"><img class="grow_image2" src="../public/images/mcva/gallery/apartamento1.jpg" alt="apartamento1" /></a>
+						<a class="overf"><img class="grow_image2" src="../public/images/mcva/gallery/apartamento2.jpg" alt="" /></a>
+						<a class="overf"><img class="grow_image2" src="../public/images/mcva/gallery/apartamento3.jpg" alt="" /></a>
+						<a class="landscape overf"><img class="grow_image2" src="../public/images/mcva/gallery/construct1.jpg" alt="" /></a>
+					</div>
+			</section>
 						<!-- Section -->
-						<section>
-							<header>
-								<h3 class="text-light">Casas</h3>
-								<p>Design e conforto e tudo que há de bom! as casas do nosso programa casa verde e amarela proporciona tudo isso e muito mais.</p>
-							</header>
-							<div class="content">
-								<div class="gallery">
-									<a class="landscape overf"><img class="grow_image2" src="../public/images/mcva/gallery/casas3.jpg" alt="" /></a>
-									<a class="overf"><img class="grow_image2" src="../public/images/mcva/gallery/casas2.jpg" alt="" /></a>
-									<a class="overf"><img class="grow_image2" src="../public/images/mcva/gallery/casas4.jpg" alt="" /></a>
-								</div>
-							</div>
-						</section>
+			<section>
+				<header>
+					<h2 class="text-light">Casas</h2>
+					<p class="text-light">Design, conforto e tudo que há de bom! Estes são os princípios que permeiam nosso trabalho dentro do Programa Casa Verde e Amarela</p>
+				</header>
+				<div class="content">
+					<div class="gallery">
+						<a class="landscape overf"><img class="grow_image2" src="../public/images/mcva/gallery/casas3.jpg" alt="" /></a>
+						<a class="overf"><img class="grow_image2" src="../public/images/mcva/gallery/casas2.jpg" alt="" /></a>
+						<a class="overf"><img class="grow_image2" src="../public/images/mcva/gallery/casas4.jpg" alt="" /></a>
+					</div>
+				</div>
+			</section>
 
-						<!-- Section -->
-						<section>
-							<header>
-								<h3 class="text-light">Áreas internas</h3>
-								<p>Nossas áreas internas são sofisticadas e bem estruturadas para melhor conduzir os espaços dentro da residência assim dando uma ampla capacidade.</p>
-							</header>
-							<div class="content">
-								<div class="gallery">
-									<a class="portrait overf"><img class="grow_image2" src="../public/images/mcva/gallery/interno1.jpg" alt="" /></a>
-									<a class="portrait overf"><img class="grow_image2" src="../public/images/mcva/gallery/interno2.jpg" alt="" /></a>
-									<a class="landscape overf"><img class="grow_image2" src="../public/images/mcva/gallery/interno3.jpg" alt="" /></a>
-								</div>
-							</div>
-						</section>
-
+			<!-- Section -->
+			<section>
+				<header>
+					<h2 class="text-light">Áreas internas</h2>
+					<p class="text-light">Nossas áreas internas possuem alta sofisticação e estruturamento para melhor conduzir a ambientação dentro das residências, dando, assim, maior capacidade de utilização dos espaços.</p>
+				</header>
+				<div class="content">
+					<div class="gallery">
+						<a class="portrait overf"><img class="grow_image2" src="../public/images/mcva/gallery/interno1.jpg" alt="" /></a>
+						<a class="portrait overf"><img class="grow_image2" src="../public/images/mcva/gallery/interno2.jpg" alt="" /></a>
+						<a class="landscape overf"><img class="grow_image2" src="../public/images/mcva/gallery/interno3.jpg" alt="" /></a>
+					</div>
 				</div>
 			</section>
 
@@ -129,9 +117,9 @@
 					<h2 class="text-light">Contato</h2>
 				</header>
 				<div class="content">
-					<p><strong>VENHA</strong> agora ser Construcampi! Dúvidas entre em contato com a nossa consutoria.</p>
+					<p><strong>VENHA</strong> agora ser Construcampi! Dúvidas entre em contato com a nossa consultoria.</p>
 					<ul class="actions">
-						<li><a class="button primary large">Fale conosco</a></li>
+						<li><a href="./contatos.php" class="button primary large">Fale conosco</a></li>
 					</ul>
 				</div>
 			</section>
