@@ -66,11 +66,21 @@ header {
     .adjust_text {
         font-size: 13px !important;
     }
-    .icon {
+    .icon_brands {
         font-size: 2.2em;
     }
 
     .icon_title {
         display: none;
+    }
+
+    .adjust {
+        border-radius:0;
+    }
+    .adjust_h3 {
+        margin-top: 2em;
+    }
+    .row {
+        justify-content: center;
     }
 }
