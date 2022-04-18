@@ -17,13 +17,13 @@
 				<div class="background p-md-5">
 					<div class="container-fluid adjust d-flex flex-column pb-md-5">
 						<section class="row">
-							<div class="py-3 px-5">
+							<!-- <div class="py-3 px-5">
 								<header class="d-flex justify-content-center py-3 px-5" >
 									<h1 class="h1">
 										<strong>CONTATOS</strong>
 									</h1>
 								</header>
-							</div>
+							</div> -->
 							<div class="column d-flex wrap_div justify-content-around align-content-cent px-md-5">
 								<div class="row divide_div pt-5">
 									<div class="column pt-2 p-3 p-md-0 adjust_text" style="color:#fff">
