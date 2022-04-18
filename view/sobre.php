@@ -24,7 +24,7 @@
 					<div class="content">
 						<header>
 							<h1 class="h2">Olá, somos a Construcampi</h1>
-							<p>Conheça mais sobre nossa tragetória...</p>
+							<p>Conheça mais sobre nossa trajetória...</p>
 						</header>
 						<p>Pioneira no ramo da engenharia civil, a Construcampi possui mais de 30 anos de mercado, trazendo soluções e serviços inovadores, garantindo a satisfação e fidelização de seus clientes.<br>
 							De construções de alto padrão a serviços de infraestrutura, estamos preparados para fornecer o melhor atendimento e os melhores resultados, sempre implementando a dedicação, esforço e experiência adquiridas durante nossa trajetória.</p>

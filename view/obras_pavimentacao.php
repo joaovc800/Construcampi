@@ -17,7 +17,7 @@
 			<section id="second" class="main pb-5">
 				<header class="imagem_com_texto">
 					<h2>Pavimentações Asfálticas</h2>
-					<p>Concepção de estilo esboçada por nossa cultura de engenharia</p>
+					<p>Composição de métodos para alcançar resultados contínuos e sustentáveis</p>
 				</header>
 				<div class="content dark style2">
 					<div class="container-fluid adjust">
@@ -52,9 +52,9 @@
 										<h3 class="pb-4"> Valores e Mobilidade para maior produção</h3>
 										<div>
 										<p>A malha rodoviária do Brasil é extensa, em 2019 a extensão total chegava a <strong>75,8 mil</strong> quilômetros e apenas <strong>12,4% deste total</strong> são de rodovias pavimentadas. </p>
-                                            <p>Nós da Construcampi trazemos não só apenas soluções para esta deficiência, como também a total manutenção de rodovias previamente pavimentadas.</p>
-                                            <p>Outro grande problema que rodovias modernas encontram está no desgaste causado pela grande carga rodoviária e asfalto de baixa qualidade, este aos quais geram buracos e degradam a mobilidade causando acidentes e transtornos a população. </p>
-                                            <p>A Construcampi previne estes problemas trazendo segurança com asfalto de <strong>alta qualidade</strong>, utilizando de métodos eco-friendly (melhor ao meio ambiente) que não é apenas sustentável, como também abaixa os custos e aumenta a durabilidade e qualidade das vias.</p>
+                                            <p>Nós da Construcampi trazemos não só apenas <strong>soluções</strong> para esta deficiência, como também a <strong>total manutenção</strong> de rodovias previamente pavimentadas.</p>
+                                            <p>Outro grande problema que rodovias modernas encontram está no desgaste causado pela <strong>grande carga rodoviária</strong> e <strong>asfalto de baixa qualidade</strong>, este aos quais geram <strong>buracos</strong> e <strong>degradam a mobilidade</strong> de veículos, causando acidentes e transtornos a população. </p>
+                                            <p>A Construcampi previne estes problemas trazendo <strong>segurança</strong> com <strong>asfalto</strong> de <strong>alta qualidade</strong>, utilizando de métodos <strong>eco-friendly</strong> (melhor ao meio ambiente) que não é apenas <strong>sustentável</strong>, como também abaixa os custos e aumenta a durabilidade e qualidade das vias.</p>
 											<p><a href="./contatos.php" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
 										</div>
 									</div>
