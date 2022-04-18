@@ -36,38 +36,37 @@
 						<a href="index.php">Home</a>
 					</li>
 					<li style="white-space: nowrap;">
-						<a href="view/sobre.php">Quem somos</a>
+						<a href="view/sobre.php">Quem Somos</a>
 					</li>
 					<li style="white-space: nowrap;">
-						<a href="view/parcerias_publicas.php">Parcerias publicas e privadas</a>
+						<a href="view/parcerias_publicas.php">Parcerias Públicas e Privadas</a>
 					</li>
 					<li class="opener" style="user-select: none; cursor: pointer; white-space: nowrap;">
 						<a href="#" class="icon solid fa-angle-down">Obras</a>
 						<ul class="" style="user-select: none; display: none; position: absolute;">
 							<li style="white-space: nowrap;">
-								<a href="view/obras_privadas.php" style="display: block;">Obras privadas</a>
+								<a href="view/obras_privadas.php" style="display: block;">Obras Privadas</a>
 							</li>
 							<li style="white-space: nowrap;">
-								<a href="view/obras_publicas.php" style="display: block;">Obras públicas</a>
+								<a href="view/obras_publicas.php" style="display: block;">Obras Públicas</a>
 							</li>
 							<li style="white-space: nowrap;">
-								<a href="view/obras_galpao.php" style="display: block;">Galpões e estruturas
+								<a href="view/obras_galpao.php" style="display: block;">Galpões e Estruturas
 									metálicas</a>
 							</li>
 							<li style="white-space: nowrap;">
-								<a href="view/obras_reforma.php" style="display: block;">Reformas em geral</a>
+								<a href="view/obras_reforma.php" style="display: block;">Reformas em Geral</a>
 							</li>
 							<li style="white-space: nowrap;">
 								<a href="view/obras_casas.php" style="display: block;">Casas Pré-Fabricadas</a>
 							</li>
 							<li style="white-space: nowrap;">
-								<a href="view/obras_pavimentacao.php" style="display: block;">Pavimentações
-									asfálticas</a>
+								<a href="view/obras_pavimentacao.php" style="display: block;">Pavimentações Asfálticas</a>
 							</li>
 						</ul>
 					</li>
 					<li style="white-space: nowrap;">
-						<a href="view/casa_verde_e_amarela.php">Casa verde e amarela</a>
+						<a href="view/casa_verde_e_amarela.php">Casa Verde e Amarela</a>
 					</li>
 				</ul>
 			</nav>

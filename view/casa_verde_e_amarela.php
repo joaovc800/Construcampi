@@ -16,7 +16,7 @@
 			<!-- Intro -->
 			<section class="intro">
 				<header>
-					<h1 class="h1 text-light">Casa verde e amarela</h1>
+					<h1 class="h1 text-light">Casa Verde e Amarela</h1>
 					<p class="text-light">As melhores obras do programa casa verde e amarela você encontra aqui!</p>
 					<ul class="actions">
 						<li><a href="#first" class="arrow scrolly"><span class="label">Next</span></a></li>
@@ -26,7 +26,15 @@
 					<span class="image fill overf" data-position="center"><img class="grow_image"src="../public/images/mcva/cva.jpg" alt="Casa verde e amarela" /></span>
 				</div>
 			</section>
-
+			<!-- Section -->
+			<section id="first">
+				<header>
+					<h2 class="text-light" class="text-light">O que é o Programa?</h2>
+				</header>
+				<div class="content">
+					<p>Contamos com a MELHOR equipe de construção e desenvolvimento de obras, nossos profissionais são altamente capacitados e sempre aptos ao nosso desenvolvimento diário em construir e evoluir, sempre priorizando a satisfação de nossos clientes</p>
+				</div>
+			</section>
 			<!-- Section -->
 			<section id="first">
 				<header>

@@ -26,10 +26,12 @@
 								<!-- Row grande com o texto -->
 								<div class="row adjust_row push-left">
 									<div class="col-12 col-12-narrow order-md-1 text_container text-center adjust_text">
-										<h3 class="pb-4"> Metodos e Estruturas </h3>
+										<h3 class="pb-4"> Métodos e Estruturas </h3>
 										<div>
-										<p>O amplo mercado de engenharia clama por obras bem estruturadas e nos da Construcampi trazemos métodos inovativos como o <strong>Light Steel Frame</strong> (Liga estrutural de metal leve), <strong>Wood frame</strong> (estruturas de madeira) e <strong>Concreto pré-moldado</strong>.<br>Estes métodos nos trazem grandes vantagens para menores custos e maiores construções de galpões com maior segurança e melhor utilização do espaço, assim como também estruturas de alta qualidade e mais rápida construção.</p>
-										<p><a href="./contatos.php" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
+											<p>O uso de estruturas metálicas, tais como o aço, como fonte de sustentação dentro da engenharia civil, vêm sendo realizado em diversos projetos modernos, levando em conta a rapidez fornecida às fases da construção, propiciada pelo uso de tais estruturas.</p>
+											<p>O amplo ramo da construção civil clama por obras bem estruturadas e com alto grau de confiabilidade, é por isso que nós da CONSTRUCAMPI trazemos métodos inovadores dentro do ramo de infraestrutura e estruturas metálicas, visando atender às mais diversas necessidades de nossos clientes.</p>
+											<p>Estes métodos nos trazem grandes vantagens e conceitos diferenciais de mercado para nossos serviços, como a construção de galpões com maior segurança e melhor utilização de espaço, nunca deixando de lado a qualidade e rapidez de nossas construções.</p>
+											<p><a href="./contatos.php" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
 										</div>
 									</div>
 								</div>
