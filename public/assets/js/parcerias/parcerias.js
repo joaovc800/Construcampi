@@ -20,8 +20,8 @@ $(document).ready(function() {
     observer_row1.observe(document.querySelector("#row_animate_1"));
 
     let observer_row2 = new IntersectionObserver( function(entries) {
+        row2.classList.add('push_left_row');
         if(entries[0].isIntersecting === true) {
-            row2.classList.add('push_left_row');
             row2.classList.remove('left_row_hidden');
         }
     }, options);
