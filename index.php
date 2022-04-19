@@ -140,7 +140,7 @@
 						<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim
 							rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
 						<ul class="actions special">
-							<li><a href="#" class="button alt">Learn More</a></li>
+							<li><a href="./view/parcerias_publicas.php" class="button alt">Veja Nossos Parceiros</a></li>
 						</ul>
 					</section>
 				</div>

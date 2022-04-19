@@ -70,7 +70,7 @@
 												<img class="img-fluid" src="../public/images/parcerias/fogassa_logo.png" alt="fogassa_logo" />
 											</span>
 										</a>
-										<p><a href="https://maquetes.com.br/" class="link_page"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a FOGASSA MAQUETES</a></p>
+										<p><a href="https://maquetes.com.br/" class="link_page" target="_blank"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a FOGASSA MAQUETES</a></p>
 									</div>
 								</div>
 							</div>
