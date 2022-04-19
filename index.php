@@ -85,9 +85,10 @@
 			<!-- VIdeo -->
 			<section class="box special">
 				<header class="major mb-3">
-					<p>Há mais de 30 anos projetando e tornando realidade os sonhos e projetos de vida de nossos
-						clientes.
-						<br><br>Fundada em 1983, atualmente localizada no centro comercial de Alphaville, a ConstruCampi
+					<h1 class="extra">Há mais de 30 anos projetando e tornando realidade os sonhos e projetos de vida de nossos
+						clientes
+					</h1>
+					<p class="extra_small px-3">Fundada em 1983, atualmente localizada no centro comercial de Alphaville, a ConstruCampi
 						conta com tradição e confiabilidade de mercado, trabalhando incessantemente para trazer a melhor
 						qualidade e eficiência no ramo da engenharia civil.
 					</p>

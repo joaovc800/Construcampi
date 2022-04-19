@@ -68,8 +68,8 @@
 					</div>
 				</section>
 
-				<!-- Section -->
-				<section>
+				<!-- Section < MOSAICO DA EQUIPE -->
+				<!-- <section>
 					<header class="major">
 						<h2>Nossa equipe</h2>
 					</header>
@@ -105,7 +105,7 @@
 							<p class="animate-push-left">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 						</article>
 					</div>
-				</section>
+				</section> -->
 			</div>
 		</div>
 		<?php include "../includes/footer.php"; ?>

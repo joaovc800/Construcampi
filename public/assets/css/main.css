@@ -4153,9 +4153,28 @@ a {
 		padding: 0 2em 0 2em !important;
 		margin: 1em 0 0 0 !important;
 	}
+	.extra {
+		font-size: 1.2em !important;
+		font-weight: 2000;
+		margin:0 0 0.1em !important;
+	}
+	.extra_small {
+		font-size: 1em !important;
+	}
+	.box.special {
+		padding-top: 1em !important;
+	}
 }
 
 #iframe {
 	display: flex;
 	flex-direction: column;
 }
+
+.extra {
+	font-size: 1.3em;
+	font-weight: 1000;
+	margin:0 0 0.8em !important;
+}
+
+
