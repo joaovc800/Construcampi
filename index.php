@@ -132,9 +132,9 @@
 				</div>
 			</section>
 
-			<div class="row">
+			<div class="row ">
 				<div class="col-6 col-12-narrower">
-					<section class="box special">
+					<section class="adjust_card box special d-flex flex-column justify-content-between">
 						<span class="image featured" style="overflow: hidden;"><img src="public/images/cc1.jpg" class="grow_image" /></span>
 						<h3>Parcerias Públicas e Privadas</h3>
 						<p>Conheça as parcerias que auxiliam a Construcampi a ser sinônimo de qualidade e satisfação dentro do mercado da construção civil.</p>
@@ -143,8 +143,8 @@
 						</ul>
 					</section>
 				</div>
-				<div class="col-6 col-12-narrower">
-					<section class="box special">
+				<div class="col-6 col-12-narrower pl-0 py-3 py-md-0">
+					<section class="adjust_card box special d-flex flex-column justify-content-between">
 						<span class="image featured" style="overflow: hidden;"><img src="public/images/cc2.jpg" class="grow_image" /></span>
 						<h3>Contatos</h3>
 						<p>Entre em contato conosco para conhecer mais sobre nossos serviços e programas governamentais, garantimos a total satisfação, será um prazer atende-lo.</p>

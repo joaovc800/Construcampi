@@ -4164,6 +4164,9 @@ a {
 	.box.special {
 		padding-top: 1em !important;
 	}
+	.adjust_card  {
+		padding-left: 0.2em !important;
+	}
 }
 
 #iframe {
@@ -4178,3 +4181,7 @@ a {
 }
 
 
+.adjust_card {
+	flex: 1 1 0;
+  	height: 100% !important;
+}
