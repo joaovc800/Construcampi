@@ -126,7 +126,7 @@
 					<section style="padding:10px 0 0 0; width:100%;">
 						<span class="icon solid major fa-handshake accent4"></span>
 						<h3>Valores</h3>
-						<p>Colaborar com nossos clientes para alcançar objetivos mútuos relativos aos resultados, utilizando da Integridade, Confiança e Respeito necessário para aquisição de grandes conquistas.</p>
+						<p>Demonstrar e trazer qualidade inegável com aos nossos clientes e colaboradores para alcançar objetivos mútuos relativos aos resultados, utilizando da Integridade, Confiança e Respeito necessário para aquisição de grandes conquistas.</p>
 					</section>
 				</div>
 			</section>
