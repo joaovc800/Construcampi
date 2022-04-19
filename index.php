@@ -159,11 +159,11 @@
 		<section id="iframe">
 			<h3 class="text-light text-center">Onde estamos localizados</h3>
 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.103124475027!2d-46.85204328502365!3d-23.492794784716946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf02394b674fc9%3A0x66136606865c6ceb!2sEdificio%20Amazonia!5e0!3m2!1spt-BR!2sbr!4v1649184281592!5m2!1spt-BR!2sbr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-			<h3 class="mt-3 text-light text-center">Filiais</h3>
+			<!-- <h3 class="mt-3 text-light text-center">Filiais</h3>
 			<div class="container mt-2">
 			<p class="text-light text-center"><strong class="text-light">Fortaleza</strong>: Rua..... nº, andar X, Bairro, Cidade e cep</p>
-			<p class="text-light text-center"><strong class="text-light">Rio de Janeiro</strong>:  Rua..... nº, andar X, Bairro, Cidade e cep</p>
-			</div>
+			<p class="text-light text-center"><strong class="text-light">Rio de Janeiro</strong>:  Rua..... nº, andar X, Bairro, Cidade e cep</p> -->
+			<!-- </div> -->
 		</section>
 
 		<!-- Footer -->
