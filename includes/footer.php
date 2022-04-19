@@ -32,12 +32,12 @@
                 <h5 class="text-white mb-3">Obras</h5>
 
                 <ul class="list-unstyled list-py-1 mb-0">
-                    <li><a class="link-sm link-light" href="obras_privadas.php">Obras privadas</a></li>
-                    <li><a class="link-sm link-light" href="obras_publicas.php">Obras públicas</a></li>
-                    <li><a class="link-sm link-light" href="obras_galpao.php">Galpões e estruturas metálicas</a></li>
-                    <li><a class="link-sm link-light" href="obras_reforma.php">Reformas em geral</a></li>
-                    <li><a class="link-sm link-light" href="obras_casas.php">Casas pré-fabricadas</a></li>
-                    <li><a class="link-sm link-light" href="obras_pavimentacao.php">Pavimentações asfálticas</a></li>
+                    <li><a class="link-sm link-light" href="obras_privadas.php">Obras Privadas</a></li>
+                    <li><a class="link-sm link-light" href="obras_publicas.php">Obras Públicas</a></li>
+                    <li><a class="link-sm link-light" href="obras_galpao.php">Galpões e Estruturas Metálicas</a></li>
+                    <li><a class="link-sm link-light" href="obras_reforma.php">Reformas em Geral</a></li>
+                    <li><a class="link-sm link-light" href="obras_casas.php">Casas Pré-Fabricadas</a></li>
+                    <li><a class="link-sm link-light" href="obras_pavimentacao.php">Pavimentações Asfálticas</a></li>
                 </ul>
 
             </div>
@@ -48,7 +48,7 @@
                 <ul class="list-unstyled list-py-1 mb-0">
                     <li><a class="link-sm link-light" href="contatos.php">Contatos</a></li>
                     <li><a class="link-sm link-light" href="sobre.php">Quem somos</a></li>
-                    <li><a class="link-sm link-light" href="politica_privacidade.php">Políticas de privacidade</a></li>
+                    <li><a class="link-sm link-light" href="politica_privacidade.php">Políticas de Privacidade</a></li>
                 </ul>
 
             </div>
@@ -58,7 +58,7 @@
 
 
                 <ul class="list-unstyled list-py-1 mb-0">
-                    <li><a class="link-sm link-light" href="parcerias_publicas.php">Parcerias públicas e privadas</a></li>
+                    <li><a class="link-sm link-light" href="parcerias_publicas.php">Parcerias Públicas e Privadas</a></li>
                 </ul>
 
             </div>
@@ -67,7 +67,7 @@
                 <h5 class="text-white mb-3">Programas</h5>
 
                 <ul class="list-unstyled list-py-1 mb-5">
-                    <li><a class="link-sm link-light" href="casa_verde_e_amarela.php">Casa verde e amarela</a></li>
+                    <li><a class="link-sm link-light" href="casa_verde_e_amarela.php">Casa Verde e Amarela</a></li>
 
                 </ul>
 

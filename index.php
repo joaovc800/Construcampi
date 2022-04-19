@@ -76,7 +76,7 @@
 			<h2>CONSTRUC<span style="color:#f00">A</span>MPI</h2>
 			<p>Seu objetivo é o nosso principal compromisso e responsabilidade</p>
 			<ul class="actions special">
-				<li><a href="view/sobre.php" class="button">Saíba mais</a></li>
+				<li><a href="view/sobre.php" class="button">Saiba mais</a></li>
 			</ul>
 		</section>
 
@@ -206,12 +206,12 @@
 					<div class="col-sm mb-7 mb-sm-0">
 						<h5 class="text-white mb-3">Obras</h5>
 						<ul class="list-unstyled list-py-1 mb-0">
-							<li><a class="link-sm link-light" href="view/obras_privadas.php">Obras privadas</a></li>
-							<li><a class="link-sm link-light" href="view/obras_publicas.php">Obras públicas</a></li>
-							<li><a class="link-sm link-light" href="view/obras_galpao.php">Galpões e estruturas metálicas</a></li>
-							<li><a class="link-sm link-light" href="view/obras_reforma.php">Reformas em geral</a></li>
-							<li><a class="link-sm link-light" href="view/obras_casas.php">Casas pré-fabricadas</a></li>
-							<li><a class="link-sm link-light" href="view/obras_pavimentacao.php">Pavimentações asfálticas</a></li>
+							<li><a class="link-sm link-light" href="view/obras_privadas.php">Obras Privadas</a></li>
+							<li><a class="link-sm link-light" href="view/obras_publicas.php">Obras Públicas</a></li>
+							<li><a class="link-sm link-light" href="view/obras_galpao.php">Galpões e Estruturas Metálicas</a></li>
+							<li><a class="link-sm link-light" href="view/obras_reforma.php">Reformas em Geral</a></li>
+							<li><a class="link-sm link-light" href="view/obras_casas.php">Casas Pré-Fabricadas</a></li>
+							<li><a class="link-sm link-light" href="view/obras_pavimentacao.php">Pavimentações Asfálticas</a></li>
 						</ul>
 					</div>
 					<div class="col-sm mb-7 mb-sm-0">
@@ -219,19 +219,19 @@
 						<ul class="list-unstyled list-py-1 mb-0">
 							<li><a class="link-sm link-light" href="view/contatos.php">Contatos</a></li>
 							<li><a class="link-sm link-light" href="view/sobre.php">Quem somos</a></li>
-							<li><a class="link-sm link-light" href="view/politica_privacidade.php">Políticas de privacidade</a></li>
+							<li><a class="link-sm link-light" href="view/politica_privacidade.php">Políticas de Privacidade</a></li>
 						</ul>
 					</div>
 					<div class="col-sm">
 						<h5 class="text-white mb-3">Parceiros</h5>
 						<ul class="list-unstyled list-py-1 mb-0">
-							<li><a class="link-sm link-light" href="view/parcerias_publicas.php">Parcerias públicas e privadas</a></li>
+							<li><a class="link-sm link-light" href="view/parcerias_publicas.php">Parcerias Públicas e Privadas</a></li>
 						</ul>
 					</div>
 					<div class="col-sm">
 						<h5 class="text-white mb-3">Programas</h5>
 						<ul class="list-unstyled list-py-1 mb-5">
-							<li><a class="link-sm link-light" href="view/casa_verde_e_amarela.php">Casa verde e amarela</a></li>
+							<li><a class="link-sm link-light" href="view/casa_verde_e_amarela.php">Casa Verde e Amarela</a></li>
 						</ul>
 					</div>
 				</div>
