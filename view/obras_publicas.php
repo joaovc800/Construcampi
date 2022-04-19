@@ -86,7 +86,8 @@
 							</div>
 							<div class="col-4 col-12-narrow text-center px-5">
 								<h2>Variedade, estilo e luxo</h2>
-								<p>Nossas obras públicas possuem o mais alto nível de modernidade e qualidade, fornecendo à população excelência, beleza, conforto e acessibilidade para que ela possa desfrutar da melhor maneira os serviços prestados pelo Governo. Servindo a diversos propósitos, a Construcampi se destaca por trazer a todos a qualidade que só pode ser encontrada em uma empresa que possua sua tradição e dedicação.</p>
+								<p>Nossas obras públicas possuem o mais alto nível de <strong>modernidade</strong> e <strong>qualidade</strong>, fornecendo à população <strong>excelência</strong>, <strong>beleza</strong>, <strong>conforto</strong> e <strong>acessibilidade</strong> para que ela possa desfrutar da melhor maneira os serviços prestados pelo Governo.</p> 
+								<p>Servindo a <strong>diversos propósitos</strong>, a Construcampi se destaca por trazer a todos a qualidade que só pode ser encontrada em uma empresa que possua sua <strong>tradição</strong> e <strong>dedicação</strong>.</p>
 							</div>
 							<div class="col pb-5">
 								<span class="image fit scale_image border_activate adjust_img">
