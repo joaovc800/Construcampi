@@ -136,9 +136,8 @@
 				<div class="col-6 col-12-narrower">
 					<section class="box special">
 						<span class="image featured" style="overflow: hidden;"><img src="public/images/cc1.jpg" class="grow_image" /></span>
-						<h3>Sed lorem adipiscing</h3>
-						<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim
-							rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+						<h3>Parcerias Públicas e Privadas</h3>
+						<p>Conheça as parcerias que auxiliam a Construcampi a ser sinônimo de qualidade e satisfação dentro do mercado da construção civil.</p>
 						<ul class="actions special">
 							<li><a href="./view/parcerias_publicas.php" class="button alt">Veja Nossos Parceiros</a></li>
 						</ul>
