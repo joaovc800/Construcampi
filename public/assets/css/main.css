@@ -4185,3 +4185,15 @@ a {
 	flex: 1 1 0;
   	height: 100% !important;
 }
+
+.adjust_hover_a {
+	text-decoration: none;
+}
+
+.adjust_h5_margins {
+	margin-bottom: 0 !important;
+}
+.adjust_text_size {
+	font-size: 0.5em !important;
+	color: #fff;
+}

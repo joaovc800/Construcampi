@@ -1,13 +1,13 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Galpoes e Estruturas Metalicas</title>
+		<title>Parcerias Públicas e Privadas</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../public/assets/css/parcerias.css" />
         <?php include "../includes/css_imports.php";?>
-		<meta name="keywords" content="arquitetura,galpões, estruturas, metálicas, estrutura metalica">
-		<meta property="og:description" content="Galpões e estruturas metálicas, de forma mais segura e de fácil acesso">
+		<meta name="keywords" content="arquitetura,construtora,amcham,maquetes">
+		<meta property="og:description" content="Nossas parcerias que ajudam a Construcampi a transformar sonhos em realidade">
 	</head>
 	<body class="is-preload">
 		<!-- Header -->
@@ -25,10 +25,36 @@
 					<div class="container-fluid adjust">
 						<div class="row ml-5 ">
 							<div class="col-12 col-12-narrow overflow_right"> <!-- cuidado! a anim direita tem um overflow diferente do esquerdo, por isso necessita de overflow_right aqui -->
+							<!-- Row header com o texto -->
 								<!-- Row header com o texto -->
+								<div class="row adjust_row push-left pt-5">
+									<div class="col-12 col-12-narrow order-md-1 text_container text-center adjust_text">
+										<h3 class="pb-4"> W10 SOLUÇÕES SUSTENTÁVEIS </h3>
+										<!-- row 2 items com animação da direita a origen -->
+										<div id="row_animate_3" class="row right_row_hidden adjust_row pt-5">
+											<!-- <div class="col-6 col-6-narrow d-flex justify-content-center align-items-end">
+												<p><a href="https://maquetes.com.br/" class="link_page"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a FOGASSA MAQUETES</a></p>
+											</div> -->
+											<div class="col-6 col-12-narrow order-md-1 text_container text-center adjust_text">	
+												<div>
+													<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta porro omnis suscipit repellendus rem placeat cum nisi voluptates at voluptatum dolores, est ipsa temporibus corrupti et recusandae exercitationem labore in?	</p>
+												</div>
+											</div>
+											<div class="col-6 col-12-narrow order-md-1 pb-5 d-flex flex-column justify-content-center align-items-center">
+												<a href="?" class="clickable" target="_blank">
+													<span class="scale_image">
+														<img class="img-fluid" src="../public/images/parcerias/w10-logo.png" alt="w10_logo" />
+													</span>
+												</a>
+												<p><a href="?" class="link_page" target="_blank"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a W10 SOLUÇÕES</a></p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="border_hardcoded my-5"><!-- borda hardcoded --></div>
 								<div class="row adjust_row push-left">
-								<div class="col-12 col-12-narrow text_container text-center adjust_text">
-										<h3 class="pb-4"> AMCHAM BRASIL </h3>
+									<div class="col-12 col-12-narrow text_container text-center adjust_text">
+											<h3 class="pb-4"> AMCHAM BRASIL </h3>
 									</div>
 								</div>
 								<!-- row 2 items com animação da direita a origen -->
@@ -71,32 +97,6 @@
 											</span>
 										</a>
 										<p><a href="https://maquetes.com.br/" class="link_page" target="_blank"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a FOGASSA MAQUETES</a></p>
-									</div>
-								</div>
-								<div class="border_hardcoded my-5"><!-- borda hardcoded --></div>
-								<!-- Row header com o texto -->
-								<div class="row adjust_row push-left pt-5">
-									<div class="col-12 col-12-narrow order-md-1 text_container text-center adjust_text">
-										<h3 class="pb-4"> W10 SOLUÇÕES SUSTENTÁVEIS </h3>
-									</div>
-								</div>
-								<!-- row 2 items com animação da direita a origen -->
-								<div id="row_animate_3" class="row right_row_hidden adjust_row pt-5">
-									<!-- <div class="col-6 col-6-narrow d-flex justify-content-center align-items-end">
-										<p><a href="https://maquetes.com.br/" class="link_page"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a FOGASSA MAQUETES</a></p>
-									</div> -->
-									<div class="col-6 col-12-narrow order-md-1 text_container text-center adjust_text">	
-										<div>
-											<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta porro omnis suscipit repellendus rem placeat cum nisi voluptates at voluptatum dolores, est ipsa temporibus corrupti et recusandae exercitationem labore in?	</p>
-										</div>
-									</div>
-									<div class="col-6 col-12-narrow order-md-1 pb-5 d-flex flex-column justify-content-center align-items-center">
-										<a href="?" class="clickable" target="_blank">
-											<span class="scale_image">
-												<img class="img-fluid" src="../public/images/parcerias/w10-logo.png" alt="w10_logo" />
-											</span>
-										</a>
-										<p><a href="?" class="link_page" target="_blank"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a W10 SOLUÇÕES</a></p>
 									</div>
 								</div>
 							</div>

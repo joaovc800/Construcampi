@@ -171,10 +171,19 @@
 				<div class="row">
 					<div class="col-lg-3 mb-3">
 						<div class="mb-1">
-							<a class="navbar-brand" aria-label="Space">
-								<h5 class="text-light">
+							<a class="navbar-brand adjust_hover_a" aria-label="Space">
+								<h5 class="text-light adjust_h5_margins">
 									CONSTRUC<span style="color:#f00">A</span>MPI
 								</h5>
+								<p class="adjust_text_size">Um Grupo Filiado a Empresa CONSTRUCAMPI</p>
+							</a>
+						</div>
+						<div class="mb-1">
+							<a class="navbar-brand adjust_hover_a" aria-label="Space">
+								<h5 class="text-light adjust_h5_margins">
+									W10 SOLUÇÕES
+								</h5>
+								<p class="adjust_text_size">Um Grupo Filiado a Empresa CONSTRUCAMPI</p>
 							</a>
 						</div>
 						<ul class="list-unstyled list-py-1 mb-0">
