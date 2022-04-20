@@ -2,6 +2,7 @@
 $(document).ready(function() {
     const row1 = document.getElementById("row_animate_1"); 
     const row2 = document.getElementById("row_animate_2");
+    const row3 = document.getElementById("row_animate_3");
 
     let options = {
         rootMargin: '0px',
@@ -26,6 +27,15 @@ $(document).ready(function() {
         }
     }, options);
     observer_row2.observe(document.querySelector("#row_animate_2")); 
+
+    let observer_row3 = new IntersectionObserver( function(entries) {
+        row3.classList.add('push_right_row');
+        if(entries[0].isIntersecting === true) {
+            row3.classList.remove('right_row_hidden');
+        }
+    }, options);
+    observer_row3.observe(document.querySelector("#row_animate_3")); 
+ 
 });
 
 
