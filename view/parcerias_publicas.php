@@ -46,7 +46,7 @@
 														<img class="img-fluid" src="../public/images/parcerias/w10-logo.png" alt="w10_logo" />
 													</span>
 												</a>
-												<p><a href="?" class="link_page" target="_blank"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a W10 SOLUÇÕES</a></p>
+												<p><a href="./w10_solucoes.php" class="link_page" target="_blank"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Veja a W10 SOLUÇÕES</a></p>
 											</div>
 										</div>
 									</div>

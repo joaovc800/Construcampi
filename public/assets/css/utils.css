@@ -919,5 +919,18 @@ ol, ul {
     color: red;
 }
 
+.adjust_hover_a {
+	text-decoration: none;
+}
 
-   
+.adjust_h5_margins {
+	margin-bottom: 0 !important;
+}
+
+.adjust_text_size {
+	font-size: 0.5em !important;
+	line-height: 1;
+	color: #fff;
+	cursor: default;
+    text-align: center;
+}

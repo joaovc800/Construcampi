@@ -178,14 +178,6 @@
 								<p class="adjust_text_size">Um Grupo Filiado a Empresa CONSTRUCAMPI</p>
 							</a>
 						</div>
-						<!-- <div class="mb-1">
-							<a class="navbar-brand adjust_hover_a" aria-label="Space">
-								<h5 class="text-light adjust_h5_margins">
-									<span class="w10_gradient">W</span>10 <span style="color:#f00">SOLUÇÕES</span>
-								</h5>
-								<p class="adjust_text_size">Um Grupo Filiado a Empresa CONSTRUCAMPI</p>
-							</a>
-						</div> -->
 						<ul class="list-unstyled list-py-1 mb-0">
 							<li><span class="link-sm link-light">Copyright &copy 2022</span></li>
 							<li><span class="link-sm link-light">Todos os diretos reservados</span></li>
@@ -233,8 +225,8 @@
 						<h5 class="text-white mb-3">Parceiros</h5>
 						<ul class="list-unstyled list-py-1 mb-0">
 							<li><a class="link-sm link-light" href="view/parcerias_publicas.php">Parcerias Públicas e Privadas</a></li>
-							<li><a class="link-sm link-light" href="view/parcerias_publicas.php">W10 SOLUÇÕES</a><p class="adjust_text_size">Um Grupo Filiado a Empresa CONSTRUCAMPI</p></li>
-								
+							<li><a class="link-sm link-light" href="view/w10_solucoes.php">W10 SOLUÇÕES</a><!--<p class="adjust_text_size">Um Grupo Filiado a Empresa CONSTRUCAMPI</p>--></li>
+	
 						</ul>
 					</div>
 					<div class="col-sm">
