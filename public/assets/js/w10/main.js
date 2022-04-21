@@ -96,8 +96,8 @@
 				})();
 
 	// Smooth scroll.
-		$('.smooth-scroll').scrolly();
-		$('.smooth-scroll-middle').scrolly({ anchor: 'middle' });
+		// $('.smooth-scroll').scrolly();
+		// $('.smooth-scroll-middle').scrolly({ anchor: 'middle' });
 
 	// Wrapper.
 		$wrapper.children()
