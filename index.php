@@ -175,7 +175,7 @@
 								<h5 class="text-light adjust_h5_margins">
 									CONSTRUC<span style="color:#f00">A</span>MPI
 								</h5>
-								<p class="adjust_text_size">Um Grupo Filiado a Empresa CONSTRUCAMPI</p>
+								<p class="adjust_text_size">Uma Empresa Filiada ao Grupo CONSTRUCAMPI</p>
 							</a>
 						</div>
 						<ul class="list-unstyled list-py-1 mb-0">
