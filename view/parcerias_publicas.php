@@ -37,11 +37,12 @@
 											</div> -->
 											<div class="col-6 col-12-narrow order-md-1 text_container text-center adjust_text">	
 												<div>
-													<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta porro omnis suscipit repellendus rem placeat cum nisi voluptates at voluptatum dolores, est ipsa temporibus corrupti et recusandae exercitationem labore in?	</p>
+													<p>A W10 SOLUÇÕES SUSTENTÁVEIS é uma empresa especializada em soluções ambientais, trazendo o melhor do modernismo para efetuar serviços váriados de forma definitiva.	</p>
+													<p>Oferecendo desde serviços de gestão ambiental até atividades operacionais de soluções para materiais contaminados, coletas, transporte e coleta de resíduos, áreas de descarte, adequação agronômica, tratamento de água e muito mais.</p>
 												</div>
 											</div>
 											<div class="col-6 col-12-narrow order-md-1 pb-5 d-flex flex-column justify-content-center align-items-center">
-												<a href="?" class="clickable" target="_blank">
+												<a href="./w10_solucoes.php" class="clickable" target="_blank">
 													<span class="scale_image">
 														<img class="img-fluid" src="../public/images/parcerias/w10-logo.png" alt="w10_logo" />
 													</span>
