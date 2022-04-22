@@ -5,14 +5,14 @@
 		<title>Contatos</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<?php include("../includes/css_imports"); ?>
+		<?php include("../includes/css_imports.php"); ?>
 		<link rel="stylesheet" href="../public/assets/css/contatos.css" />
 	</head>
 	<body class="is-preload">
 		<div id="page-wrapper">
 
 			<!-- Header -->
-				<?php include("../includes/header"); ?>
+				<?php include("../includes/header.php"); ?>
 			<!-- Main -->
 				<div class="background p-md-5">
 					<div class="container-fluid adjust d-flex flex-column pb-md-5">
@@ -72,10 +72,10 @@
 					</div>
 				</div>
 			<!-- Footer -->
-			<?php include("../includes/footer"); ?>
+			<?php include("../includes/footer.php"); ?>
 		</div>
 		
 		<!-- Scripts -->
-		<?php include("../includes/scripts_imports"); ?>	
+		<?php include("../includes/scripts_imports.php"); ?>	
 	</body>
 </html>

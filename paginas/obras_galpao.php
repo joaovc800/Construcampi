@@ -5,13 +5,13 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../public/assets/css/obras.css" />
-        <?php include "../includes/css_imports";?>
+        <?php include "../includes/css_imports.php";?>
 		<meta name="keywords" content="arquitetura,galpões, estruturas, metálicas, estrutura metalica">
 		<meta property="og:description" content="Galpões e estruturas metálicas, de forma mais segura e de fácil acesso">
 	</head>
 	<body class="is-preload">
 		<!-- Header -->
-		<?php include "../includes/header"; ?>
+		<?php include "../includes/header.php"; ?>
 		<!-- Imagem atras -->
 		<!-- Main -->
 			<section id="second" class="main pb-5">
@@ -98,10 +98,10 @@
 				<!-- colocar as cidades em uma nova div-->
 			</section>
 		<!-- Footer -->
-			<?php include "../includes/footer"; ?>
+			<?php include "../includes/footer.php"; ?>
 
 		<!-- Scripts -->
-		<?php include "../includes/scripts_imports"; ?>
+		<?php include "../includes/scripts_imports.php"; ?>
 		<script src="../public/assets/js/obras/galpao.js"></script>
 
 	</body>

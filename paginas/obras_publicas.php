@@ -7,14 +7,14 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="../public/assets/css/obras.css" />
-	<?php include "../includes/css_imports"; ?>
+	<?php include "../includes/css_imports.php"; ?>
 	<meta name="keywords" content="obras,publicas,livrarias, museo, livraria,projeto governamental,hospital,arquitetura">
 	<meta property="og:description" content="Obras públicas, conheça nossas obras públicas feitas com carinho">
 </head>
 
 <body class="is-preload">
 	<!-- Header -->
-	<?php include "../includes/header"; ?>
+	<?php include "../includes/header.php"; ?>
 	<!-- Imagem atras -->
 	<!-- Main -->
 
@@ -104,10 +104,10 @@
 		</div>
 	</section>
 	<!-- Footer -->
-	<?php include "../includes/footer"; ?>
+	<?php include "../includes/footer.php"; ?>
 
 	<!-- Scripts -->
-	<?php include "../includes/scripts_imports"; ?>
+	<?php include "../includes/scripts_imports.php"; ?>
 	<script src="../public/assets/js/obras/publicas.js"></script>
 </body>
 

@@ -9,13 +9,13 @@
 		<title>Elements - Construcampi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<?php include("../includes/css_imports"); ?>
+		<?php include("../includes/css_imports.php"); ?>
 	</head>
 	<body class="is-preload">
 		<div id="page-wrapper">
 
 			<!-- Header -->
-				<?php include("../includes/header"); ?>
+				<?php include("../includes/header.php"); ?>
 
 			<!-- Main -->
 				<section id="main" class="container">
@@ -402,10 +402,10 @@
 				</section>
 
 			<!-- Footer -->
-			<?php include("../includes/footer"); ?>
+			<?php include("../includes/footer.php"); ?>
 		</div>
 		<!-- Scripts -->
-		<?php include("../includes/scripts_imports"); ?>
+		<?php include("../includes/scripts_imports.php"); ?>
 
 	</body>
 </html>

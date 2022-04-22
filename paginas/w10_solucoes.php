@@ -5,7 +5,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../public/assets/css/w10_solucoes.css" />
-        <?php  include "../includes/css_imports";?>
+        <?php  include "../includes/css_imports.php";?>
 		<noscript><link rel="stylesheet" href="../public/assets/css/noscript.css" /></noscript>
         <meta name="keywords" content="">
 		<meta property="og:description" content="">
@@ -13,7 +13,7 @@
 	</head>
 	<body class="is-preload">
         <main class="container-fuild">
-        <?php include "../includes/header"; ?>
+        <?php include "../includes/header.php"; ?>
 			<div id="wrapper" class="divided">
 				<!-- Introducao -->
 					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
@@ -191,10 +191,10 @@
 					</section>
 				<!-- Footer -->
 			    </div>   
-            <?php include "../includes/footer"; ?>
+            <?php include "../includes/footer.php"; ?>
         </main>
 		<!-- Scripts -->
-        <?php include "../includes/scripts_imports"; ?>
+        <?php include "../includes/scripts_imports.php"; ?>
 		<script src="../public/assets/js/w10/main.js"></script>
 		<!-- fontawesome -->
 	</body>

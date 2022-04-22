@@ -1,4 +1,4 @@
-[22-Apr-2022 16:39:25 America/Fortaleza] PHP Fatal error:  Failed opening required '/home1/con26161/public_html/includes/header.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in Unknown on line 0
-[22-Apr-2022 16:39:28 America/Fortaleza] PHP Fatal error:  Failed opening required '/home1/con26161/public_html/includes/header.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in Unknown on line 0
-[22-Apr-2022 16:39:29 America/Fortaleza] PHP Fatal error:  Failed opening required '/home1/con26161/public_html/includes/header.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in Unknown on line 0
-[22-Apr-2022 16:40:02 America/Fortaleza] PHP Fatal error:  Failed opening required '/home1/con26161/public_html/includes/header.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in Unknown on line 0
+[22-Apr-2022 16:39:25 America/Fortaleza] PHP Fatal error:  Failed opening required '/home1/con26161/public_html/includes/header.php.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in Unknown on line 0
+[22-Apr-2022 16:39:28 America/Fortaleza] PHP Fatal error:  Failed opening required '/home1/con26161/public_html/includes/header.php.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in Unknown on line 0
+[22-Apr-2022 16:39:29 America/Fortaleza] PHP Fatal error:  Failed opening required '/home1/con26161/public_html/includes/header.php.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in Unknown on line 0
+[22-Apr-2022 16:40:02 America/Fortaleza] PHP Fatal error:  Failed opening required '/home1/con26161/public_html/includes/header.php.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in Unknown on line 0

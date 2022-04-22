@@ -5,12 +5,12 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../public/assets/css/mcva.css" />
-        <?php include "../includes/css_imports";?>
+        <?php include "../includes/css_imports.php";?>
 		<meta name="keywords" content="arquitetura,engenharia,casa, verde, amarela, minha casa, minha vida, programa">
 		<meta property="og:description" content="Programa casa verde e amarela, conheça nossos projetos dedicados">
 	</head>
 	<body class="is-preload">
-		<?php include "../includes/header"; ?>	
+		<?php include "../includes/header.php"; ?>	
 		<!-- Wrapper -->
 		<div id="wrapper">
 			<!-- Intro -->
@@ -124,8 +124,8 @@
 				</div>
 			</section>
 		</div>
-		<?php include "../includes/footer"; ?>
+		<?php include "../includes/footer.php"; ?>
 		<!-- Scripts -->	
-		<?php include "../includes/scripts_imports"; ?>
+		<?php include "../includes/scripts_imports.php"; ?>
 	</body>
 </html>
