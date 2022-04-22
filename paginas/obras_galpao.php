@@ -5,13 +5,13 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../public/assets/css/obras.css" />
-        <?php include "../includes/css_imports.php";?>
+        <?php include "../includes/css_imports";?>
 		<meta name="keywords" content="arquitetura,galpões, estruturas, metálicas, estrutura metalica">
 		<meta property="og:description" content="Galpões e estruturas metálicas, de forma mais segura e de fácil acesso">
 	</head>
 	<body class="is-preload">
 		<!-- Header -->
-		<?php include "../includes/header.php"; ?>
+		<?php include "../includes/header"; ?>
 		<!-- Imagem atras -->
 		<!-- Main -->
 			<section id="second" class="main pb-5">
@@ -31,7 +31,7 @@
 											<p>O uso de estruturas metálicas, tais como o aço, como fonte de sustentação dentro da <strong>engenharia civil</strong>, vêm sendo realizado em diversos projetos modernos, levando em conta a rapidez fornecida às fases da construção, propiciada pelo uso de tais estruturas.</p>
 											<p>O amplo ramo da construção civil clama por <strong>obras bem estruturadas</strong> e com <strong>alto grau de confiabilidade</strong>, é por isso que nós da Construcampi trazemos <strong>métodos inovadores</strong> dentro do ramo de infraestrutura e estruturas metálicas, visando atender às mais diversas necessidades de nossos clientes.</p>
 											<p>Estes métodos nos trazem <strong>grandes vantagens</strong> e <strong>conceitos diferenciais</strong> de mercado para nossos serviços, como a construção de galpões com maior segurança e melhor utilização de espaço, nunca deixando de lado a <strong>qualidade</strong> e <strong>rapidez</strong> de nossas construções.</p>
-											<p><a href="./contatos.php" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
+											<p><a href="./contatos" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
 										</div>
 									</div>
 								</div>
@@ -98,10 +98,10 @@
 				<!-- colocar as cidades em uma nova div-->
 			</section>
 		<!-- Footer -->
-			<?php include "../includes/footer.php"; ?>
+			<?php include "../includes/footer"; ?>
 
 		<!-- Scripts -->
-		<?php include "../includes/scripts_imports.php"; ?>
+		<?php include "../includes/scripts_imports"; ?>
 		<script src="../public/assets/js/obras/galpao.js"></script>
 
 	</body>

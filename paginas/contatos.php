@@ -5,14 +5,14 @@
 		<title>Contatos</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<?php include("../includes/css_imports.php"); ?>
+		<?php include("../includes/css_imports"); ?>
 		<link rel="stylesheet" href="../public/assets/css/contatos.css" />
 	</head>
 	<body class="is-preload">
 		<div id="page-wrapper">
 
 			<!-- Header -->
-				<?php include("../includes/header.php"); ?>
+				<?php include("../includes/header"); ?>
 			<!-- Main -->
 				<div class="background p-md-5">
 					<div class="container-fluid adjust d-flex flex-column pb-md-5">
@@ -48,15 +48,15 @@
 									</div>
 									<div class="row pt-1">
 										<div class="col text-center ">
-											<a href="./contatos.php" class="link_page"><i class="icon_brands link-primary icon brands fa-facebook" style="font-size:2em;"></i></a>
+											<a href="./contatos" class="link_page"><i class="icon_brands link-primary icon brands fa-facebook" style="font-size:2em;"></i></a>
 											<p class="icon_title">Nossa página no facebook</p>
 										</div>
 										<div class="col text-center">
-											<a href="./contatos.php" class="link_page"><i class="icon_brands link-primary icon brands fa-twitter" style="font-size:2em;"></i></a>
+											<a href="./contatos" class="link_page"><i class="icon_brands link-primary icon brands fa-twitter" style="font-size:2em;"></i></a>
 											<p class="icon_title">Nosso perfil no twitter</p>
 										</div>
 										<div class="col text-center">
-											<a href="./contatos.php" class="link_page"><i class="icon_brands link-primary instagram_color icon brands fa-instagram" style="font-size:2em;"></i></a>
+											<a href="./contatos" class="link_page"><i class="icon_brands link-primary instagram_color icon brands fa-instagram" style="font-size:2em;"></i></a>
 											<p class="icon_title">Nosso perfil no instagram</p>
 										</div>
 									</div>
@@ -72,10 +72,10 @@
 					</div>
 				</div>
 			<!-- Footer -->
-			<?php include("../includes/footer.php"); ?>
+			<?php include("../includes/footer"); ?>
 		</div>
 		
 		<!-- Scripts -->
-		<?php include("../includes/scripts_imports.php"); ?>	
+		<?php include("../includes/scripts_imports"); ?>	
 	</body>
 </html>

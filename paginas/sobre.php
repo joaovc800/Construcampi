@@ -6,7 +6,7 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="../public/assets/css/sobre.css" />
-	<?php include "../includes/css_imports.php"; ?>
+	<?php include "../includes/css_imports"; ?>
 	<meta name="keywords" content="contrucampi,Construcampi,tragetória,Construcampi,arquitetura">
 	<meta property="og:description" content="Venha conhecer mais sobre quem somos, familia Construcampi">
 </head>
@@ -14,7 +14,7 @@
 <body class="landing is-preload">
 	<!-- Wrapper -->
 	<div id="wrapper">
-		<?php include "../includes/header.php"; ?>
+		<?php include "../includes/header"; ?>
 		<!-- Main -->
 		<div id="main_sobre">
 			<div class="inner">
@@ -108,9 +108,9 @@
 				</section> -->
 			</div>
 		</div>
-		<?php include "../includes/footer.php"; ?>
+		<?php include "../includes/footer"; ?>
 	</div>
-	<?php include "../includes/scripts_imports.php"; ?>
+	<?php include "../includes/scripts_imports"; ?>
 </body>
 
 </html>

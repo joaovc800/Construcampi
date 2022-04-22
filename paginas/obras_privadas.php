@@ -6,14 +6,14 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="../public/assets/css/obras.css" />
-	<?php include "../includes/css_imports.php"; ?>
+	<?php include "../includes/css_imports"; ?>
 	<meta name="keywords" content="arquitetura,obras,privadas,alto padrão, shopping, center, prédio, prédios, comercial">
 	<meta property="og:description" content="Obras Privadas, tudo sobre as melhores obras da construcampi">
 </head>
 
 <body class="is-preload">
 	<!-- Header -->
-	<?php include "../includes/header.php"; ?>
+	<?php include "../includes/header"; ?>
 	<!-- Imagem atras -->
 	<!-- Main -->
 	<section id="second" class="main pb-5">
@@ -37,7 +37,7 @@
 
 									<p>Este sucesso se dá pelo nosso prezar com nossos clientes que encontram conosco não apenas resultados de excelência, mas também a experiência de uma empresa que está inteiramente comprometida em fazer da realização dos sonhos de seus clientes e parceiros sua principal <strong>prioridade</strong> e <strong>responsabilidade</strong>.</p>
 									
-									<p><a href="./contatos.php" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em
+									<p><a href="./contatos" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em
 											contato conosco</a></p>
 								</div>
 							</div>
@@ -113,10 +113,10 @@
 		<!-- colocar as cidades em uma nova div-->
 	</section>
 	<!-- Footer -->
-	<?php include "../includes/footer.php"; ?>
+	<?php include "../includes/footer"; ?>
 
 	<!-- Scripts -->
-	<?php include "../includes/scripts_imports.php"; ?>
+	<?php include "../includes/scripts_imports"; ?>
 	<script src="../public/assets/js/obras/privadas.js"></script>
 
 </body>

@@ -5,13 +5,13 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../public/assets/css/obras.css" />
-        <?php include "../includes/css_imports.php";?>
+        <?php include "../includes/css_imports";?>
 		<meta name="keywords" content="arquitetura,pavimentação, pavimentações, asfáltica,asfálticas">
 		<meta property="og:description" content="Pavimentações Asfálticas, nada como uma rua ou estrada sem buracos">
 	</head>
 	<body class="is-preload">
 		<!-- Header -->
-		<?php include "../includes/header.php"; ?>
+		<?php include "../includes/header"; ?>
 		<!-- Imagem atras -->
 		<!-- Main -->
 			<section id="second" class="main pb-5">
@@ -55,7 +55,7 @@
                                             <p>Nós da Construcampi trazemos não só apenas <strong>soluções</strong> para esta deficiência, como também a <strong>total manutenção</strong> de rodovias previamente pavimentadas.</p>
                                             <p>Outro grande problema que rodovias modernas encontram está no desgaste causado pela <strong>grande carga rodoviária</strong> e <strong>asfalto de baixa qualidade</strong>, este aos quais geram <strong>buracos</strong> e <strong>degradam a mobilidade</strong> de veículos, causando acidentes e transtornos a população. </p>
                                             <p>A Construcampi previne estes problemas trazendo <strong>segurança</strong> com <strong>asfalto</strong> de <strong>alta qualidade</strong>, utilizando de métodos <strong>eco-friendly</strong> (melhor ao meio ambiente) que não é apenas <strong>sustentável</strong>, como também abaixa os custos e aumenta a durabilidade e qualidade das vias.</p>
-											<p><a href="./contatos.php" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
+											<p><a href="./contatos" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
 										</div>
 									</div>
 								</div>
@@ -92,10 +92,10 @@
 				<!-- colocar as cidades em uma nova div-->
 			</section>
 		<!-- Footer -->
-			<?php include "../includes/footer.php"; ?>
+			<?php include "../includes/footer"; ?>
 
 		<!-- Scripts -->
-		<?php include "../includes/scripts_imports.php"; ?>
+		<?php include "../includes/scripts_imports"; ?>
 		<script src="../public/assets/js/obras/pavimentacao.js"></script>
 
 	</body>

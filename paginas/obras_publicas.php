@@ -7,14 +7,14 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="../public/assets/css/obras.css" />
-	<?php include "../includes/css_imports.php"; ?>
+	<?php include "../includes/css_imports"; ?>
 	<meta name="keywords" content="obras,publicas,livrarias, museo, livraria,projeto governamental,hospital,arquitetura">
 	<meta property="og:description" content="Obras públicas, conheça nossas obras públicas feitas com carinho">
 </head>
 
 <body class="is-preload">
 	<!-- Header -->
-	<?php include "../includes/header.php"; ?>
+	<?php include "../includes/header"; ?>
 	<!-- Imagem atras -->
 	<!-- Main -->
 
@@ -35,9 +35,9 @@
 
 							<p>Tendo em vista que, anualmente, o crescimento da população brasileira figura um aumento de 2% a 3%, nós da Construcampi temos o dever e orgulho de construir as melhores obras públicas possíveis para a ampla gama populacional de nosso querido país, entre as principais modalidades de obras públicas com as quais trabalhamos, podemos destacar: <strong>Saúde</strong> (Hospitais, UBS’s, , Ambulatórios, Centros de Atenção Psicossocial); <strong>Educação</strong> (Creches, Escolas, Universidades, Institutos Educacionais); <strong>Infraestrutura de Transportes</strong> (Rodovias, Ferrovias, Pontes, Túneis, Aeroportos, Sistema Metroviário, Portos); <strong>Cultura e Lazer</strong> (Parques, Praças, Centros Esportivos, Bibliotecas, Museus).</p>
 
-							<p>Temos também grande orgulho em participar do projeto governamental <a class="link_page" href="./casa_verde_e_amarela.php">Casa Verde e Amarela</a>, antigo Minha Casa Minha Vida, programa habitacional que visa financiar moradias para pessoas com renda familiar bruta de até R$ 7.000 reais, no intuito de promover maior qualidade de vida e moradia aos <strong>cidadãos brasileiros</strong>.</p>
+							<p>Temos também grande orgulho em participar do projeto governamental <a class="link_page" href="./casa_verde_e_amarela">Casa Verde e Amarela</a>, antigo Minha Casa Minha Vida, programa habitacional que visa financiar moradias para pessoas com renda familiar bruta de até R$ 7.000 reais, no intuito de promover maior qualidade de vida e moradia aos <strong>cidadãos brasileiros</strong>.</p>
 							
-							<p><a href="./contatos.php" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
+							<p><a href="./contatos" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
 						</div>
 					</div>
 					<div class="col-12-narrow">
@@ -104,10 +104,10 @@
 		</div>
 	</section>
 	<!-- Footer -->
-	<?php include "../includes/footer.php"; ?>
+	<?php include "../includes/footer"; ?>
 
 	<!-- Scripts -->
-	<?php include "../includes/scripts_imports.php"; ?>
+	<?php include "../includes/scripts_imports"; ?>
 	<script src="../public/assets/js/obras/publicas.js"></script>
 </body>
 

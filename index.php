@@ -33,40 +33,40 @@
 			<nav id="nav">
 				<ul>
 					<li style="white-space: nowrap;">
-						<a href="index.php">Home</a>
+						<a href="index">Home</a>
 					</li>
 					<li style="white-space: nowrap;">
-						<a href="view/sobre.php">Quem Somos</a>
+						<a href="paginas/sobre">Quem Somos</a>
 					</li>
 					<li style="white-space: nowrap;">
-						<a href="view/parcerias_publicas.php">Parcerias Públicas e Privadas</a>
+						<a href="paginas/parcerias_publicas">Parcerias Públicas e Privadas</a>
 					</li>
 					<li class="opener" style="user-select: none; cursor: pointer; white-space: nowrap;">
 						<a href="#" class="icon solid fa-angle-down">Obras</a>
 						<ul class="" style="user-select: none; display: none; position: absolute;">
 							<li style="white-space: nowrap;">
-								<a href="view/obras_privadas.php" style="display: block;">Obras Privadas</a>
+								<a href="paginas/obras_privadas" style="display: block;">Obras Privadas</a>
 							</li>
 							<li style="white-space: nowrap;">
-								<a href="view/obras_publicas.php" style="display: block;">Obras Públicas</a>
+								<a href="paginas/obras_publicas" style="display: block;">Obras Públicas</a>
 							</li>
 							<li style="white-space: nowrap;">
-								<a href="view/obras_galpao.php" style="display: block;">Galpões e Estruturas
+								<a href="paginas/obras_galpao" style="display: block;">Galpões e Estruturas
 									metálicas</a>
 							</li>
 							<li style="white-space: nowrap;">
-								<a href="view/obras_reforma.php" style="display: block;">Reformas em Geral</a>
+								<a href="paginas/obras_reforma" style="display: block;">Reformas em Geral</a>
 							</li>
 							<li style="white-space: nowrap;">
-								<a href="view/obras_casas.php" style="display: block;">Casas Pré-Fabricadas</a>
+								<a href="paginas/obras_casas" style="display: block;">Casas Pré-Fabricadas</a>
 							</li>
 							<li style="white-space: nowrap;">
-								<a href="view/obras_pavimentacao.php" style="display: block;">Pavimentações Asfálticas</a>
+								<a href="paginas/obras_pavimentacao" style="display: block;">Pavimentações Asfálticas</a>
 							</li>
 						</ul>
 					</li>
 					<li style="white-space: nowrap;">
-						<a href="view/casa_verde_e_amarela.php">Casa Verde e Amarela</a>
+						<a href="paginas/casa_verde_e_amarela">Casa Verde e Amarela</a>
 					</li>
 				</ul>
 			</nav>
@@ -76,7 +76,7 @@
 			<h2>CONSTRUC<span style="color:#f00">A</span>MPI</h2>
 			<p>Seu objetivo é o nosso principal compromisso e responsabilidade</p>
 			<ul class="actions special">
-				<li><a href="view/sobre.php" class="button">Saiba mais</a></li>
+				<li><a href="paginas/sobre" class="button">Saiba mais</a></li>
 			</ul>
 		</section>
 
@@ -138,7 +138,7 @@
 						<h3>Parcerias Públicas e Privadas</h3>
 						<p>Conheça as parcerias que auxiliam a Construcampi a ser sinônimo de qualidade e satisfação dentro do mercado da construção civil.</p>
 						<ul class="actions special">
-							<li><a href="./view/parcerias_publicas.php" class="button alt">Veja Nossos Parceiros</a></li>
+							<li><a href="./paginas/parcerias_publicas" class="button alt">Veja Nossos Parceiros</a></li>
 						</ul>
 					</section>
 				</div>
@@ -148,7 +148,7 @@
 						<h3>Contatos</h3>
 						<p>Entre em contato conosco para conhecer mais sobre nossos serviços e programas governamentais, garantimos a total satisfação, será um prazer atende-lo.</p>
 						<ul class="actions special">
-							<li><a href="view/contatos.php" class="button alt">Entre em contato</a></li>
+							<li><a href="paginas/contatos" class="button alt">Entre em contato</a></li>
 						</ul>
 					</section>
 				</div>
@@ -205,34 +205,34 @@
 					<div class="col-sm mb-7 mb-sm-0">
 						<h5 class="text-white mb-3">Obras</h5>
 						<ul class="list-unstyled list-py-1 mb-0">
-							<li><a class="link-sm link-light" href="view/obras_privadas.php">Obras Privadas</a></li>
-							<li><a class="link-sm link-light" href="view/obras_publicas.php">Obras Públicas</a></li>
-							<li><a class="link-sm link-light" href="view/obras_galpao.php">Galpões e Estruturas Metálicas</a></li>
-							<li><a class="link-sm link-light" href="view/obras_reforma.php">Reformas em Geral</a></li>
-							<li><a class="link-sm link-light" href="view/obras_casas.php">Casas Pré-Fabricadas</a></li>
-							<li><a class="link-sm link-light" href="view/obras_pavimentacao.php">Pavimentações Asfálticas</a></li>
+							<li><a class="link-sm link-light" href="paginas/obras_privadas">Obras Privadas</a></li>
+							<li><a class="link-sm link-light" href="paginas/obras_publicas">Obras Públicas</a></li>
+							<li><a class="link-sm link-light" href="paginas/obras_galpao">Galpões e Estruturas Metálicas</a></li>
+							<li><a class="link-sm link-light" href="paginas/obras_reforma">Reformas em Geral</a></li>
+							<li><a class="link-sm link-light" href="paginas/obras_casas">Casas Pré-Fabricadas</a></li>
+							<li><a class="link-sm link-light" href="paginas/obras_pavimentacao">Pavimentações Asfálticas</a></li>
 						</ul>
 					</div>
 					<div class="col-sm mb-7 mb-sm-0">
 						<h5 class="text-white mb-3">A Construcampi</h5>
 						<ul class="list-unstyled list-py-1 mb-0">
-							<li><a class="link-sm link-light" href="view/contatos.php">Contatos</a></li>
-							<li><a class="link-sm link-light" href="view/sobre.php">Quem somos</a></li>
-							<li><a class="link-sm link-light" href="view/politica_privacidade.php">Políticas de Privacidade</a></li>
+							<li><a class="link-sm link-light" href="paginas/contatos">Contatos</a></li>
+							<li><a class="link-sm link-light" href="paginas/sobre">Quem somos</a></li>
+							<li><a class="link-sm link-light" href="paginas/politica_privacidade">Políticas de Privacidade</a></li>
 						</ul>
 					</div>
 					<div class="col-sm">
 						<h5 class="text-white mb-3">Parceiros</h5>
 						<ul class="list-unstyled list-py-1 mb-0">
-							<li><a class="link-sm link-light" href="view/parcerias_publicas.php">Parcerias Públicas e Privadas</a></li>
-							<li><a class="link-sm link-light" href="view/w10_solucoes.php">W10 SOLUÇÕES</a><!--<p class="adjust_text_size">Um Grupo Filiado a Empresa CONSTRUCAMPI</p>--></li>
+							<li><a class="link-sm link-light" href="paginas/parcerias_publicas">Parcerias Públicas e Privadas</a></li>
+							<li><a class="link-sm link-light" href="paginas/w10_solucoes">W10 SOLUÇÕES</a><!--<p class="adjust_text_size">Um Grupo Filiado a Empresa CONSTRUCAMPI</p>--></li>
 	
 						</ul>
 					</div>
 					<div class="col-sm">
 						<h5 class="text-white mb-3">Programas</h5>
 						<ul class="list-unstyled list-py-1 mb-5">
-							<li><a class="link-sm link-light" href="view/casa_verde_e_amarela.php">Casa Verde e Amarela</a></li>
+							<li><a class="link-sm link-light" href="paginas/casa_verde_e_amarela">Casa Verde e Amarela</a></li>
 						</ul>
 					</div>
 				</div>

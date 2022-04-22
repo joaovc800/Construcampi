@@ -5,12 +5,12 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../public/assets/css/mcva.css" />
-        <?php include "../includes/css_imports.php";?>
+        <?php include "../includes/css_imports";?>
 		<meta name="keywords" content="arquitetura,engenharia,casa, verde, amarela, minha casa, minha vida, programa">
 		<meta property="og:description" content="Programa casa verde e amarela, conheça nossos projetos dedicados">
 	</head>
 	<body class="is-preload">
-		<?php include "../includes/header.php"; ?>	
+		<?php include "../includes/header"; ?>	
 		<!-- Wrapper -->
 		<div id="wrapper">
 			<!-- Intro -->
@@ -119,13 +119,13 @@
 				<div class="content">
 					<p><strong>VENHA</strong> agora ser Construcampi! Dúvidas entre em contato com a nossa consultoria.</p>
 					<ul class="actions">
-						<li><a href="./contatos.php" class="button primary large">Fale conosco</a></li>
+						<li><a href="./contatos" class="button primary large">Fale conosco</a></li>
 					</ul>
 				</div>
 			</section>
 		</div>
-		<?php include "../includes/footer.php"; ?>
+		<?php include "../includes/footer"; ?>
 		<!-- Scripts -->	
-		<?php include "../includes/scripts_imports.php"; ?>
+		<?php include "../includes/scripts_imports"; ?>
 	</body>
 </html>
