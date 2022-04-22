@@ -1,0 +1,48 @@
+.container header h2{
+    color: #dddddd;
+}
+
+.container header p {
+    color: #dddddd;
+    border-bottom: 1px solid #555555;
+}
+
+.box p {
+    color: rgba(255, 255, 255, 0.65);
+}
+
+.box a {
+    color: #fff;
+}
+
+.box a:hover {
+    color: #f00;
+    border-bottom: 1px solid #f00;
+}
+
+.box h2,h3,h4 {
+    color: #dddddd;
+}
+
+.box li {
+    color: rgba(255, 255, 255, 0.65);
+}
+
+.box ul li::before {
+    list-style-type: circle;
+    content: "\2022";
+    color: red;
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+}
+
+.numeral ul {
+    list-style-type: upper-roman !important;
+    color: red;
+}
+
+.numeral ul li::before {
+   content: none;
+}

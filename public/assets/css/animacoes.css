@@ -1,0 +1,222 @@
+/*Utilizado para criar uma div que expande */
+/* Esta abaixo é para o video */
+.grow { /* posicao do pai do hover */
+    position:absolute; 
+    top: 50%; 
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    z-index: 1;
+}
+
+
+.grow:hover>.icon { /* mudar hover do filho com animacao */
+    transform: scale(1.3);
+    transition: all .4s ease-in-out; 
+}
+
+.grow:not(:hover)>.icon { /* terminar animacao pos hover do filho */
+    transform: scale(1); 
+    transition: all .3s ease-in-out;
+}
+
+
+/* Utilizado para criar uma div que expande */
+/* Esta abaixo é para qualquer um */
+/* Utilizar scale image na div, grow image na imagem */
+
+.scale_image {
+    overflow: hidden;
+}
+
+.grow_image  {
+    transition: all .5s ease-in-out;
+}
+
+.grow_image:hover {
+    transform: scale(1.1);
+    filter: grayscale(1);
+}
+
+.grow_image2  {
+    transition: all .5s ease-in-out;
+    filter: grayscale(1);
+}
+
+.grow_image2:hover {
+    transform: scale(1.1);
+    filter: grayscale(0);
+}
+
+.grow_image2:hover .hidden_text {
+    position: absolute;
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    z-index: 10;
+}
+
+/* doc */
+.push-left{
+    animation: push-left 0.9s;
+}
+
+.animate-push-left {
+    display: none!important;
+}
+
+
+
+
+@keyframes push-left {
+    from{
+        transform: translateX(-600px);
+        filter: blur(25px);
+    } to {
+        transform: translateX(0px);
+        filter: blur(0);
+    }
+}
+
+/* Animações utilizadas na obras */
+/* animacao de borda abrindo */
+.border_activate {
+    display: inline-block;
+}
+
+.border_activate:after {
+    display:block;
+    content: '';
+    border-bottom: 2px solid #b00000;
+    transform: scaleX(0); 
+    transition: all 600ms ease-in-out;
+}
+
+.border_activate:hover:after { 
+    transform: scaleX(1); 
+}
+
+/* Animacao texto abaixo, origem esquerda */
+
+.text_container {
+    position: relative;
+    overflow: hidden;
+}
+
+.text_container:hover .hidden_text {
+    -webkit-animation: slide-forward 0.8s forwards;
+    -webkit-animation-delay: 0s;
+    animation: slide-forward 0.8s forwards;
+    animation-delay: 0s;
+}
+
+/* CUIDADO QUE NO MOBILE É DIFERENTE */
+.hidden_text {
+    position: absolute;
+    left: -400px;
+    width: 400px;
+    height: 100px;
+    text-align: center;
+}
+
+@-webkit-keyframes slide-forward {
+    100% { left: 0; }
+}
+
+@keyframes slide-forward {
+    100% {  left: 0; }
+}
+
+
+/* variante push left para não ter conflitos */
+.push_left_row {
+    /* animation: push_left_row 0.9s; */
+    transition:all 1s ease;
+    transform: translate3d(0px, 0, 0);
+    -ms-transform: translate3d(0px, 0, 0);
+    -webkit-transform: translate3d(0px, 0, 0);
+}
+
+.left_row_hidden {
+    visibility: hidden !important; 
+    transform: translate3d(-500px, 0, 0);
+    -ms-transform: translate3d(-500px, 0, 0);
+    -webkit-transform: translate3d(-500px, 0, 0);
+    filter: blur(35px);
+    z-index: 1000;
+}
+
+/* O lado direito tem problema de overflow */
+.overflow_right {
+    overflow: hidden;
+    position: relative;
+}
+
+/* esquerda para direita */
+.push_right_row {
+    transition:all 1s ease;
+    transform: translate3d(0px, 0, 0);
+    -ms-transform: translate3d(0px, 0, 0);
+    -webkit-transform: translate3d(0px, 0, 0);
+}
+
+/* direita para esquerda */
+.right_row_hidden {
+    visibility: hidden !important;
+    transform: translate3d(500px, 0, 0);
+    -ms-transform: translate3d(500px, 0, 0);
+    -webkit-transform: translate3d(500px, 0, 0);
+    filter: blur(35px);
+    z-index: 1000;
+}
+
+/* Ajustes de tela para certas animações */
+@media screen and (max-width:736px) { 
+    /* mobile */
+    .hidden_text {
+        position: absolute;
+        left: -200px; 
+        width: 200px;
+        height: 100px;
+        text-align: center;
+    }
+
+    .push_left_row {
+        /* animation: push_left_row 0.9s; */
+        transition:all 1s ease;
+        transform: translate3d(0px, 0, 0);
+        -ms-transform: translate3d(0px, 0, 0);
+        -webkit-transform: translate3d(0px, 0, 0);
+    }
+    
+    .left_row_hidden {
+        visibility: hidden !important; 
+        transform: translate3d(0px, 0, 0);
+        -ms-transform: translate3d(0px, 0, 0);
+        -webkit-transform: translate3d(0px, 0, 0);
+        filter: blur(35px);
+    }
+    
+    /* O lado direito tem problema de overflow */
+    .overflow_right {
+        overflow: hidden;
+        position: relative;
+    }
+    
+    /* esquerda para direita */
+    .push_right_row {
+        transition:all 1s ease;
+        transform: translate3d(0px, 0, 0);
+        -ms-transform: translate3d(0px, 0, 0);
+        -webkit-transform: translate3d(0px, 0, 0);
+    }
+    
+    /* direita para esquerda */
+    .right_row_hidden {
+        visibility: hidden !important;
+        transform: translate3d(0px, 0, 0);
+        -ms-transform: translate3d(0px, 0, 0);
+        -webkit-transform: translate3d(0px, 0, 0);
+        filter: blur(35px);
+    }   
+}
+
