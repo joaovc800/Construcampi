@@ -21,7 +21,23 @@
 	<meta property="og:image:height" content="200">
 	<meta property="og:url" content="http://construcampi.herokuapp.com/">
 
+<<<<<<< HEAD
 </head>
+=======
+	</head>
+	<body class="landing is-preload">
+		<div id="page-wrapper">
+			<!-- Header -->
+				<?php include "includes/php/header.php"; ?>
+			<!-- Banner -->
+				<section id="banner">
+					<h2>Constru Campi</h2>
+					<p>Another fine responsive site template freebie by HTML5 UP.</p>
+					<ul class="actions special">
+						<li><a href="#" class="button primary">Learn More</a></li>
+					</ul>
+				</section>
+>>>>>>> main
 
 <body class="landing is-preload">
 	<div id="page-wrapper" style="position:relative; display: block;">
@@ -131,6 +147,7 @@
 				</div>
 			</section>
 
+<<<<<<< HEAD
 			<div class="row ">
 				<div class="col-6 col-12-narrower">
 					<section class="adjust_card box special d-flex flex-column justify-content-between">
@@ -164,6 +181,15 @@
 			<p class="text-light text-center"><strong class="text-light">Rio de Janeiro</strong>:  Rua..... nº, andar X, Bairro, Cidade e cep</p> -->
 			<!-- </div> -->
 		</section>
+=======
+			<!-- CTA -->
+				<section>
+
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.103124475027!2d-46.85204328502365!3d-23.492794784716946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf02394b674fc9%3A0x66136606865c6ceb!2sEdificio%20Amazonia!5e0!3m2!1spt-BR!2sbr!4v1649184281592!5m2!1spt-BR!2sbr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+					<!-- <h2>Sign up for beta access</h2>
+					<p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc.</p>
+>>>>>>> main
 
 		<!-- Footer -->
 		<footer id="footer">
@@ -178,6 +204,7 @@
 								<p class="adjust_text_size">Uma Empresa Filiada ao Grupo CONSTRUCAMPI</p>
 							</a>
 						</div>
+<<<<<<< HEAD
 						<ul class="list-unstyled list-py-1 mb-0">
 							<li><span class="link-sm link-light">Copyright &copy 2022</span></li>
 							<li><span class="link-sm link-light">Todos os diretos reservados</span></li>
@@ -238,6 +265,9 @@
 				</div>
 			</div>
 		</footer>
+=======
+					</form> -->
+>>>>>>> main
 
 		<div vw class="enabled">
 			<div vw-access-button class="active"></div>
