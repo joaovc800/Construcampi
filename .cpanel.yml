@@ -8,4 +8,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home1/con26161/public_html/
-    - /bin/cp -R deployFiles $DEPLOYPATH
+    - /bin/cp -R deployFiles/* $DEPLOYPATH
