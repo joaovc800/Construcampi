@@ -19,9 +19,33 @@
     background: #24344c !important;
 }
 
-.permission_denied a {
-    text-decoration: none;
+/* tristemente o css não reconhece essas props, mas elas funcionam */
+@property --Grad1 {
+    syntax: '<color>';
+    initial-value: rgb(255,255,255);
+    inherits: false;
 }
+  
+@property --Grad2 {
+    syntax: '<color>';
+    initial-value: rgb(255,200,200);
+    inherits: false;
+}
+
+.permission_denied a {
+    background: linear-gradient(var(--Grad1), var(--Grad2));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: font-size 1s, --Grad1 1s, --Grad2 1s !important;
+}
+
+.permission_denied a:hover {
+    --Grad1: #fff !important;
+    --Grad2: rgb(255, 0, 0);
+    font-size: 1.1em;
+}
+
 
 .denied__wrapper {
     max-width: 390px;

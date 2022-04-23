@@ -3,13 +3,17 @@
 
 <head><meta charset="utf-8">
     <link type="text/css" rel="stylesheet" href="/public/assets/css/errors/404.css" />
+    <style>.anim {
+        text-decoration: underline;
+    }
+    </style>
 </head>
 
 <body class="permission_denied">
     <div id="tsparticles"></div>
     <div class="denied__wrapper">
         <h1>500</h1>
-        <h3>Internal Server Error.<br> Volte para <a href="index" style="color: #fff">pagina inicial</a></h3>
+        <h3>Erro Interno no Servidor.<br><br><a href="index">Clique para retornar à Página Inicial</a></h3>
         <img id="astronaut" src="/public/images/errors/astronaut.svg" />
         <img id="planet" src="/public/images/errors/planet.svg" />
     </div>
