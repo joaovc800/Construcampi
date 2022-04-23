@@ -1,0 +1,11 @@
+# deployment:
+#   tasks:
+#     - export DEPLOYPATH=${{ secrets.SuperSecret }}
+#     - /bin/cp -R deployFiles $DEPLOYPATH
+
+#     /home1/con26161/public_html/
+
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home1/con26161/public_html/
+    - /bin/cp -R deployFiles $DEPLOYPATH
