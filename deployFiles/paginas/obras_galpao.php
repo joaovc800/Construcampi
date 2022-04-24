@@ -17,7 +17,7 @@
 			<section id="second" class="main pb-5">
 				<header class="imagem_com_texto">
 					<h2>Galpões e Estruturas Metálicas</h2>
-					<p>Complexas estruturas feitas para segurabilidade de aplicação correspondente à necessidade do cliente</p>
+					<p style="text-align: center !important;">Complexas estruturas feitas para segurabilidade de aplicação correspondente à necessidade do cliente</p>
 				</header>
 				<div class="content dark style2">
 					<div class="container-fluid adjust">

@@ -17,7 +17,7 @@
 			<section id="second" class="main pb-5">
 				<header class="imagem_com_texto">
 					<h2>Reformas em Geral</h2>
-					<p>Re-implementação e (ou) estruturação do modelo de obra para as necessidades do cliente</p>
+					<p style="text-align: center !important;">Re-implementação e (ou) estruturação do modelo de obra para as necessidades do cliente</p>
 				</header>
 				<div class="content dark style2">
 					<div class="container-fluid adjust">

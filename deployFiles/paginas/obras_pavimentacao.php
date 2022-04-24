@@ -17,7 +17,7 @@
 			<section id="second" class="main pb-5">
 				<header class="imagem_com_texto">
 					<h2>Pavimentações Asfálticas</h2>
-					<p>Composição de métodos para alcançar resultados contínuos e sustentáveis</p>
+					<p style="text-align: center !important;">Composição de métodos para alcançar resultados contínuos e sustentáveis</p>
 				</header>
 				<div class="content dark style2">
 					<div class="container-fluid adjust">

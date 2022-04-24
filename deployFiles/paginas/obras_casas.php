@@ -18,7 +18,7 @@
 	<section id="second" class="main pb-5">
 		<header class="imagem_com_texto">
 			<h2>Casas Pré-Fabricadas e Pré-Moduladas</h2>
-			<p>Engenharia modular de rápida e efetiva implantação sem custos abusivos</p>
+			<p style="text-align: center !important;">Engenharia modular de rápida e efetiva implantação sem custos abusivos</p>
 		</header>
 		<div class="content dark style2">
 			<div class="container-fluid adjust">
