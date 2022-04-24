@@ -35,7 +35,7 @@
 									<div class="col-6 col-12-narrow order-md-1 text_container text-center adjust_text">
 										<div>
 											<p>A W10 SOLUÇÕES SUSTENTÁVEIS é uma empresa especializada em soluções ambientais, trazendo o melhor do modernismo para efetuar serviços váriados de forma definitiva.</p>
-											<p>Oferecendo desde serviços de gestão ambiental até atividades operacionais de soluções para materiais contaminados, coletas, transporte e coleta de resíduos, áreas de descarte, adequação agronômica, tratamento de água e muito mais.</p>
+											<p>Oferecendo desde serviços de gestão ambiental até saneamento sustentável, transição para energias renováveis, pinturas orgânicas e muito mais.</p>
 										</div>
 									</div>
 									<div class="col-6 col-12-narrow order-md-2 pb-5 d-flex flex-column justify-content-center align-items-center">
