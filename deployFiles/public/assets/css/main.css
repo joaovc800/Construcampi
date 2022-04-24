@@ -3093,9 +3093,13 @@ body.landing #page-wrapper {
 	border: 0;
 }
 
-#header nav>ul>li a:not(.button).icon:before {
-	color: #fff;
+#header nav > ul > li a:not(.button).icon:before {
+	transition: all 0.3s ease-in-out;
+	color: #f00 !important;
 	margin-right: 0.5em;
+}
+#header nav > ul > li a:not(.button).icon:hover:before  {
+	color: #fff !important;
 }
 
 #header nav>ul>li:first-child {

@@ -20,7 +20,7 @@
 }
 
 /* tristemente o css não reconhece essas props, mas elas funcionam */
-@property --Grad1 {
+/* @property --Grad1 {
     syntax: '<color>';
     initial-value: rgb(255,255,255);
     inherits: false;
@@ -30,20 +30,23 @@
     syntax: '<color>';
     initial-value: rgb(255,200,200);
     inherits: false;
-}
+} */
 
 .permission_denied a {
-    background: linear-gradient(var(--Grad1), var(--Grad2));
+    /* background: linear-gradient(var(--Grad1), var(--Grad2));
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    transition: font-size 1s, --Grad1 1s, --Grad2 1s !important;
+    transition: font-size 1s, --Grad1 1s, --Grad2 1s !important; */
+    color: #fff !important;
+    text-decoration: underline;
+    transition: all 1s ease-in-out;
 }
 
 .permission_denied a:hover {
-    --Grad1: #fff !important;
-    --Grad2: rgb(255, 0, 0);
-    font-size: 1.1em;
+    /* --Grad1: #fff !important;
+    --Grad2: rgb(255, 0, 0); */
+    font-size: 1.2em;
 }
 
 
