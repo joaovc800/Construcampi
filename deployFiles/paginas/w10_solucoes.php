@@ -20,8 +20,9 @@
 						<div class="content d-flex justify-content-center flex-column flex-nowrap">
 							<h1 class="title_text mb-2">W10 Soluções</h1>
 							<p class="major">A <span class="mark_text">W10 SOLUÇÕES SUSTENTÁVEIS</span> é uma empresa especializada em soluções ambientais, trazendo o melhor do modernismo para efetuar serviços váriados de forma definitiva.</P>
-                            <p class="major">Oferecemos desde serviços de <span class="mark_text">gestão ambiental</span> até atividades operacionais de soluções para energias renovaveis (com foco na eolica), materiais contaminados, coletas, transporte e coleta de resíduos, áreas de descarte, adequação agronômica, tratamento de água e muito mais; isto tudo com foco em ajudar na preservação da <span class="mark_text">fauna</span> e <span class="mark_text">flora Brasileira</span> por meio da modernização de serviços.</p></p>
-							<!-- Botao -->
+							<p class="major">Oferecemos desde serviços de <span class="mark_text">gestão ambiental</span> e pintura sustentável (por meio da biocostrução), até atividades operacionais para implementação de energias renováveis como energia eólica (turbinas),  energia solar (Painéis Solares) e energia Hídrica.  
+							<p class="major">Também providenciamos serviços de saneamento sustentável com biodigestores, wetlands (método de terras molhadas), sanitários compostáveis e tanque de evapotranspiração.</p>
+					
                                 <!-- <ul class="actions stacked">
 								<li><a href="#first" class="button big wide smooth-scroll-middle">Get Started</a></li>
 							</ul> -->
@@ -33,8 +34,8 @@
 				<!-- Fauna -->
 					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
 						<div class="content">
-							<h2>Fauna e Flora Brasileira</h2>
-							<p>A preservação da natureza está diretamente ligada à biodiversidade, por isso nós da	<span class="mark_text">W10 Soluções</span> trazemos vários métodos de manter nossa riqueza e variedade natural de Fauna e Flora sobre grande proteção.</p>
+							<h2>Energia e Sustentabilidade</h2>
+							<p>A utilização de fontes de energia limpa não só contribui para a preservação do meio ambiente, como também é capaz de gerar <span class="mark_text">grandes vantagens econômicas</span> para sua empresa</p>
 							<ul class="actions stacked">
 								<!-- <li><a href="#" class="button">Learn More</a></li> -->
 							</ul>
@@ -46,9 +47,8 @@
 				<!-- Terra -->
 					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
 						<div class="content">
-							<h2>Recuperação Florestal</h2>
-							<p>A Recuperação pode ser entendida como a atividade de recuperação da saúde, integridade e sustentabilidade de um ecossistema, este ao qual foi degradado, perturbado, transformado ou destruído como resultado de algum disturbio gerado por algum intermédio.</p>
-							<p>Utilizando de <span class="mark_text">meios modernos</span> de restauração podemos não só recuperar áreas florestais como também áreas devastadas por queimadas, grande problema que assola o Sul de nosso país.</p>
+							<h2>Tintas e Pinturas</h2>
+							<p>As tintas orgânicas (naturais) criam salubridade no interior de construções, reduzem o impacto ambiental e ainda ajudam na melhoria da saúde dos funcionarios; são <span class="mark_text">extremamente viáveis</span>, abaixando custos econômicos e ajudam a impulsionar a <span class="mark_text">diversificação de matéria-prima</span> no mercado da construção civil</p>
 							<ul class="actions stacked">
 								<!-- <li><a href="#" class="button">Learn More</a></li> -->
 							</ul>
@@ -60,8 +60,8 @@
 				<!-- Mar -->
 					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
 						<div class="content">
-							<h2>Terra, Ar ou Mar</h2>
-							<p>Seja uma queimada ou poluição causada por utilização de materiais químicos ou até mesmo um vazamento de óleo, nós trazemos <span class="mark_text">inovações</span> para conter tais problemas de forma eficaz, com cunho profissional para grandes resultados em preservar áreas de risco.</p>
+							<h2>Saneamento e Soluções</h2>
+							<p>O saneamento sustentável está relacionado com a <span class="mark_text">eliminação segura</span> dos resíduos humanos, como fezes, resíduos sólidos, resíduos industriais e resíduos agrícolas utilizando de estratégias que tornam mais viável a manutenção do saneamento pelos operários.</p>
 							<ul class="actions stacked">
 								<!-- <li><a href="#" class="button">Learn More</a></li> -->
 							</ul>
@@ -74,7 +74,7 @@
 					<section class="wrapper style1 align-center">
 						<div class="inner">
 							<h2>Nosso Legado</h2>
-							<p>Nossa empresa é moderna e ágil na entrega dos seus serviços, investimos sem duvidar na melhoria contínua e em novas tecnologias para oferecer o que há de melhor para nossa sociedade; tudo que é feito pelo meio ambiente já é um passo dado para nossa satisfação, assim contemplamos um desenvolvimento virtuoso de nosso querido Brasil.</p>
+							<p>Nossa empresa é moderna e ágil na entrega dos seus serviços, investimos sem duvidar na melhoria contínua e em novas tecnologias para oferecer o que há de melhor para nossa sociedade; tudo que é feito pelo meio ambiente já é um passo dado para nossa satisfação, assim contemplamos um desenvolvimento virtuoso de nosso querido Brasil</p>
 						</div>
 						<!-- galeria -->
 							<div class="gallery style2 medium lightbox onscroll-fade-in">
@@ -83,26 +83,8 @@
 										<img src="../public/images/w10/galeria/ga1.jpg" alt="" />
 									</a>
 									<div class="caption">
-										<h3>Estradas</h3>
-										<p>Com a quantia de fauna necessário para evacuação de água</p>
-									</div>
-								</article>
-								<article>
-									<a href="../public/images/w10/galeria/ga2.jpg" class="image">
-										<img src="../public/images/w10/galeria/ga2.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Transporte</h3>
-										<p>Movimentação de resíduos por nossas maquinas</p>		
-									</div>
-								</article>
-								<article>
-									<a href="../public/images/w10/galeria/ga3.jpg" class="image">
-										<img src="../public/images/w10/galeria/ga3.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Evacuação de Água</h3>
-										<p>Formas simples de proteger contra inundações e proteger o ambiente de cidades</p>
+										<h3>Energias Limpas Renováveis (Eólica)</h3>
+										<p>Métodos para transição de fontes de energia não renováveis para energia eólica</p>
 									</div>
 								</article>
 								<article>
@@ -110,8 +92,26 @@
 										<img src="../public/images/w10/galeria/ga4.jpg" alt="" />
 									</a>
 									<div class="caption">
-										<h3>Energia Limpa</h3>
-										<p>Métodos para transição de fontes de energia não renováveis para energias Limpas</p>
+										<h3>Energias Limpas Renováveis (Hidrelétrica)</h3>
+										<p>Métodos para transição de fontes de energia não renováveis para energia Hidrelétrica</p>
+									</div>
+								</article>
+								<article>
+									<a href="../public/images/w10/galeria/ga2.jpg" class="image">
+										<img src="../public/images/w10/galeria/ga2.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Saneamento (Tratamento)</h3>
+										<p>Melhor forma de tratamento utilizando de maquinas modernas para manutenção de resíduos</p>		
+									</div>
+								</article>
+								<article>
+									<a href="../public/images/w10/galeria/ga3.jpg" class="image">
+										<img src="../public/images/w10/galeria/ga3.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Saneamento (Estação de Tratamento)</h3>
+										<p>Áreas profissionais com proteção aos arredores propícias para manutenção de resíduos</p>
 									</div>
 								</article>
 								<article>
@@ -119,8 +119,8 @@
 										<img src="../public/images/w10/galeria/ga5.jpg" alt="" />
 									</a>
 									<div class="caption">
-										<h3>Tratamento de Resíduos</h3>
-										<p>Melhor forma de tratamento utilizando de maquinas modernas para manutenção de resíduos</p>	
+										<h3>Tintas orgânicas</h3>
+										<p>Substituição de produtos químicos por insumos naturais</p>	
 									</div>
 								</article>
 								<article>
@@ -128,8 +128,8 @@
 										<img src="../public/images/w10/galeria/ga6.jpg" alt="" />
 									</a>
 									<div class="caption">
-										<h3>Estação de Tratamento de Água</h3>
-										<p>Áreas profissionais com proteção aos arredores propícias para manutenção de líquidos</p>	
+										<h3>Saneamento (Estação de Tratamento)</h3>
+										<p>Áreas profissionais com proteção aos arredores propícias para manutenção de resíduos</p>
 									</div>
 								</article>
 							</div>
@@ -141,22 +141,21 @@
 							<p>O nosso modus operandis de gestão que provêm qualidade a população Brasileira</p>
 							<div class="items style1 medium onscroll-fade-in">
 								<section>
-									<i class="icon solid style2 major fa-whiskey-glass text-danger"></i>
-									<h3>Coleta de Resíduos</h3>
-									<p>Lixo gerado nas residências, comércios ou indústria são rotulados de forma especifica para descarte correto</p>
+									<i class="icon solid style2 major fa-bolt text-danger"></i>
+									<h3>Energia Elétrica <br> Sustentável</h3>
+									<p>Transição da utilizaçao de fontes de energia não renováveis para naturais</p>
 								</section>
 								<section>
-									<span class="icon solid style2 major fa-comments text-danger"></span>
-									<h3>Consultoria Ambiental</h3>
-									<p>Analise para apontar os possíveis danos ambientais que podem ser evitados ou melhorados em sua empresa/indústria</p>
+									<span class="icon solid style2 major fa-whiskey-glass text-danger"></span>
+									<h3>Pintura <br> Sustentável</h3>
+									<p>Adoção de materiais naturais para aprimoramento de tintura</p>
 								</section>
 								<section>
-							
-									<span class="icon solid style2 major fa-industry text-danger"></span>
-									<h3>Reposição Estrutural Industrial</h3>
-									<p>Averiguação e manejo de resíduos/materiais de tóxicos ao meio ambiente</p>
+									<i class="icon solid style2 major fa-recycle text-danger"></i>
+									<h3>Saneamento <br> Sustentável</h3>
+									<p>Planejamento de mudança e evolução em sistemas de saneamento</p>
 								</section>
-								<section>
+								<!-- <section>
 									<span class="icon solid style2 major fa-rectangle-list text-danger"></span>
 									<h3>Gerenciamento Ambiental</h3>
 									<p>Manutenção regular de áreas em busca de mudança para preservar materiais naturais</p>
@@ -185,7 +184,7 @@
 									<span class="icon solid style2 major fa-tree text-danger"></span>
 									<h3>Recuperação de Áreas Degradadas</h3>
 									<p>Restauração de fauna e flora baseada na geolocalização local em questão</p>
-								</section>
+								</section> -->
 							</div>
 						</div>
 					</section>
