@@ -2474,11 +2474,15 @@ input, select, textarea {
 		padding: 0 !important;
 		margin: 0 1em 0 1em !important;
 	}
+	p {
+		text-align: center !important;
+	}
 	.adjust_text {
 		padding: 0 !important;
 		font-size: 20px;
 		letter-spacing: 0.1em;
 		line-height: auto;
+		text-align: center !important;
 	}
 	.adjust {
 		/* cria um efeito legal de texto no mobile */

@@ -15,12 +15,12 @@
         <main class="container-fuild">
         <?php include "../includes/header.php"; ?>
 			<div id="wrapper" class="divided">
-				<!-- Introducao -->
+				<!-- Introducao/ escrever mais sobre energia-->
 					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
 						<div class="content d-flex justify-content-center flex-column flex-nowrap">
 							<h1 class="title_text mb-2">W10 Soluções</h1>
 							<p class="major">A <span class="mark_text">W10 SOLUÇÕES SUSTENTÁVEIS</span> é uma empresa especializada em soluções ambientais, trazendo o melhor do modernismo para efetuar serviços váriados de forma definitiva.</P>
-                            <p class="major">Oferecemos desde serviços de <span class="mark_text">gestão ambiental</span> até atividades operacionais de soluções para materiais contaminados, coletas, transporte e coleta de resíduos, áreas de descarte, adequação agronômica, tratamento de água e muito mais; isto tudo com foco em ajudar na preservação da <span class="mark_text">fauna</span> e <span class="mark_text">flora Brasileira</span>.</p></p>
+                            <p class="major">Oferecemos desde serviços de <span class="mark_text">gestão ambiental</span> até atividades operacionais de soluções para energias renovaveis (com foco na eolica), materiais contaminados, coletas, transporte e coleta de resíduos, áreas de descarte, adequação agronômica, tratamento de água e muito mais; isto tudo com foco em ajudar na preservação da <span class="mark_text">fauna</span> e <span class="mark_text">flora Brasileira</span> por meio da modernização de serviços.</p></p>
 							<!-- Botao -->
                                 <!-- <ul class="actions stacked">
 								<li><a href="#first" class="button big wide smooth-scroll-middle">Get Started</a></li>

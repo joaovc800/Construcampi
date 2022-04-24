@@ -126,60 +126,8 @@
     100% {  left: 0; }
 }
 
-
-/* variante push left para não ter conflitos */
-.push_left_row {
-    /* animation: push_left_row 0.9s; */
-    transition:all 1s ease;
-    transform: translate3d(0px, 0, 0);
-    -ms-transform: translate3d(0px, 0, 0);
-    -webkit-transform: translate3d(0px, 0, 0);
-}
-
-.left_row_hidden {
-    visibility: hidden !important; 
-    transform: translate3d(-500px, 0, 0);
-    -ms-transform: translate3d(-500px, 0, 0);
-    -webkit-transform: translate3d(-500px, 0, 0);
-    filter: blur(35px);
-    z-index: 1000;
-}
-
-/* O lado direito tem problema de overflow */
-.overflow_right {
-    overflow: hidden;
-    position: relative;
-}
-
-/* esquerda para direita */
-.push_right_row {
-    transition:all 1s ease;
-    transform: translate3d(0px, 0, 0);
-    -ms-transform: translate3d(0px, 0, 0);
-    -webkit-transform: translate3d(0px, 0, 0);
-}
-
-/* direita para esquerda */
-.right_row_hidden {
-    visibility: hidden !important;
-    transform: translate3d(500px, 0, 0);
-    -ms-transform: translate3d(500px, 0, 0);
-    -webkit-transform: translate3d(500px, 0, 0);
-    filter: blur(35px);
-    z-index: 1000;
-}
-
-/* Ajustes de tela para certas animações */
-@media screen and (max-width:736px) { 
-    /* mobile */
-    .hidden_text {
-        position: absolute;
-        left: -200px; 
-        width: 200px;
-        height: 100px;
-        text-align: center;
-    }
-
+@media screen and (min-width:736px) { 
+    /* variante push left para não ter conflitos */
     .push_left_row {
         /* animation: push_left_row 0.9s; */
         transition:all 1s ease;
@@ -187,21 +135,22 @@
         -ms-transform: translate3d(0px, 0, 0);
         -webkit-transform: translate3d(0px, 0, 0);
     }
-    
+
     .left_row_hidden {
         visibility: hidden !important; 
-        transform: translate3d(0px, 0, 0);
-        -ms-transform: translate3d(0px, 0, 0);
-        -webkit-transform: translate3d(0px, 0, 0);
+        transform: translate3d(-500px, 0, 0);
+        -ms-transform: translate3d(-500px, 0, 0);
+        -webkit-transform: translate3d(-500px, 0, 0);
         filter: blur(35px);
+        z-index: 1000;
     }
-    
+
     /* O lado direito tem problema de overflow */
     .overflow_right {
         overflow: hidden;
         position: relative;
     }
-    
+
     /* esquerda para direita */
     .push_right_row {
         transition:all 1s ease;
@@ -209,14 +158,66 @@
         -ms-transform: translate3d(0px, 0, 0);
         -webkit-transform: translate3d(0px, 0, 0);
     }
-    
+
     /* direita para esquerda */
     .right_row_hidden {
         visibility: hidden !important;
+        transform: translate3d(500px, 0, 0);
+        -ms-transform: translate3d(500px, 0, 0);
+        -webkit-transform: translate3d(500px, 0, 0);
+        filter: blur(35px);
+        z-index: 1000;
+    }
+}
+/* Ajustes de tela para certas animações */
+@media screen and (max-width:736px) { 
+    /* mobile */
+    .hidden_text {
+        position: block;
+        left: -200px; 
+        width: 200px;
+        height: 100px;
+        text-align: center;
+    }
+
+    .push_left_row {
+        visibility: visible !important;
+        /* transition:all 1s ease;
         transform: translate3d(0px, 0, 0);
         -ms-transform: translate3d(0px, 0, 0);
+        -webkit-transform: translate3d(0px, 0, 0); */
+    }
+    
+    .left_row_hidden {
+        visibility: visible !important;
+        /* transform: translate3d(0px, 0, 0);
+        -ms-transform: translate3d(0px, 0, 0);
         -webkit-transform: translate3d(0px, 0, 0);
-        filter: blur(35px);
+        filter: blur(35px); */
+    }
+    
+    /* O lado direito tem problema de overflow */
+    /* .overflow_right {
+        overflow: hidden;
+        position: relative;
+    } */
+    
+    /* esquerda para direita */
+    .push_right_row {
+        visibility: visible !important;
+        /* transition:all 1s ease;
+        transform: translate3d(0px, 0, 0);
+        -ms-transform: translate3d(0px, 0, 0);
+        -webkit-transform: translate3d(0px, 0, 0); */
+    }
+    
+    /* direita para esquerda */
+    .right_row_hidden {
+        visibility: visible !important;
+        /* transform: translate3d(0px, 0, 0);
+        -ms-transform: translate3d(0px, 0, 0);
+        -webkit-transform: translate3d(0px, 0, 0);
+        filter: blur(35px); */
     }   
 }
 
