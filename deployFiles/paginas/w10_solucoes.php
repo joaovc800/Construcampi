@@ -74,7 +74,7 @@
 					<section class="wrapper style1 align-center">
 						<div class="inner">
 							<h2>Nosso Legado</h2>
-							<p>Nossa empresa é moderna e ágil na entrega dos seus serviços, investimos sem duvidar na melhoria contínua e em novas tecnologias para oferecer o que há de melhor para nossa sociedade; tudo que é feito pelo meio ambiente já é um passo dado para nossa satisfação, assim contemplamos um desenvolvimento virtuoso de nosso querido Brasil</p>
+							<p>Nossa empresa é moderna e ágil na entrega dos seus serviços, investimos sem duvidar na melhoria contínua e em novas tecnologias para oferecer o que há de melhor para nossa sociedade; tudo que é feito pelo meio ambiente já é um passo dado para nossa satisfação, assim contemplamos um desenvolvimento virtuoso de nosso querido Brasil.</p>
 						</div>
 						<!-- galeria -->
 							<div class="gallery style2 medium lightbox onscroll-fade-in">
