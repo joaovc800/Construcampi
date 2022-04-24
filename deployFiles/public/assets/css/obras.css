@@ -2374,6 +2374,10 @@ input, select, textarea {
 		margin: 0 5em 0 5em !important;
 	}
 
+	p {
+		text-align: left !important;
+	}
+	
 	.adjust_text {
 		padding: 0 4em 0 3em !important;
 		font-size: 1.3em;
@@ -2395,7 +2399,9 @@ input, select, textarea {
 	.adjust_row {
 		margin: 0 5em 0 5em !important;
 	}
-
+	p {
+		text-align: left !important;
+	}
 	.adjust_text {
 		padding: 0 4em 0 3em !important;
 		font-size: 1.3em;
@@ -2413,6 +2419,9 @@ input, select, textarea {
 	.adjust_row_3_x_3 {
 		padding: 0 !important;
 	}
+	p {
+		text-align: left !important;
+	}
 	.adjust_text {
 		padding: 0 4em 0 3em !important;
 		font-size: 1.1em;
@@ -2428,6 +2437,9 @@ input, select, textarea {
 	.adjust_row_3_x_3 {
 		padding: 0 !important;
 	}
+	p {
+		text-align: left !important;
+	}
 	.adjust_text {
 		padding: 0 4em 0 3em !important;
 		font-size: 1em;
@@ -2441,6 +2453,10 @@ input, select, textarea {
 	/* Narrow */
 	.adjust_row_3_x_3 {
 		padding: 0 !important;
+	}
+
+	p {
+		text-align: left !important;
 	}
 
 	.adjust_text {
