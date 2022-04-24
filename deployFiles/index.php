@@ -110,23 +110,19 @@
 					<section>
 						<span class="icon solid major fa-bullseye accent2"></span>
 						<h3>Missão</h3>
-						<p>Compreender a necessidade do mercado de engenharia, desenvolver soluções de alta qualidade
-							para as demandas de nossos clientes e colaboradores, sempre implementando os valores
-							necessários para obter a alta eficiência de ponta no ramo da construção civil.</p>
+						<p>Compreender as necessidades do mercado da construção civil, desenvolver soluções sustentáveis, com alta qualidade para as demandas do mercado, implementando os valores necessários para obter resultados com resolução de ponta no ramo de sua atuação no Brasil e no mundo.</p>
 					</section>
 					<section>
 						<span class="icon solid major fa-signal accent3"></span>
 						<h3>Visão</h3>
-						<p>A partir da relação de confiança cliente x empresa, produzir eficiência em nossos serviços
-							com exatidão, fortalecendo nossa marca e creditando crescimento na alta competência de
-							nossos colaboradores e parceiros para a satisfação indubitável de nosso público.</p>
+						<p>A partir da relação de confiança cliente x empresa, produzir com exatidão e eficiência os nossos serviços, fortalecendo nossa marca e creditando o crescimento e desenvolvimento da sociedade e de nossos colaboradores e parceiros, a satisfação indubitável de nosso público estará pautada na ética, na legalidade e na valorização do capital humano.</p>
 					</section>
 				</div>
 				<div class="features-row">
 					<section style="padding:10px 0 0 0; width:100%;">
 						<span class="icon solid major fa-handshake accent4"></span>
 						<h3>Valores</h3>
-						<p>Proporcionar com ações objetivas a qualidade indelével do nosso trabalho à sociedade, clientes e colaboradores no alcance de resultados mútuos relativos aos resultados, utilizando - se dos valores éticos e de Integridade e Respeito e para aquisição de grandes conquistas.</p>
+						<p>Proporcionar com ações objetivas a qualidade indelével do nosso trabalho à sociedade, clientes e colaboradores para o alcance de resultados mútuos, utilizando - se dos valores éticos, de integridade e respeito, para a conquista de excelência em todas as áreas de nossa atuação.</p>
 					</section>
 				</div>
 			</section>
