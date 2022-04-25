@@ -49,7 +49,7 @@
                 <ul class="list-unstyled list-py-1 mb-0">
                     <li><a class="link-sm link-light" href="contatos">Contatos</a></li>
                     <li><a class="link-sm link-light" href="sobre">Quem somos</a></li>
-                    <li><a class="link-sm link-light" href="paginas/trabalhe_conosco">Trabalhe Conosco</a></li>
+                    <li><a class="link-sm link-light" href="trabalhe_conosco">Trabalhe Conosco</a></li>
                     <li><a class="link-sm link-light" href="politica_privacidade">Políticas de Privacidade</a></li>
                 </ul>
 
