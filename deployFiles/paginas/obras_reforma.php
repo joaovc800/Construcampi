@@ -16,8 +16,8 @@
 		<!-- Main -->
 			<section id="second" class="main pb-5">
 				<header class="imagem_com_texto">
-					<h2>Reformas em Geral</h2>
-					<p style="text-align: center !important;">Re-implementação e (ou) estruturação do modelo de obra para as necessidades do cliente</p>
+					<h1 class="h2 colorfy_white">Reformas em Geral</h1>
+					<p style="text-align: center !important;" class="m-2">Re-implementação e (ou) estruturação do modelo de obra para as necessidades do cliente</p>
 				</header>
 				<div class="content dark style2">
 					<div class="container-fluid adjust">

@@ -17,8 +17,8 @@
 	<!-- Main -->
 	<section id="second" class="main pb-5">
 		<header class="imagem_com_texto">
-			<h2>Casas Pré-Fabricadas e Pré-Moduladas</h2>
-			<p style="text-align: center !important;">Engenharia modular de rápida e efetiva implantação sem custos abusivos</p>
+			<h1 class="h2 colorfy_white">Casas Pré-Fabricadas e Pré-Moduladas</h1>
+			<p style="text-align: center !important;" class="m-2">Engenharia modular de rápida e efetiva implantação sem custos abusivos</p>
 		</header>
 		<div class="content dark style2">
 			<div class="container-fluid adjust">

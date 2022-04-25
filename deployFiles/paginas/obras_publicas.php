@@ -20,8 +20,8 @@
 
 	<section id="second" class="main pb-5">
 		<header class="imagem_com_texto">
-			<h2>Obras Públicas</h2>
-			<p style="text-align: center !important;"> Idealização de obras para com o povo de nossa nação </p>
+			<h1 class="h2 colorfy_white">Obras Públicas</h1>
+			<p style="text-align: center !important;" class="m-2"> Idealização de obras para com o povo de nossa nação </p>
 		</header>
 		<div class="content dark style2">
 			<div class="container-fluid adjust">

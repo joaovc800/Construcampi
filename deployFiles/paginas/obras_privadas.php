@@ -18,8 +18,8 @@
 	<!-- Main -->
 	<section id="second" class="main pb-5">
 		<header class="imagem_com_texto">
-			<h2>Obras Privadas</h2>
-			<p style="text-align: center !important;">Concepção de estilo esboçada por nossa cultura de engenharia na área privada</p>
+			<h1 class="h2 colorfy_white">Obras Privadas</h1>
+			<p class="m-2" style="text-align: center !important;">Concepção de estilo esboçada por nossa cultura de engenharia na área privada</p>
 		</header>
 		<div class="content dark style2">
 			<div class="container-fluid adjust">
@@ -29,7 +29,7 @@
 						<!-- cuidado! a anim direita tem um overflow diferente do esquerdo, por isso necessita de overflow_right aqui -->
 						<div class="row adjust_row push-left">
 							<div class="col-6 col-12-narrow order-md-1 text_container text-center adjust_text">
-								<h3 class="pb-4"> Nosso legado</h3>
+								<h3 class="pb-4">Nosso legado</h3>
 								<div>
 									<p>A modernidade e elegância são conceitos que permeiam a arquitetura e urbanismo contemporâneos, por isso, nós da Construcampi possuímos uma equipe altamente capacitada, que visa trazer a excelência no que tange à beleza e qualidade de nossas construções.</p>
 

@@ -17,8 +17,8 @@
 			<section id="second" class="main pb-5">
 				<div class="text_header px-5">
 					<header class="text_border">
-						<h2>Parcerias Públicas e Privadas</h2>
-						<p style="text-align: center !important;">Nossas parcerias que ajudam a Construcampi a transformar sonhos em realidade</p>
+						<h1 class="h2 colorfy_white">Parcerias Públicas e Privadas</h1>
+						<p style="text-align: center !important;" class="m-2">Nossas parcerias que ajudam a Construcampi a transformar sonhos em realidade</p>
 					</header>
 				</div>
 				<div class="content dark style2">

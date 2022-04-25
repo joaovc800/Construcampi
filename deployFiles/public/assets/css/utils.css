@@ -939,3 +939,7 @@ ol, ul {
 	cursor: default;
     text-align: center;
 }
+
+.colorfy_white {
+    color: #fff !important;
+}
