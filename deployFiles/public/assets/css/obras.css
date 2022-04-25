@@ -94,7 +94,7 @@ input, select, textarea {
 		-webkit-text-stroke: 0.1px;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h2, h3, h4, h5, h6 {
 		color: #666;
 		margin: 0 0 1em 0;
 		font-weight: 100;
