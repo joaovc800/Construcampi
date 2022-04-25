@@ -68,6 +68,9 @@
 					<li style="white-space: nowrap;">
 						<a href="paginas/casa_verde_e_amarela">Casa Verde e Amarela</a>
 					</li>
+					<li style="white-space: nowrap;">
+                   		<a href="paginas/trabalhe_conosco">Trabalhe Conosco</a>
+                	</li>
 				</ul>
 			</nav>
 		</header>
@@ -180,17 +183,17 @@
 							<li>
 								<ul class="list-unstyled">
 									<li>
-										<a href="https://twitter.com/construcampi" target="_blank" class="link-sm link-light icon brands fa-twitter"><span
+										<a href="https://twitter.com/construcampi" target="_blank"  rel="noopener noreferrer"class="link-sm link-light icon brands fa-twitter"><span
 											class="label">Twitter</span>
 										</a>
 									</li>
 									<li>
-										<a href="https://www.facebook.com/Construcampi-109910015025142" target="_blank" class="link-sm link-light icon brands fa-facebook-f"><span
+										<a href="https://www.facebook.com/Construcampi-109910015025142" target="_blank" rel="noopener noreferrer"class="link-sm link-light icon brands fa-facebook-f"><span
 											class="label">Facebook</span>
 										</a>
 									</li>
 									<li>
-										<a href="https://www.instagram.com/construcampi_oficial/" target="_blank" class="link-sm link-light icon brands fa-instagram"><span
+										<a href="https://www.instagram.com/construcampi_oficial/" target="_blank" rel="noopener noreferrer"class="link-sm link-light icon brands fa-instagram"><span
 											class="label">Instagram</span>
 										</a>
 									</li>
@@ -208,12 +211,13 @@
 							<li><a class="link-sm link-light" href="paginas/obras_casas">Casas Pré-Fabricadas</a></li>
 							<li><a class="link-sm link-light" href="paginas/obras_pavimentacao">Pavimentações Asfálticas</a></li>
 						</ul>
-					</div>
+					</div> 
 					<div class="col-sm mb-7 mb-sm-0">
 						<h5 class="text-white mb-3">A Construcampi</h5>
 						<ul class="list-unstyled list-py-1 mb-0">
 							<li><a class="link-sm link-light" href="paginas/contatos">Contatos</a></li>
-							<li><a class="link-sm link-light" href="paginas/sobre">Quem somos</a></li>
+							<li><a class="link-sm link-light" href="paginas/sobre">Quem Somos</a></li>
+							<li><a class="link-sm link-light" href="paginas/trabalhe_conosco">Trabalhe Conosco</a></li>
 							<li><a class="link-sm link-light" href="paginas/politica_privacidade">Políticas de Privacidade</a></li>
 						</ul>
 					</div>

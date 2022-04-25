@@ -39,6 +39,9 @@
                 <li style="white-space: nowrap;">
                     <a href="../paginas/casa_verde_e_amarela">Casa Verde e Amarela</a>
                 </li>
+                <li style="white-space: nowrap;">
+                    <a href="../paginas/trabalhe_conosco">Trabalhe Conosco</a>
+                </li>
 			</ul>
 		</nav>
 </header>

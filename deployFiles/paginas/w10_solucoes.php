@@ -18,10 +18,9 @@
 				<!-- Introducao/ escrever mais sobre energia-->
 					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
 						<div class="content d-flex justify-content-center flex-column flex-nowrap">
-							<h1 class="title_text mb-2">W10 Soluções</h1>
-							<p class="major">A <span class="mark_text">W10 SOLUÇÕES SUSTENTÁVEIS</span> é uma empresa especializada em soluções ambientais, trazendo o melhor do modernismo para efetuar serviços váriados de forma definitiva.</P>
-							<p class="major">Oferecemos desde serviços de <span class="mark_text">gestão ambiental</span> e pintura sustentável (por meio da biocostrução), até atividades operacionais para implementação de energias renováveis como energia eólica (turbinas),  energia solar (Painéis Solares) e energia Hídrica.  
-							<p class="major">Também providenciamos serviços de saneamento sustentável com biodigestores, wetlands (método de terras molhadas), sanitários compostáveis e tanque de evapotranspiração.</p>
+							<h1 class="title_text mb-2">W10 Soluções Sustentáveis</h1>
+							<p class="major">Somos uma empresa parceira do <span class="mark_text">Grupo Construcampi</span> a partir da operacionalização efetiva de estrutura da engenharia elétrica, hidráulica, sanitária e pinturas o nosso desenvolvimento em soluções sustentáveis abrange todo o nosso potencial sob o comando da Construcampi em ofertar, planejar e executar soluções sustentáveis para todo o contexto ambiental.</P>
+							<p class="major">Como empresa do Grupo Construcampi pautamos pelos mesmo <span class="mark_text">valores</span>, <span class="mark_text">visão</span> e <span class="mark_text">missão</span>.</p>
 					
                                 <!-- <ul class="actions stacked">
 								<li><a href="#first" class="button big wide smooth-scroll-middle">Get Started</a></li>
@@ -79,8 +78,8 @@
 						<!-- galeria -->
 							<div class="gallery style2 medium lightbox onscroll-fade-in">
 								<article>
-									<a href="../public/images/w10/galeria/ga1.jpg" class="image">
-										<img src="../public/images/w10/galeria/ga1.jpg" alt="" />
+									<a href="../public/images/w10/galeria/ga1.jpg" class="turbina_eletrica">
+										<img src="../public/images/w10/galeria/ga1.jpg" alt="turbina_eletrica" />
 									</a>
 									<div class="caption">
 										<h3>Energias Limpas Renováveis (Eólica)</h3>
@@ -88,8 +87,8 @@
 									</div>
 								</article>
 								<article>
-									<a href="../public/images/w10/galeria/ga4.jpg" class="image">
-										<img src="../public/images/w10/galeria/ga4.jpg" alt="" />
+									<a href="../public/images/w10/galeria/ga4.jpg" class="hidreletrica">
+										<img src="../public/images/w10/galeria/ga4.jpg" alt="hidreletrica" />
 									</a>
 									<div class="caption">
 										<h3>Energias Limpas Renováveis (Hidrelétrica)</h3>
@@ -97,8 +96,8 @@
 									</div>
 								</article>
 								<article>
-									<a href="../public/images/w10/galeria/ga2.jpg" class="image">
-										<img src="../public/images/w10/galeria/ga2.jpg" alt="" />
+									<a href="../public/images/w10/galeria/ga2.jpg" class="maquinas_tratamento">
+										<img src="../public/images/w10/galeria/ga2.jpg" alt="maquinas_tratamento" />
 									</a>
 									<div class="caption">
 										<h3>Saneamento (Tratamento)</h3>
@@ -106,8 +105,8 @@
 									</div>
 								</article>
 								<article>
-									<a href="../public/images/w10/galeria/ga3.jpg" class="image">
-										<img src="../public/images/w10/galeria/ga3.jpg" alt="" />
+									<a href="../public/images/w10/galeria/ga3.jpg" class="estacao_tratramento">
+										<img src="../public/images/w10/galeria/ga3.jpg" alt="estacao_tratramento" />
 									</a>
 									<div class="caption">
 										<h3>Saneamento (Estação de Tratamento)</h3>
@@ -115,8 +114,8 @@
 									</div>
 								</article>
 								<article>
-									<a href="../public/images/w10/galeria/ga5.jpg" class="image">
-										<img src="../public/images/w10/galeria/ga5.jpg" alt="" />
+									<a href="../public/images/w10/galeria/ga5.jpg" class="tinta_organica">
+										<img src="../public/images/w10/galeria/ga5.jpg" alt="tinta_organica" />
 									</a>
 									<div class="caption">
 										<h3>Tintas orgânicas</h3>
@@ -124,8 +123,8 @@
 									</div>
 								</article>
 								<article>
-									<a href="../public/images/w10/galeria/ga6.jpg" class="image">
-										<img src="../public/images/w10/galeria/ga6.jpg" alt="" />
+									<a href="../public/images/w10/galeria/ga6.jpg" class="estacao_tratramento">
+										<img src="../public/images/w10/galeria/ga6.jpg" alt="estacao_tratramento" />
 									</a>
 									<div class="caption">
 										<h3>Saneamento (Estação de Tratamento)</h3>

@@ -61,12 +61,12 @@
 										</div>
 									</div>
 									<div class="col-6 col-12-narrow order-md-2 pb-5 d-flex flex-column justify-content-center align-items-center">
-										<a href="https://www.amcham.com.br/" target="_blank" class="clickable">
+										<a href="https://www.amcham.com.br/" target="_blank" rel="noopener noreferrer"class="clickable">
 											<span class="scale_image">
 												<img class="img-fluid clickable" style="border-radius:1em;" src="../public/images/parcerias/amcham_logo.jpeg" alt="amcham" />
 											</span>
 										</a>
-										<p><a href="https://www.amcham.com.br/" target="_blank" class="link_page"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a AMCHAM</a></p>
+										<p><a href="https://www.amcham.com.br/" target="_blank" rel="noopener noreferrer"class="link_page"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a AMCHAM</a></p>
 									</div>
 								</div>
 								<div class="border_hardcoded my-5"><!-- borda hardcoded --></div>
