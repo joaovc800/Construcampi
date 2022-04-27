@@ -8646,21 +8646,33 @@ input, select, textarea {
 	border-right: 1px solid;
 }
 
-.new_bg {
+.card_email {
 	background-color: #fff;
 	border-radius: 1em;
 }
 
-.new_bg h3 {
+.card_email h3 {
 	color: #000000;
 }
 
+.email_instrucoes ul {
+	list-style-type: circle;
+	color: #ddd;
+}
+
+.adjust_border {
+	border-top: none !important;
+}
 @media screen and (min-width: 736px) {
 	/* Narrow */
 }
 
 @media screen and (max-width: 736px) {
 	/* mobile */
+	#wrapper.divided > * {
+		box-shadow: none !important;
+	}
+
 	.inner {
 		padding: 0 !important;
 	}
