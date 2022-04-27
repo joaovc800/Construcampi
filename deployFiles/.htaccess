@@ -5,6 +5,16 @@
   AddHandler application/x-httpd-ea-php80___lsphp .php .php8 .phtml
 </IfModule>
 
+<VirtualHost *:80>
+    ServerName www.construcampi.com.br
+    Redirect permanent / https://www.construcampi.com.br/
+</VirtualHost >
+
+<VirtualHost *:443>
+    ServerName www.construcampi.com.br
+    # ... SSL configuration goes here
+</VirtualHost >
+
 ErrorDocument 403 /403.shtml
 ErrorDocument 404 /404.shtml
 ErrorDocument 500 /500.shtml
