@@ -8,7 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="../public/assets/css/obras.css" />
 	<?php include "../includes/css_imports.php"; ?>
-	<meta name="keywords" content="Construcampi,obras,publicas,livrarias, museo, livraria,projeto governamental,hospital,arquitetura">
+	<meta name="keywords" content="contrucampi,Construcampi,CONSTRUCAMPI,obras,publicas,livrarias, museo, livraria,projeto governamental,hospital,arquitetura">
 	<meta name="description" content="Conheça as Obras Publicas da Construcampi como Hospitais, Universidades, Creches, livrarias, museos, estações e muito mais.">
 	<meta property="og:description" content="Conheça as Obras Publicas da Construcampi como Hospitais, Universidades, Creches, livrarias, museos, estações e muito mais.">
 </head>

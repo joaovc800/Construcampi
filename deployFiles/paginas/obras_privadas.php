@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="../public/assets/css/obras.css" />
 	<?php include "../includes/css_imports.php"; ?>
-	<meta name="keywords" content="Construcampi,arquitetura,obras,privadas,alto padrão, shopping, center, prédio, prédios, comercial">
+	<meta name="keywords" content="contrucampi,Construcampi,CONSTRUCAMPI,arquitetura,obras,privadas,alto padrão, shopping, center, prédio, prédios, comercial">
 	<meta name="description" content="Obras Privadas realizadas pela Construcampi, como shopping centers, prédios de alto padrão, prédios comerciais e muito mais.">
 	<meta property="og:description" content="Obras Privadas realizadas pela Construcampi, como shopping centers, prédios de alto padrão, prédios comerciais e muito mais.">
 </head>

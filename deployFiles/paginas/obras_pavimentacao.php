@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../public/assets/css/obras.css" />
         <?php include "../includes/css_imports.php";?>
-		<meta name="keywords" content="Construcampi,arquitetura,pavimentação, pavimentações, asfáltica,asfálticas">
+		<meta name="keywords" content="contrucampi,Construcampi,CONSTRUCAMPI,arquitetura,pavimentação, pavimentações, asfáltica,asfálticas">
 		<meta name="description" content="Pavimentações Asfálticas realizadas pela Construcampi.">
 		<meta property="og:description" content="Pavimentações Asfálticas realizadas pela Construcampi.">
 	</head>

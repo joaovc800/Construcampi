@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../public/assets/css/obras.css" />
         <?php include "../includes/css_imports.php";?>
-		<meta name="keywords" content="Construcampi,obras,reformas,geral,segurança,apartamento em reforma,arquitetura">
+		<meta name="keywords" content="contrucampi,Construcampi,CONSTRUCAMPI,obras,reformas,geral,segurança,apartamento em reforma,arquitetura">
 		<meta name="description" content="Re-implementação e (ou) estruturação do modelo de obra para prédios, casas e muito mais.Construcampi, seu objetivo é o nosso principal compromisso e responsabilidade.">
 		<meta property="og:description" content="Re-implementação e (ou) estruturação do modelo de obra para prédios, casas e muito mais.">
 	</head>

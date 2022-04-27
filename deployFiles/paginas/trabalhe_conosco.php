@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../public/assets/css/trabalhe_conosco.css" />
         <?php  include "../includes/css_imports.php";?>
-        <meta name="keywords" content="Construcampi,trabalhe-conosco">
+        <meta name="keywords" content="contrucampi,Construcampi,CONSTRUCAMPI,trabalhe-conosco">
 		<meta name="description" content="Venha fazer parte da equipe profissional Construcampi, para assim trazermos a satisfação dos nossos clientes com paixão, energia e dedicação de nossas conquistas.">
 		<meta property="og:description" content="Venha fazer parte da equipe profissional Construcampi, para assim trazermos a satisfação dos nossos clientes com paixão, energia e dedicação de nossas conquistas.">
 		<link rel="stylesheet" href="../public/assets/css/fontawesome-free-6.0.0-web/css/all.css" />
@@ -24,7 +24,37 @@
 							<img class="img-fluid" src="../public/images/trabalhe_conosco/interview.jpg" alt="interview" />
 						</div>
 					</section>
-				<!-- Servicos -->
+				<!-- textos motivacionais da empresa -->
+					<section class="wrapper style1 align-center adjust_border">
+						<div class="inner">
+							<section class="text-start d-flex flex-column flex-md-row justify-content-center mb-4 shadow_effect">
+								<div class="image_extra col-12 col-md-6">
+									<img class="img-fluid img_fit" src="../public/images/trabalhe_conosco/im2.png" alt="mosaico_construcampi" />
+								</div>
+								<div class="side_borders background_effect p-5 col-12 col-md-6">
+									<h3>Sempre Evoluindo</h3>
+									<p>A Construcampi não para de se transformar; nos estamos onde os nossos clientes precisam, sempre acreditando na proeminência e eficiência de nossos profissionais que trazem melhorias e grandes obras seguras e duradouras como nosso legado.</p>
+									<p>Tradição e confiabilidade de mercado é uma das nossas virtudes, nos encontramos sempre trabalhando incessantemente para trazer a melhor qualidade e eficiência aos nossos clientes.</p>
+								</div>
+							</section>
+							<section class="text-start d-flex flex-column flex-md-row justify-content-center my-5 shadow_effect">
+								<div class="side_borders background_effect p-5 col-12 col-md-6 order-2 order-md-1">
+									<h3>Talentos</h3>
+									<p>A Construcampi vem buscando com grande êxito os melhores profissionais necessários para todas as operações da empresa (sejam estas internas ou para clientes).</p>
+									<p>Todos os profissionais Construcampi seguem e atestam com a nossa missão, visão e nossos valores; estes aos quais propagam nossa credibilidade no mercado da engenharia civil.</p>
+									<p>Caso você tenha disposição e determinação para realizar grandes tarefas, você já vai se encontrar próximo de fazer parte da família Construcampi.</p>
+								</div>
+								<div class="image_extra col-12 col-md-6 order-1 order-md-2">
+									<img class="img-fluid img_fit" src="../public/images/trabalhe_conosco/im3.png" alt="plano_construcampi" />
+								</div>
+							</section>
+						</div>
+					</section>
+					<section class="wrapper style1 align-center adjust_border">
+						<h1 class="h1">Venha ser <span class="text-danger">Construcampi</span>! Venha viver seu <span class="text-danger">futuro</span>!</h1>
+					</section>
+						
+				<!-- Enviar curriculo -->
 					<section class="wrapper style1 align-center adjust_border">
 						<div class="inner">
 							<h2 class="pb-md-2">Envie Seu Currículo</h2>

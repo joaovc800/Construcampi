@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="../public/assets/css/sobre.css" />
 	<?php include "../includes/css_imports.php"; ?>
-	<meta name="keywords" content="Construcampi,trajetória,arquitetura">
+	<meta name="keywords" content="contrucampi,Construcampi,CONSTRUCAMPI,trajetória,arquitetura">
 	<meta name="description" content="Venha conhecer mais sobre quem somos, familia Construcampi.">
 	<meta property="og:description" content="Venha conhecer mais sobre quem somos, familia Construcampi.">
 </head>
