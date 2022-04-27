@@ -6,8 +6,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../public/assets/css/obras.css" />
         <?php include "../includes/css_imports.php";?>
-		<meta name="keywords" content="arquitetura,galpões, estruturas, metálicas, estrutura metalica">
-		<meta property="og:description" content="Galpões e estruturas metálicas, de forma mais segura e de fácil acesso">
+		<meta name="keywords" content="Construcampi,arquitetura,galpões, estruturas, metálicas, estrutura metalica">
+		<meta name="description" content="Galpões e estruturas metálicas criadas com segurabilidade de aplicação à necessidade do cliente.">
+		<meta property="og:description" content="Galpões e estruturas metálicas criadas com segurabilidade de aplicação à necessidade do cliente.">
 	</head>
 	<body class="is-preload">
 		<!-- Header -->

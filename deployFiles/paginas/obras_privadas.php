@@ -7,8 +7,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="../public/assets/css/obras.css" />
 	<?php include "../includes/css_imports.php"; ?>
-	<meta name="keywords" content="arquitetura,obras,privadas,alto padrão, shopping, center, prédio, prédios, comercial">
-	<meta property="og:description" content="Obras Privadas, tudo sobre as melhores obras da construcampi">
+	<meta name="keywords" content="Construcampi,arquitetura,obras,privadas,alto padrão, shopping, center, prédio, prédios, comercial">
+	<meta name="description" content="Obras Privadas realizadas pela Construcampi, como shopping centers, prédios de alto padrão, prédios comerciais e muito mais.">
+	<meta property="og:description" content="Obras Privadas realizadas pela Construcampi, como shopping centers, prédios de alto padrão, prédios comerciais e muito mais.">
 </head>
 
 <body class="is-preload">
@@ -57,7 +58,7 @@
 									<img class="grow_image2 img-fluid rounded" src="../public/images/obras/privadas/predio_comercial_1.jpg" alt="predio_comercial" />
 								</span>
 								<div class="hidden_text">
-									Predio Comercial
+									Prédio Comercial
 								</div>
 							</div>
 							<div class="col-4 col-6-narrow text_container">

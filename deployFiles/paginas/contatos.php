@@ -6,6 +6,9 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<?php include("../includes/css_imports.php"); ?>
+		<meta name="keywords" content="Construcampi">
+		<meta name="description" content="Entre em contato com a Construcampi.">
+		<meta property="og:description" content="Entre em contato com a Construcampi.">
 		<link rel="stylesheet" href="../public/assets/css/contatos.css" />
 	</head>
 	<body class="is-preload">

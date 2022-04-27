@@ -7,8 +7,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="../public/assets/css/obras.css" />
 	<?php include "../includes/css_imports.php"; ?>
-	<meta name="keywords" content="arquitetura,casas, pré-fabricadas, engenharia">
-	<meta property="og:description" content="Casas pré-fabricadas, nada como a facilidade de ter sua casa de forma mais rápida">
+	<meta name="keywords" content="Construcampi,arquitetura,casas,pré-fabricadas,engenharia">
+	<meta name="description" content="Casas pré-fabricadas e pré-moduladas da Construcampi.">
+	<meta property="og:description" content="Casas pré-fabricadas e pré-moduladas da Construcampi.">
 </head>
 
 <body class="is-preload">

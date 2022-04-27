@@ -6,8 +6,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../public/assets/css/parcerias.css" />
         <?php include "../includes/css_imports.php";?>
-		<meta name="keywords" content="arquitetura,construtora,amcham,maquetes">
-		<meta property="og:description" content="Nossas parcerias que ajudam a Construcampi a transformar sonhos em realidade">
+		<meta name="keywords" content="Construcampi,arquitetura,construtora,amcham,maquetes">
+		<meta name="description" content="Nossas parcerias que ajudam a Construcampi a transformar sonhos em realidade.">
+		<meta property="og:description" content="Nossas parcerias que ajudam a Construcampi a transformar sonhos em realidade.">
 	</head>
 	<body class="is-preload">
 		<!-- Header -->

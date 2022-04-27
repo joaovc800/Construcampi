@@ -6,8 +6,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../public/assets/css/w10_solucoes.css" />
         <?php  include "../includes/css_imports.php";?>
-        <meta name="keywords" content="">
-		<meta property="og:description" content="">
+        <meta name="keywords" content="w10,w10-soluções,Construcampi">
+		<meta name="description" content="A W10 Soluções traz serviços com efetividade na área de soluções sustentável com estrutura da engenharia elétrica, hidráulica, sanitária e pinturas.">
+		<meta property="og:description" content="A W10 Soluções traz serviços com efetividade na área de soluções sustentável com estrutura da engenharia elétrica, hidráulica, sanitária e pinturas.">
 		<link rel="stylesheet" href="../public/assets/css/fontawesome-free-6.0.0-web/css/all.css" />
 	</head>
 	<body class="is-preload">

@@ -6,8 +6,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../public/assets/css/trabalhe_conosco.css" />
         <?php  include "../includes/css_imports.php";?>
-        <meta name="keywords" content="">
-		<meta property="og:description" content="">
+        <meta name="keywords" content="Construcampi,trabalhe-conosco">
+		<meta name="description" content="Venha fazer parte da equipe profissional Construcampi, para assim trazermos a satisfação dos nossos clientes com paixão, energia e dedicação de nossas conquistas.">
+		<meta property="og:description" content="Venha fazer parte da equipe profissional Construcampi, para assim trazermos a satisfação dos nossos clientes com paixão, energia e dedicação de nossas conquistas.">
 		<link rel="stylesheet" href="../public/assets/css/fontawesome-free-6.0.0-web/css/all.css" />
 	</head>
 	<body class="is-preload">
