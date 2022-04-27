@@ -29,7 +29,7 @@
 						<div class="inner">
 							<section class="text-start d-flex flex-column flex-md-row justify-content-center mb-4 shadow_effect">
 								<div class="image_extra col-12 col-md-6">
-									<img class="img-fluid img_fit" src="../public/images/trabalhe_conosco/im2.png" alt="mosaico_construcampi" />
+									<img class="img-fluid img_fit" src="../public/images/trabalhe_conosco/im3.png" alt="mosaico_construcampi" />
 								</div>
 								<div class="side_borders background_effect p-5 col-12 col-md-6">
 									<h3>Sempre Evoluindo</h3>
@@ -45,7 +45,7 @@
 									<p>Caso você tenha disposição e determinação para realizar grandes tarefas, você já vai se encontrar próximo de fazer parte da família Construcampi.</p>
 								</div>
 								<div class="image_extra col-12 col-md-6 order-1 order-md-2">
-									<img class="img-fluid img_fit" src="../public/images/trabalhe_conosco/im3.png" alt="plano_construcampi" />
+									<img class="img-fluid img_fit" src="../public/images/trabalhe_conosco/im2.png" alt="plano_construcampi" />
 								</div>
 							</section>
 						</div>
