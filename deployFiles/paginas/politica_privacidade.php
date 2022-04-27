@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Politica de Privacidade</title>
+		<title>Politica de Privacidade - Construcampi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<?php include("../includes/css_imports.php"); ?>

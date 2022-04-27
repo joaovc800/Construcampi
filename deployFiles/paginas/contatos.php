@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>Contatos</title>
+		<title>Contatos - Construcampi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<?php include("../includes/css_imports.php"); ?>

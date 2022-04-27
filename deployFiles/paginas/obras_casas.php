@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title>Casas Pre-fabricadas</title>
+	<title>Casas Pre-fabricadas - Construcampi</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="../public/assets/css/obras.css" />
