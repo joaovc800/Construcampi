@@ -30,7 +30,7 @@
 							<h2 class="pb-md-2">Envie Seu Currículo</h2>
 							<section class="text-start d-flex justify-content-center mb-4">
 								<div class="email_instrucoes">
-									<h3 class="h4">Siga corretamente as instruções abaixa caso o currículo seja enviado por Email:</h2>
+									<h3 class="h4">Siga corretamente as instruções abaixo caso o currículo seja enviado por Email:</h2>
 									<ul class="px-5 py-2">
 										<li>Não utilize <span class="text-danger">nenhum</span> tipo de formatação nos textos contidos no <span class="text-danger">corpo</span> do email</li>
 										<li>Coloque como <span class="text-danger">assunto</span> a vaga que deseja se candidatar</li>
