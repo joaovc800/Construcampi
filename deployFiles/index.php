@@ -153,7 +153,6 @@
 				</div>
 			</div>
 		</section>
-
 		<section id="iframe">
 			<h3 class="text-light text-center">Onde estamos localizados</h3>
 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.103124475027!2d-46.85204328502365!3d-23.492794784716946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf02394b674fc9%3A0x66136606865c6ceb!2sEdificio%20Amazonia!5e0!3m2!1spt-BR!2sbr!4v1649184281592!5m2!1spt-BR!2sbr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -163,7 +162,6 @@
 			<p class="text-light text-center"><strong class="text-light">Rio de Janeiro</strong>:  Rua..... nº, andar X, Bairro, Cidade e cep</p> -->
 			<!-- </div> -->
 		</section>
-
 		<!-- Footer -->
 		<footer id="footer">
 			<div class="container">
@@ -226,7 +224,6 @@
 						<ul class="list-unstyled list-py-1 mb-0">
 							<li><a class="link-sm link-light" href="paginas/parcerias_publicas">Parcerias Públicas e Privadas</a></li>
 							<li><a class="link-sm link-light" href="paginas/w10_solucoes">W10 SOLUÇÕES</a><!--<p class="adjust_text_size">Um Grupo Filiado a Empresa CONSTRUCAMPI</p>--></li>
-	
 						</ul>
 					</div>
 					<div class="col-sm">
@@ -238,16 +235,14 @@
 				</div>
 			</div>
 		</footer>
-
 		<div vw class="enabled">
 			<div vw-access-button class="active"></div>
 			<div vw-plugin-wrapper>
 				<div class="vw-plugin-top-wrapper"></div>
 			</div>
 		</div>
-
-		<div id="back" class="text-center d-flex justify-content-center align-items-center">
-    		<i class="fas h5 m-0 text-light fa-angle-double-up over_h5"></i>
+		<div id="back" class="text-center">
+    		<i class="fas h5 text-light fa-angle-double-up over_h5"></i>
 		</div>
 	</div>
 	<!-- SCRIPTS SEM IMPORT -->

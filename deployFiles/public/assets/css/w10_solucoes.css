@@ -8618,6 +8618,7 @@ input, select, textarea {
 }
 
 .over_h5 {
+	font-family: 'Font Awesome 5 Free';
     font-size: 20px !important;
     font-weight: 900;
 }

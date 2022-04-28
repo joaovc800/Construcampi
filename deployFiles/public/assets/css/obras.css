@@ -2374,7 +2374,7 @@ input, select, textarea {
 		margin: 0 5em 0 5em !important;
 	}
 
-	p {
+	.text_container p {
 		text-align: left !important;
 	}
 	
@@ -2399,7 +2399,7 @@ input, select, textarea {
 	.adjust_row {
 		margin: 0 5em 0 5em !important;
 	}
-	p {
+	.text_container p {
 		text-align: left !important;
 	}
 	.adjust_text {
@@ -2419,7 +2419,7 @@ input, select, textarea {
 	.adjust_row_3_x_3 {
 		padding: 0 !important;
 	}
-	p {
+	.text_container p {
 		text-align: left !important;
 	}
 	.adjust_text {
@@ -2437,7 +2437,7 @@ input, select, textarea {
 	.adjust_row_3_x_3 {
 		padding: 0 !important;
 	}
-	p {
+	.text_container p {
 		text-align: left !important;
 	}
 	.adjust_text {
@@ -2455,7 +2455,7 @@ input, select, textarea {
 		padding: 0 !important;
 	}
 
-	p {
+	.text_container p {
 		text-align: left !important;
 	}
 
