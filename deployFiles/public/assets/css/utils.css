@@ -543,9 +543,104 @@ dl {
 }
 
 #footer a:hover{
-	color: #f56a6a!important;
+    color: #f56a6a!important;
 	border-bottom: 1px solid;
 }
+/*CSS adicional*/				
+div[vw] [vp] [vp-message-box] {
+    display: none!important;
+}
+
+[vw] [vw-access-button] .access-button{
+    border-radius: 50px!important;
+    width: 30%;
+}
+
+.text-center{
+    text-align: center!important
+}
+
+.text-light{
+    color: #f8f9fa;
+}
+
+.gold{
+    color: #ffd700!important;
+}
+
+.bg-gold{
+    background: linear-gradient(45deg,#ae8625,#f7e7ba,#d2ac47,#edc967)!important;
+}
+
+.pointer{
+    cursor: pointer!important;
+}
+
+a{
+    text-decoration: none!important;
+}
+#back{
+    display: none;
+    width: 30px;
+    height: 30px;
+    position: fixed;
+    background: linear-gradient(45deg,#ae8625,#f7e7ba,#d2ac47,#edc967)!important;
+    right: 10px;
+    bottom: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: all .2s ease-in-out;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+#back:hover{
+    transform: translateY(-3px);
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: linear-gradient(45deg,#ae8625,#f7e7ba,#d2ac47,#edc967)!important;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(45deg,#ae8625,#f7e7ba,#d2ac47,#edc967)!important;
+  }
+
+.link_page:hover {
+    color: red;
+}
+
+.adjust_hover_a {
+    text-decoration: none;
+}
+
+.adjust_h5_margins {
+    margin-bottom: 0 !important;
+}
+
+.adjust_text_size {
+    font-size: 0.5em !important;
+    line-height: 1;
+    color: #fff;
+    cursor: default;
+    text-align: center;
+}
+
+.colorfy_white {
+    color: #fff;
+}
+
+/* utilizado na arrow */
+
 /* Abaixo sao as resposividades de tela */
 
 /* Wide */
@@ -838,7 +933,7 @@ dl {
         padding-left: 0;
     }
 
-	}
+}
 
 /* Mobile (Portrait) */
 
@@ -851,95 +946,7 @@ dl {
 
 }
 
-/*CSS adicional*/				
-div[vw] [vp] [vp-message-box] {
-	display: none!important;
-}
-
-[vw] [vw-access-button] .access-button{
-	border-radius: 50px!important;
-	width: 30%;
-}
-
-.text-center{
-	text-align: center!important
-}
-
-.text-light{
-	color: #f8f9fa;
-}
-
-.gold{
-	color: #ffd700!important;
-}
-
-.bg-gold{
-	background: linear-gradient(45deg,#ae8625,#f7e7ba,#d2ac47,#edc967)!important;
-}
-
-.pointer{
-	cursor: pointer!important;
-}
-
-a{
-	text-decoration: none!important;
-}
-#back{
-	display: none;
-	width: 30px;
-	height: 30px;
-	position: fixed;
-	background: linear-gradient(45deg,#ae8625,#f7e7ba,#d2ac47,#edc967)!important;
-	right: 10px;
-	bottom: 10px;
-	cursor: pointer;
-	border-radius: 5px;
-	transition: all .2s ease-in-out;
-}
-
-ol, ul {
-    list-style: none;
-}
-
-#back:hover{
-	transform: translateY(-3px);
-}
-
-/* width */
-::-webkit-scrollbar {
-    width: 10px;
-  }
-  
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
-    background: linear-gradient(45deg,#ae8625,#f7e7ba,#d2ac47,#edc967)!important;
-  }
-  
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
-    background: linear-gradient(45deg,#ae8625,#f7e7ba,#d2ac47,#edc967)!important;
-  }
-
-.link_page:hover {
-    color: red;
-}
-
-.adjust_hover_a {
-	text-decoration: none;
-}
-
-.adjust_h5_margins {
-	margin-bottom: 0 !important;
-}
-
-.adjust_text_size {
-	font-size: 0.5em !important;
-	line-height: 1;
-	color: #fff;
-	cursor: default;
-    text-align: center;
-}
-
-.colorfy_white {
-    color: #fff;
+.over_h5 {
+    font-size: 20px !important;
+    font-weight: 900;
 }

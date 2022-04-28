@@ -86,6 +86,6 @@
         <div class="vw-plugin-top-wrapper"></div>
     </div>
 </div>
-<div id="back" class="text-center">
-    <i class="fas h5 mt-1 text-light fa-angle-double-up"></i>
+<div id="back" class="text-center d-flex justify-content-center align-items-center">
+    <i class="fas h5 m-0 text-light fa-angle-double-up over_h5"></i>
 </div>

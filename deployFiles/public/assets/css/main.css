@@ -4173,6 +4173,10 @@ a {
 	}
 }
 
+.over_h5 {
+	font-size: 20px !important;
+}
+
 #iframe {
 	display: flex;
 	flex-direction: column;
