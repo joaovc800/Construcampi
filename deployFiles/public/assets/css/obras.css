@@ -2399,9 +2399,11 @@ input, select, textarea {
 	.adjust_row {
 		margin: 0 5em 0 5em !important;
 	}
+
 	.text_container p {
 		text-align: left !important;
 	}
+
 	.adjust_text {
 		padding: 0 4em 0 3em !important;
 		font-size: 1.3em;
@@ -2419,9 +2421,11 @@ input, select, textarea {
 	.adjust_row_3_x_3 {
 		padding: 0 !important;
 	}
+
 	.text_container p {
 		text-align: left !important;
 	}
+
 	.adjust_text {
 		padding: 0 4em 0 3em !important;
 		font-size: 1.1em;
@@ -2437,9 +2441,11 @@ input, select, textarea {
 	.adjust_row_3_x_3 {
 		padding: 0 !important;
 	}
+
 	.text_container p {
 		text-align: left !important;
 	}
+	
 	.adjust_text {
 		padding: 0 4em 0 3em !important;
 		font-size: 1em;
@@ -2474,6 +2480,7 @@ input, select, textarea {
 		padding: 0 !important;
 		margin: 0 1em 0 1em !important;
 	}
+	
 	.adjust_text {
 		padding: 0 !important;
 		font-size: 20px;
@@ -2481,13 +2488,16 @@ input, select, textarea {
 		line-height: auto;
 		text-align: center !important;
 	}
+
 	p {
 		text-align: center !important;
 	}
+
 	.adjust {
 		/* cria um efeito legal de texto no mobile */
 		padding: 0 !important;
 	}
+
 	.adjust_row_3_x_3 {
 		padding: 0 !important;
 	}

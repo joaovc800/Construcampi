@@ -25,7 +25,7 @@
 						</div>
 					</section>
 				<!-- textos motivacionais da empresa -->
-					<section class="wrapper style1 align-center adjust_border">
+					<section class="wrapper style1 align-center adjust_border mb-5 mb-md-0">
 						<div class="inner">
 							<section class="text-start d-flex flex-column flex-md-row justify-content-center mb-4 shadow_effect">
 								<div class="image_extra col-12 col-md-6">
@@ -50,8 +50,8 @@
 							</section>
 						</div>
 					</section>
-					<section class="wrapper style1 align-center adjust_border">
-						<h1 class="h1">Venha ser <span class="text-danger">Construcampi</span>! Venha viver seu <span class="text-danger">futuro</span>!</h1>
+					<section class="wrapper style1 align-center my-5 my-md-0 ">
+						<h1 class="h1 wrapper_special">Venha ser <span class="text-danger">Construcampi</span>! Venha viver seu <span class="text-danger">futuro</span>!</h1>
 					</section>
 						
 				<!-- Enviar curriculo -->
@@ -73,7 +73,7 @@
 								<div class="side_borders p-5">
 									<i class="icon solid style2 major fa-envelope text-danger"></i>
 									<h3>Email</h3>
-									<h3>trabalheconosco@construcampi.com.br</h3>
+									<a href="mailto:trabalheconosco@costrucampi.com.br"><h3 class="adjust_a">trabalheconosco@construcampi.com.br</h3></a>
 								</div>
 							</section>
 						</div>
