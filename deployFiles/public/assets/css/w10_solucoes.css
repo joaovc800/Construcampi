@@ -8617,6 +8617,11 @@ input, select, textarea {
 
 }
 
+.over_h5 {
+    font-size: 20px !important;
+    font-weight: 900;
+}
+
 .mark_text {
 	color:#04a1ff !important;
 }

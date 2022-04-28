@@ -8693,3 +8693,8 @@ input, select, textarea {
 		padding: 0 !important;
 	}
 }
+
+.over_h5 {
+    font-size: 20px !important;
+    font-weight: 900;
+}
