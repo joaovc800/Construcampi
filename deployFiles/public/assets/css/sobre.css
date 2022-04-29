@@ -401,7 +401,8 @@ h1,h2,h3,h4,h5,h6,p{
 }
 
 #more {display: none;}
-/*  */
+/* fra */
 .shadow {
 	text-shadow: 1px 1px 1px black ;
 }
+/* git subtree push --prefix ./deployfiles heroku main */
