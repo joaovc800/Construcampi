@@ -374,3 +374,30 @@ h1,h2,h3,h4,h5,h6,p{
 	  border-top: 0;
 	  margin-top: 0;
 	  padding-top: 0; }
+
+
+
+@media screen and (max-width: 980px) {
+	.text_resize {
+		font-size: 1.2em !important;
+	}
+
+	.translate {
+		width: 100% !important;
+		transform: none !important;
+	}
+}
+.adjust_article {
+	margin-right: 3em !important;
+}
+
+.no_border {
+	border-top: none !important;
+}
+
+.translate {
+	width: 50%;
+	transform: translateX(50%)
+}
+
+#more {display: none;}
