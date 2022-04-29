@@ -150,126 +150,126 @@ Norte a Sul, de Leste a Oeste e Centroeste do Brasil, além de diversos outros p
 											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c1.jpg" alt="1 slide">
 											<div class="carousel-caption d-none d-md-block">
 												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto representando o Sandro Santos...</p>
+												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
 											</div>
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c2.jpg" alt="2 slide">
 											<div class="carousel-caption d-none d-md-block">
 												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto representando o Sandro Santos...</p>
+												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
 											</div>
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c3.jpg" alt="3 slide">
 											<div class="carousel-caption d-none d-md-block">
 												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto representando o Sandro Santos...</p>
+												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
 											</div>
 										</div>
 										<div class="carousel-item fw-bold">
 											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c4.jpg" alt="4 slide">
 											<div class="carousel-caption d-none d-md-block ">
 												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto representando o Sandro Santos...</p>
+												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
 											</div>
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c5.jpg" alt="5 slide">
 											<div class="carousel-caption d-none d-md-block">
 												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto representando o Sandro Santos...</p>
+												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
 											</div>
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c6.jpg" alt="6 slide">
 											<div class="carousel-caption d-none d-md-block">
 												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto representando o Sandro Santos...</p>
+												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
 											</div>
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c7.jpg" alt="7 slide">
 											<div class="carousel-caption d-none d-md-block">
 												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto representando o Sandro Santos...</p>
+												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
 											</div>
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c8.jpg" alt="8 slide">
 											<div class="carousel-caption d-none d-md-block">
 												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto representando o Sandro Santos...</p>
+												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
 											</div>
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c9.jpg" alt="9 slide">
 											<div class="carousel-caption d-none d-md-block">
 												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto representando o Sandro Santos...</p>
+												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
 											</div>
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c10.jpg" alt="10 slide">
 											<div class="carousel-caption d-none d-md-block">
 												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto representando o Sandro Santos...</p>
+												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
 											</div>
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c11.jpg" alt="11 slide">
 											<div class="carousel-caption d-none d-md-block">
 												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto representando o Sandro Santos...</p>
+												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
 											</div>
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c12.jpg" alt="12 slide">
 											<div class="carousel-caption d-none d-md-block">
 												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto representando o Sandro Santos...</p>
+												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
 											</div>
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c13.jpg" alt="13 slide">
 											<div class="carousel-caption d-none d-md-block">
 												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto representando o Sandro Santos...</p>
+												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
 											</div>
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c14.jpg" alt="14 slide">
 											<div class="carousel-caption d-none d-md-block">
 												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto representando o Sandro Santos...</p>
+												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
 											</div>
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c15.jpg" alt="15 slide">
 											<div class="carousel-caption d-none d-md-block">
 												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto representando o Sandro Santos...</p>
+												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
 											</div>
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c16.jpg" alt="16 slide">
 											<div class="carousel-caption d-none d-md-block">
 												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto representando o Sandro Santos...</p>
+												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
 											</div>
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c17.jpg" alt="17 slide">
 											<div class="carousel-caption d-none d-md-block">
 												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto representando o Sandro Santos...</p>
+												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
 											</div>
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c18.jpg" alt="18 slide">
 											<div class="carousel-caption d-none d-md-block">
 												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto representando o Sandro Santos...</p>
+												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
 											</div>
 										</div>
 									</div>
