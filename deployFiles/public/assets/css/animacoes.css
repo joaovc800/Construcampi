@@ -222,6 +222,7 @@
 }
 /* _____________________ */
 /* Animação de entrada */
+
 .animacao {
 	height: 100vh;
 	width: 100vw;
@@ -240,19 +241,18 @@
 	color: #FFF; 
 	z-index: 1000000;
 }
+
 .heading {
-	font-family: "Avenir Next";
+	font-family: "Font Awesome 5 Duotone";
 	margin-bottom: 0px;
-	opacity: 0; 
 }
   
 .sub-heading {
 	font-size: 16px;
 	font-weight: 100;
 	letter-spacing: 2px;
-	font-family: "Avenir Next";
+	font-family: "Font Awesome 5 Duotone";
 	margin-bottom: 40px;
-	opacity: 0; 
 }
   
 .loader-wrapper {

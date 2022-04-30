@@ -20,7 +20,6 @@
 	<meta property="og:image:width" content="200">
 	<meta property="og:image:height" content="200">
 	<meta property="og:url" content="http://construcampi.com.br/">
-	
 </head>
 <body class="landing is-preload before_anim">
 	<div id="page-wrapper" style="position:relative; display: block;">

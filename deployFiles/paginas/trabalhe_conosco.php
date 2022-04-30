@@ -16,7 +16,7 @@
         <?php include "../includes/header.php"; ?>
 			<div id="wrapper" class="divided pt-5">
 					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
-						<div class="content blur col-12 col-md-6 d-flex justify-content-center flex-column flex-nowrap">
+						<div class="content col-12 col-md-6 d-flex justify-content-center flex-column flex-nowrap">
 							<h1 class="h3">Quer fazer parte da história da <span class="text-danger">Construcampi</span> e desenvolver a carreira dos seus sonhos?</h1>
 							<h3 class="fw-bold fs-1">Este é o seu lugar!</h3>
 						</div>
