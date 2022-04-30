@@ -16,7 +16,7 @@
 	<!-- Header -->
 	<?php include "../includes/header.php"; ?>
 	<!-- Main -->
-	<section id="second" class="main pb-5">
+	<section id="second" class="main pb-5 hide_content_anim">
 		<header class="imagem_com_texto">
 			<h1 class="h2 colorfy_white">Casas Pré-Fabricadas e Pré-Moduladas</h1>
 			<p style="text-align: center !important;" class="m-2">Engenharia modular de rápida e efetiva implantação sem custos abusivos</p>

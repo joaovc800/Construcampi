@@ -4231,7 +4231,7 @@ a {
 	left: 0;
 	right: 0;
 	text-align: center;
-	background: #313131;
+	background: #1d1d1b !important;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -4270,7 +4270,17 @@ a {
 	background: #ff0000; 
 }
 
-/* Cuidado! utilizado no body para não ter overflow ao rodar a animação, remover após rodar ela */
+/* Cuidado! utilizado no body para ter scroll lock ao rodar a animação, remover após rodar ela */
 .before_anim {
+	background-color: #222;
+	height: 100vh;
 	overflow: hidden;
+}
+
+.hide_content_anim {
+	visibility: hidden;
+}
+
+.hide_content_anim_mobile {
+	visibility: hidden;
 }

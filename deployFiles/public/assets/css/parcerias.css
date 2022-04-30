@@ -2512,4 +2512,9 @@ input, select, textarea {
 	}
 }
 
+/* Resolve um conflito de texto no footer */
+.adjust_text_size {
+	text-align: center !important;
+}
+
 

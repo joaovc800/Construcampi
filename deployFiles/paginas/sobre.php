@@ -14,7 +14,7 @@
 
 <body class="landing is-preload">
 	<!-- Wrapper -->
-	<div id="wrapper">
+	<div id="wrapper" class="hide_content_anim">
 		<?php include "../includes/header.php"; ?>
 		<!-- Main -->
 		<div id="main_sobre">

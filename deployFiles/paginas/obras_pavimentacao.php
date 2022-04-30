@@ -15,7 +15,7 @@
 		<?php include "../includes/header.php"; ?>
 		<!-- Imagem atras -->
 		<!-- Main -->
-			<section id="second" class="main pb-5">
+			<section id="second" class="main pb-5 hide_content_anim">
 				<header class="imagem_com_texto">
 					<h1 class="h2 colorfy_white">Pavimentações Asfálticas</h1>
 					<p style="text-align: center !important;" class="m-2">Composição de métodos para alcançar resultados contínuos e sustentáveis</p>

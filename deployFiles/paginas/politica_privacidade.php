@@ -12,7 +12,7 @@
 
 	</head>
 	<body class="is-preload">
-		<div id="page-wrapper">
+		<div id="page-wrapper" class="hide_content_anim">
 
 			<!-- Header -->
 				<?php include("../includes/header.php"); ?>

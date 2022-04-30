@@ -938,10 +938,8 @@ ol, ul {
 /* Mobile (Portrait) */
 
 @media screen and (max-width: 480px) {
-
     /* Section/Article */
     header.major {
         padding: 0;
     }
-
 }

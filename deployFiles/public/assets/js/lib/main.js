@@ -30,7 +30,7 @@
 
 		// Button width:0 foi colocado.
 			$(
-				'<div id="navButton" style="width:0;">' +
+				'<div id="navButton" class="hide_content_anim_mobile" style="width:0;">' +
 					'<a href="#navPanel" class="toggle"></a>' +
 				'</div>'
 			)

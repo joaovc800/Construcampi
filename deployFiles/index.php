@@ -22,7 +22,7 @@
 	<meta property="og:url" content="http://construcampi.com.br/">
 </head>
 <body class="landing is-preload before_anim">
-	<div id="page-wrapper" style="position:relative; display: block;">
+	<div id="page-wrapper" class="hide_content_anim" style="position:relative; display: block;">
 		<!-- Header -->
 		<header id="header" class="alt">
 			<h1>

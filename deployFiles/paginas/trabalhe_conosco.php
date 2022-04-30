@@ -12,7 +12,7 @@
 		<link rel="stylesheet" href="../public/assets/css/fontawesome-free-6.0.0-web/css/all.css" />
 	</head>
 	<body class="is-preload">
-        <main class="container-fluid p-md-5">
+        <main class="container-fluid p-md-5 hide_content_anim">
         <?php include "../includes/header.php"; ?>
 			<div id="wrapper" class="divided pt-5">
 					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">

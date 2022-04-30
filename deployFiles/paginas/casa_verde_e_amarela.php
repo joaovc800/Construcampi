@@ -13,7 +13,7 @@
 	<body class="is-preload">
 		<?php include "../includes/header.php"; ?>	
 		<!-- Wrapper -->
-		<div id="wrapper">
+		<div id="wrapper" class="hide_content_anim">
 			<!-- Intro -->
 			<section class="intro">
 				<header>

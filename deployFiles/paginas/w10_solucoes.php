@@ -12,7 +12,7 @@
 		<link rel="stylesheet" href="../public/assets/css/fontawesome-free-6.0.0-web/css/all.css" />
 	</head>
 	<body class="is-preload">
-        <main class="container-fuild">
+        <main class="container-fuild hide_content_anim">
         <?php include "../includes/header.php"; ?>
 			<div id="wrapper" class="divided">
 				<!-- Introducao/ escrever mais sobre energia-->

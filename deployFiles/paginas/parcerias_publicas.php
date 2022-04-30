@@ -15,7 +15,7 @@
 		<?php include "../includes/header.php"; ?>
 		<!-- Imagem atras -->
 		<!-- Main -->
-			<section id="second" class="main pb-5">
+			<section id="second" class="main pb-5 hide_content_anim">
 				<div class="text_header px-5">
 					<header class="text_border">
 						<h1 class="h2 colorfy_white">Parcerias Públicas e Privadas</h1>
