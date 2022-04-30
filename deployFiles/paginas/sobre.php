@@ -124,7 +124,7 @@ Norte a Sul, de Leste a Oeste e Centroeste do Brasil, além de diversos outros p
 						<article class="w-100">
 							<div class="content text-wrap text-center flex-column justify-content-center">
 								<h1 class="h1 mb-2 mb-md-5 text-danger text_resize">VEJA AS CONQUISTAS DE NOSSO CEO</h1>
-								<div id="carouselExampleCaptions" class="carousel slide translate" data-bs-ride="carousel">
+								<div id="carouselExampleCaptions" class="carousel slide carousel-fade translate" data-bs-ride="carousel">
 									<div class="carousel-indicators">
 										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
 										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 1"></button>
@@ -146,131 +146,59 @@ Norte a Sul, de Leste a Oeste e Centroeste do Brasil, além de diversos outros p
 										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="17" aria-label="Slide 17"></button>
 									</div>
 									<div class="carousel-inner">
-										<div class="carousel-item active">
-											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c1.jpg" alt="1 slide">
-											<div class="carousel-caption d-none d-md-block">
-												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
-											</div>
+										<div data-bs-interval="2000" class="carousel-item active">
+											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c1.jpg" alt="Sandro Santos">
 										</div>
-										<div class="carousel-item">
-											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c2.jpg" alt="2 slide">
-											<div class="carousel-caption d-none d-md-block">
-												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
-											</div>
+										<div data-bs-interval="3000" class="carousel-item">
+											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c2.jpg" alt="Sandro Santos">
 										</div>
-										<div class="carousel-item">
-											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c3.jpg" alt="3 slide">
-											<div class="carousel-caption d-none d-md-block">
-												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
-											</div>
+										<div data-bs-interval="2000" class="carousel-item">
+											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c3.jpg" alt="Sandro Santos">
 										</div>
-										<div class="carousel-item fw-bold">
-											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c4.jpg" alt="4 slide">
-											<div class="carousel-caption d-none d-md-block ">
-												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
-											</div>
+										<div data-bs-interval="3000" class="carousel-item fw-bold">
+											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c4.jpg" alt="Sandro Santos">
 										</div>
-										<div class="carousel-item">
-											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c5.jpg" alt="5 slide">
-											<div class="carousel-caption d-none d-md-block">
-												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
-											</div>
+										<div data-bs-interval="2000" class="carousel-item">
+											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c5.jpg" alt="Sandro Santos">
 										</div>
-										<div class="carousel-item">
-											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c6.jpg" alt="6 slide">
-											<div class="carousel-caption d-none d-md-block">
-												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
-											</div>
+										<div data-bs-interval="2000" class="carousel-item">
+											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c6.jpg" alt="Sandro Santos">
 										</div>
-										<div class="carousel-item">
-											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c7.jpg" alt="7 slide">
-											<div class="carousel-caption d-none d-md-block">
-												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
-											</div>
+										<div data-bs-interval="3000" class="carousel-item">
+											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c7.jpg" alt="Sandro Santos">
 										</div>
-										<div class="carousel-item">
-											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c8.jpg" alt="8 slide">
-											<div class="carousel-caption d-none d-md-block">
-												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
-											</div>
+										<div data-bs-interval="2000" class="carousel-item">
+											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c8.jpg" alt="Sandro Santos">
 										</div>
-										<div class="carousel-item">
-											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c9.jpg" alt="9 slide">
-											<div class="carousel-caption d-none d-md-block">
-												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
-											</div>
+										<div data-bs-interval="3000" class="carousel-item">
+											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c9.jpg" alt="Sandro Santos">
 										</div>
-										<div class="carousel-item">
-											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c10.jpg" alt="10 slide">
-											<div class="carousel-caption d-none d-md-block">
-												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
-											</div>
+										<div data-bs-interval="2000" class="carousel-item">
+											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c10.jpg" alt="Sandro Santos">
 										</div>
-										<div class="carousel-item">
-											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c11.jpg" alt="11 slide">
-											<div class="carousel-caption d-none d-md-block">
-												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
-											</div>
+										<div data-bs-interval="3000" class="carousel-item">
+											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c11.jpg" alt="Sandro Santos">
 										</div>
-										<div class="carousel-item">
-											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c12.jpg" alt="12 slide">
-											<div class="carousel-caption d-none d-md-block">
-												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
-											</div>
+										<div data-bs-interval="2000" class="carousel-item">
+											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c12.jpg" alt="Sandro Santos">
 										</div>
-										<div class="carousel-item">
-											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c13.jpg" alt="13 slide">
-											<div class="carousel-caption d-none d-md-block">
-												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
-											</div>
+										<div data-bs-interval="3000" class="carousel-item">
+											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c13.jpg" alt="Sandro Santos">
 										</div>
-										<div class="carousel-item">
-											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c14.jpg" alt="14 slide">
-											<div class="carousel-caption d-none d-md-block">
-												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
-											</div>
+										<div data-bs-interval="2000" class="carousel-item">
+											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c14.jpg" alt="Sandro Santos">
 										</div>
-										<div class="carousel-item">
-											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c15.jpg" alt="15 slide">
-											<div class="carousel-caption d-none d-md-block">
-												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
-											</div>
+										<div data-bs-interval="3000" class="carousel-item">
+											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c15.jpg" alt="Sandro Santos">
 										</div>
-										<div class="carousel-item">
-											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c16.jpg" alt="16 slide">
-											<div class="carousel-caption d-none d-md-block">
-												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
-											</div>
+										<div data-bs-interval="2000" class="carousel-item">
+											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c16.jpg" alt="Sandro Santos">
 										</div>
-										<div class="carousel-item">
-											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c17.jpg" alt="17 slide">
-											<div class="carousel-caption d-none d-md-block">
-												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
-											</div>
+										<div data-bs-interval="3000" class="carousel-item">
+											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c17.jpg" alt="Sandro Santos">
 										</div>
-										<div class="carousel-item">
-											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c18.jpg" alt="18 slide">
-											<div class="carousel-caption d-none d-md-block">
-												<h5 class="fw-bold shadow" >Titulo..</h5>
-												<p class="fw-bold shadow">Este é algum texto que representa a imagem...</p>
-											</div>
+										<div data-bs-interval="2000" class="carousel-item">
+											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c18.jpg" alt="Sandro Santos">
 										</div>
 									</div>
 									<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
