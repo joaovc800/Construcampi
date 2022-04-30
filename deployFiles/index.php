@@ -20,10 +20,9 @@
 	<meta property="og:image:width" content="200">
 	<meta property="og:image:height" content="200">
 	<meta property="og:url" content="http://construcampi.com.br/">
-
+	
 </head>
-
-<body class="landing is-preload">
+<body class="landing is-preload before_anim">
 	<div id="page-wrapper" style="position:relative; display: block;">
 		<!-- Header -->
 		<header id="header" class="alt">
@@ -77,7 +76,7 @@
 		<!-- Banner -->
 		<section id="banner">
 			<h2>CONSTRUC<span style="color:#f00">A</span>MPI</h2>
-			<p>Seu objetivo é o nosso principal compromisso e responsabilidade</p>
+			<p>Seu objetivo é o Nosso Principal Compromisso e Responsabilidade</p>
 			<ul class="actions special">
 				<li><a href="paginas/sobre" class="button">Saiba mais</a></li>
 			</ul>
@@ -245,7 +244,7 @@
     		<i class="fas h5 mt-1  text-light fa-angle-double-up over_h5"></i>
 		</div>
 	</div>
-	<!-- SCRIPTS SEM IMPORT -->
+	<!-- SCRIPTS GLOBAIS -->
 	<script src="public/assets//js/lib/libras.js"></script>
 	<script src="public/assets/js/lib/jquery.min.js"></script>
 	<script src="public/assets/js/lib/jquery.dropotron.min.js"></script>
@@ -254,8 +253,11 @@
 	<script src="public/assets/js/lib/breakpoints.min.js"></script>
 	<script src="public/assets/js/lib/util.js"></script>
 	<script src="public/assets/js/lib/main.js"></script>
+	<!-- Para a pagina -->
 	<script src="public/assets/js/home/home.js"></script>
 	<script src="public/assets/js/home/arrow.js"></script>
+	<script src="public/assets/js/home/homeAnim.js" type="module"></script>
+			
 	<script>
 		new window.VLibras.Widget('https://vlibras.gov.br/app');
 	</script>

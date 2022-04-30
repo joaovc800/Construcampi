@@ -126,24 +126,24 @@ Norte a Sul, de Leste a Oeste e Centroeste do Brasil, além de diversos outros p
 								<h1 class="h1 mb-2 mb-md-5 text-danger text_resize">GALERIA</h1>
 								<div id="carouselExampleCaptions" class="carousel slide carousel-fade translate" data-bs-ride="carousel">
 									<div class="carousel-indicators">
-										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 1"></button>
-										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 2"></button>
-										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 3"></button>
-										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 4"></button>
-										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="5" aria-label="Slide 5"></button>
-										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="6" aria-label="Slide 6"></button>
-										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="7" aria-label="Slide 7"></button>
-										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="8" aria-label="Slide 8"></button>
-										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="9" aria-label="Slide 9"></button>
-										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="10" aria-label="Slide 10"></button>
-										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="11" aria-label="Slide 11"></button>
-										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="12" aria-label="Slide 12"></button>
-										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="13" aria-label="Slide 13"></button>
-										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="14" aria-label="Slide 14"></button>
-										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="15" aria-label="Slide 15"></button>
-										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="16" aria-label="Slide 16"></button>
-										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="17" aria-label="Slide 17"></button>
+										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="border_carousel active" aria-current="true" aria-label="Slide 1"></button>
+										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" class="border_carousel" aria-label="Slide 1"></button>
+										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" class="border_carousel" aria-label="Slide 2"></button>
+										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" class="border_carousel" aria-label="Slide 3"></button>
+										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" class="border_carousel" aria-label="Slide 4"></button>
+										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="5" class="border_carousel" aria-label="Slide 5"></button>
+										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="6" class="border_carousel" aria-label="Slide 6"></button>
+										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="7" class="border_carousel" aria-label="Slide 7"></button>
+										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="8" class="border_carousel" aria-label="Slide 8"></button>
+										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="9" class="border_carousel" aria-label="Slide 9"></button>
+										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="10" class="border_carousel" aria-label="Slide 10"></button>
+										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="11" class="border_carousel" aria-label="Slide 11"></button>
+										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="12" class="border_carousel" aria-label="Slide 12"></button>
+										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="13" class="border_carousel" aria-label="Slide 13"></button>
+										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="14" class="border_carousel" aria-label="Slide 14"></button>
+										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="15" class="border_carousel" aria-label="Slide 15"></button>
+										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="16" class="border_carousel" aria-label="Slide 16"></button>
+										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="17" class="border_carousel" aria-label="Slide 17"></button>
 									</div>
 									<div class="carousel-inner">
 										<div data-bs-interval="2000" class="carousel-item active">

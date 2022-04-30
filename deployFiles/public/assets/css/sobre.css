@@ -387,6 +387,7 @@ h1,h2,h3,h4,h5,h6,p{
 		transform: none !important;
 	}
 }
+
 .adjust_article {
 	margin-right: 3em !important;
 }
@@ -401,7 +402,12 @@ h1,h2,h3,h4,h5,h6,p{
 }
 
 #more {display: none;}
-/* fra */
+
+/* shadow for texts */
 .shadow {
 	text-shadow: 1px 1px 1px black ;
+}
+
+.border_carousel {
+	border: 1px solid black !important;
 }

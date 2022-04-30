@@ -7,6 +7,8 @@
 <script src="../public/assets/js/lib/util.js"></script>
 <script src="../public/assets/js/lib/main.js"></script>
 <script src="../public/assets/js/home/arrow.js"></script>
+<!-- anim de entrada -->
+<script src="../public/assets/js/home/animacaoEntrada.js" type="module"></script>
 <script>
     new window.VLibras.Widget('https://vlibras.gov.br/app');
 </script>

@@ -1,7 +1,6 @@
 // Utilizado para remover a div do modal ao sair do video
-
-
 $(function(){
+  
   window.exit_modal = function exit_modal() { // sair do modal
     $("div_modal_video").modal("hide");
     var nodeModal = document.getElementById("div_modal_video");
