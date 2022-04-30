@@ -123,7 +123,7 @@ Norte a Sul, de Leste a Oeste e Centroeste do Brasil, além de diversos outros p
 					<div class="flex flex-column justify-content-center">
 						<article class="w-100">
 							<div class="content text-wrap text-center flex-column justify-content-center">
-								<h1 class="h1 mb-2 mb-md-5 text-danger text_resize">VEJA AS CONQUISTAS DE NOSSO CEO</h1>
+								<h1 class="h1 mb-2 mb-md-5 text-danger text_resize">GALERIA</h1>
 								<div id="carouselExampleCaptions" class="carousel slide carousel-fade translate" data-bs-ride="carousel">
 									<div class="carousel-indicators">
 										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
