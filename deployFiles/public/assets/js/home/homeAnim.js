@@ -72,7 +72,7 @@ if(!document.cookie.match(/^(.*;)?\s*primeiroAcesso\s*=\s*[^;]+(.*)?$/)) {
 		</div>
 	`;
 	document.getElementById(`anim`).innerHTML = anim;
-	document.getElementById(`loaded_image`).appendChild(myImage);
+	document.getElementById(`loaded_image`).appendChild(logo);
 	
 	document.addEventListener('DOMContentLoaded', () => {
 		// Preparar animação
