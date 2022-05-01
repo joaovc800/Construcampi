@@ -4223,6 +4223,7 @@ a {
 
 /* Animação de entrada */
 .animacao {
+	opacity: 0;
 	height: 100vh;
 	width: 100vw;
 	position: absolute;
@@ -4239,6 +4240,10 @@ a {
 	letter-spacing: 2px;
 	color: #FFF; 
 	z-index: 1000000;
+}
+
+.image-spin {
+	opacity: 0;
 }
 
 .heading_anim {

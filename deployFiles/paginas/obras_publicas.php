@@ -14,6 +14,7 @@
 </head>
 
 <body class="is-preload before_anim">
+	<?php include "../includes/anim.php"; ?>	
 	<!-- Header -->
 	<?php include "../includes/header.php"; ?>
 	<!-- Imagem atras -->

@@ -11,6 +11,7 @@
 		<meta property="og:description" content="Galpões e estruturas metálicas criadas com segurabilidade de aplicação à necessidade do cliente.">
 	</head>
 	<body class="is-preload before_anim">
+		<?php include "../includes/anim.php"; ?>	
 		<!-- Header -->
 		<?php include "../includes/header.php"; ?>
 		<!-- Imagem atras -->

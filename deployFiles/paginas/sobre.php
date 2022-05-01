@@ -13,6 +13,7 @@
 </head>
 
 <body class="landing is-preload before_anim">
+	<?php include "../includes/anim.php"; ?>		
 	<!-- Wrapper -->
 	<div id="wrapper" class="hide_content_anim">
 		<?php include "../includes/header.php"; ?>

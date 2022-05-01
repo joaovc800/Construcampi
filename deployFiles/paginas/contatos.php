@@ -12,6 +12,7 @@
 		<link rel="stylesheet" href="../public/assets/css/contatos.css" />
 	</head>
 	<body class="is-preload before_anim">
+		<?php include "../includes/anim.php"; ?>	
 		<div id="page-wrapper" class="hide_content_anim">
 
 			<!-- Header -->

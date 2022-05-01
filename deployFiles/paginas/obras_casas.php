@@ -14,6 +14,7 @@
 
 <body class="is-preload before_anim">
 	<!-- Header -->
+	<?php include "../includes/anim.php"; ?>	
 	<?php include "../includes/header.php"; ?>
 	<!-- Main -->
 	<section id="second" class="main pb-5 hide_content_anim">

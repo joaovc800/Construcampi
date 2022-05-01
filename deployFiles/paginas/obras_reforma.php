@@ -11,6 +11,7 @@
 		<meta property="og:description" content="Re-implementação e (ou) estruturação do modelo de obra para prédios, casas e muito mais.">
 	</head>
 	<body class="is-preload before_anim">
+		<?php include "../includes/anim.php"; ?>	
 		<!-- Header -->
 		<?php include "../includes/header.php"; ?>
 		<!-- Imagem atras -->
