@@ -40,10 +40,6 @@ function criaElemento(param){ // cria um elemento DOM, necessita de parametros
 	return element
 }
 
-
-let x = document.cookie;
-console.log("esse é o cookie", x);
-
 if(!document.cookie.match(/^(.*;)?\s*primeiroAcesso\s*=\s*[^;]+(.*)?$/)) {
 
 	var root = document.body; // pegar body
