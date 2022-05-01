@@ -1,4 +1,10 @@
 import anime from '../animeJS/lib/anime.es.js';
+// <img class="img-fluid image-spin" alt="Construcampi Logo" src="public/images/logoAnim/logo_anim_no_bg_lowest.png"></img>
+// Carregar a logo primeiro
+var logo = new Image();
+logo.src = 'public/images/logoAnim/logo_anim_no_bg_lowest.png';
+logo.classList.add("img-fluid","image-spin");
+logo.alt = "Construcampi Logo";
 
 function checarViewport() {
 	/**
@@ -53,10 +59,11 @@ if(!document.cookie.match(/^(.*;)?\s*primeiroAcesso\s*=\s*[^;]+(.*)?$/)) {
 	var div = criaElemento({ element: "div", id: `anim`});
 	div.classList.add("animacao", "text-center")
 	root.prepend(div); // inserir como o primeiro elemento < IMPORTANTE
+
 	
 	let anim = `
-		<div class="p-5 p-md-0 col-12 col-md-4">
-			<img class="img-fluid image-spin" alt="Construcampi Logo" src="public/images/logoAnim/logo_anim_no_bg_lowest.png"></img>
+		<div id="loaded_image" class="p-5 p-md-0 col-12 col-md-4">
+			
 		</div>
 		<h1 class="heading_anim h1 col-12 col-md-4 text-justify text-danger">Bem Vindo a Construcampi</h1>
 		<h3 class="sub-heading_anim col-12 col-md-4 text-light">Seu objetivo é o Nosso Principal Compromisso e Responsabilidade</h3>
@@ -65,7 +72,8 @@ if(!document.cookie.match(/^(.*;)?\s*primeiroAcesso\s*=\s*[^;]+(.*)?$/)) {
 		</div>
 	`;
 	document.getElementById(`anim`).innerHTML = anim;
-
+	document.getElementById(`loaded_image`).appendChild(myImage);
+	
 	document.addEventListener('DOMContentLoaded', () => {
 		// Preparar animação
 		anime.timeline({
