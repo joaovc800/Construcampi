@@ -7,6 +7,8 @@
 <script src="../public/assets/js/lib/util.js"></script>
 <script src="../public/assets/js/lib/main.js"></script>
 <script src="../public/assets/js/home/arrow.js"></script>
+<script src="../public/assets/js/home/preferences.js" type="module"></script>
+
 <!-- anim de entrada -->
 <script src="../public/assets/js/home/animacaoEntrada.js" type="module"></script>
 <script>

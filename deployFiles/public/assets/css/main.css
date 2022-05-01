@@ -4293,6 +4293,20 @@ a {
 	visibility: hidden;
 }
 
+.hide_preferences {
+	visibility: hidden;
+}
+
+.preferences {
+	position: fixed;
+	font-size: 16px !important;
+	font-family: "Source Sans Pro", sans-serif !important;
+	bottom: 0;
+	width: 100vw;
+	z-index: 5;
+	background-color: white;
+}
+
 @media screen and (max-width: 700px) {
 	.heading_anim {
 		color: Red !important;

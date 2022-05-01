@@ -942,4 +942,24 @@ ol, ul {
     header.major {
         padding: 0;
     }
+    
+}
+
+.hide_preferences {
+    visibility: hidden;
+}
+
+.preferences {
+    padding: 0 !important;
+	position: fixed;
+	font-size: 16px !important;
+	font-family: "Source Sans Pro", sans-serif !important;
+	bottom: 0;
+	width: 100vw;
+	z-index: 5;
+	background-color: white;
+}
+
+.preferences span {
+    font-size: 16px !important;
 }

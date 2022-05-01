@@ -256,6 +256,7 @@
 	<script src="public/assets/js/home/home.js"></script>
 	<script src="public/assets/js/home/arrow.js"></script>
 	<script src="public/assets/js/home/homeAnim.js" type="module"></script>
+	<script src="public/assets/js/home/prefHome.js" type="module"></script>
 			
 	<script>
 		new window.VLibras.Widget('https://vlibras.gov.br/app');
