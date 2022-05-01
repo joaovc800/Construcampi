@@ -92,7 +92,7 @@ if(!document.cookie.match(/^(.*;)?\s*primeiroAcesso\s*=\s*[^;]+(.*)?$/)) {
 			complete: function() {
 				document.querySelector('.before_anim').classList.remove("before_anim"); // Div do body para conter animacao
 				// caso for mobile
-				document.cookie = "primeiroAcesso=true; expires=Fri, 18 Dec 2023 12:00:00 UTC; path=/";
+				document.cookie = "primeiroAcesso=true; max-age=3600; path=/";
 				document.querySelector('.animacao').remove();
 			}
 		})
