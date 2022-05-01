@@ -10,7 +10,7 @@
 		<meta name="description" content="Programa casa verde e amarela, conheça nossos projetos dedicados.">
 		<meta property="og:description" content="Programa casa verde e amarela, conheça nossos projetos dedicados.">
 	</head>
-	<body class="is-preload">
+	<body class="is-preload before_anim">
 		<?php include "../includes/header.php"; ?>	
 		<!-- Wrapper -->
 		<div id="wrapper" class="hide_content_anim">

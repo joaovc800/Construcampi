@@ -12,7 +12,7 @@
 	<meta property="og:description" content="Venha conhecer mais sobre quem somos, familia Construcampi.">
 </head>
 
-<body class="landing is-preload">
+<body class="landing is-preload before_anim">
 	<!-- Wrapper -->
 	<div id="wrapper" class="hide_content_anim">
 		<?php include "../includes/header.php"; ?>

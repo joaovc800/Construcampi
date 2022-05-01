@@ -12,7 +12,7 @@
 	<meta property="og:description" content="Casas pré-fabricadas e pré-moduladas da Construcampi.">
 </head>
 
-<body class="is-preload">
+<body class="is-preload before_anim">
 	<!-- Header -->
 	<?php include "../includes/header.php"; ?>
 	<!-- Main -->

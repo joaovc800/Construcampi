@@ -13,7 +13,7 @@
 	<meta property="og:description" content="Conheça as Obras Publicas da Construcampi como Hospitais, Universidades, Creches, livrarias, museos, estações e muito mais.">
 </head>
 
-<body class="is-preload">
+<body class="is-preload before_anim">
 	<!-- Header -->
 	<?php include "../includes/header.php"; ?>
 	<!-- Imagem atras -->

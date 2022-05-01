@@ -12,7 +12,7 @@
 	<meta property="og:description" content="Obras Privadas realizadas pela Construcampi, como shopping centers, prédios de alto padrão, prédios comerciais e muito mais.">
 </head>
 
-<body class="is-preload">
+<body class="is-preload before_anim">
 	<!-- Header -->
 	<?php include "../includes/header.php"; ?>
 	<!-- Imagem atras -->

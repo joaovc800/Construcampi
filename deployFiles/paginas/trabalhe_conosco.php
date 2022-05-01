@@ -11,7 +11,7 @@
 		<meta property="og:description" content="Venha fazer parte da equipe profissional Construcampi, para assim trazermos a satisfação dos nossos clientes com paixão, energia e dedicação de nossas conquistas.">
 		<link rel="stylesheet" href="../public/assets/css/fontawesome-free-6.0.0-web/css/all.css" />
 	</head>
-	<body class="is-preload">
+	<body class="is-preload before_anim">
         <main class="container-fluid p-md-5 hide_content_anim">
         <?php include "../includes/header.php"; ?>
 			<div id="wrapper" class="divided pt-5">

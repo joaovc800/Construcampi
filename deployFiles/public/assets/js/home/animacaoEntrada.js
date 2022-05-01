@@ -41,91 +41,104 @@ function criaElemento(param){ // cria um elemento DOM, necessita de parametros
 }
 
 
-var root = document.body; // pegar body
-root.classList.add("before_anim"); // adicionar a classe de overflow
+let x = document.cookie;
+console.log("esse é o cookie", x);
 
-//criar elementos para a animacao e adicionar classes
-var div = criaElemento({ element: "div", id: `anim`});
-div.classList.add("animacao", "text-center")
-root.prepend(div); // inserir como o primeiro elemento < IMPORTANTE
+if(!document.cookie.match(/^(.*;)?\s*primeiroAcesso\s*=\s*[^;]+(.*)?$/)) {
 
-let anim = `
-	<div class="p-5 p-md-0 col-12 col-md-4">
-		<img class="img-fluid image-spin" alt="Construcampi Logo" src="../public/images/logoAnim/logo_anim_no_bg_lowest.png"></img>
-	</div>
-	<h1 class="heading_anim h1 col-12 col-md-4 text-justify text-danger">Bem Vindo a Construcampi</h1>
-	<h3 class="sub-heading_anim col-12 col-md-4 text-light">Seu objetivo é o Nosso Principal Compromisso e Responsabilidade</h3>
-	<div class="loader-wrapper">
-	<div class="loader"></div>
-	</div>
-`;
-document.getElementById(`anim`).innerHTML = anim;
-
-
-document.addEventListener('DOMContentLoaded', () => {
-	// Preparar animação
-	anime.timeline({
-		targets: ".animacao",
-		easing: "easeOutExpo",
-	})
-	.add({
-		opacity: ["0","1"],
-		duration: 1400
-	})
-	.add({
-		delay: 2700,
-		opacity: ["1","0"],
-		duration: 500,
-		complete: function() {
-			document.querySelector('.before_anim').classList.remove("before_anim"); // Div do body para conter animacao
-			document.querySelector('.animacao').remove();
-		}
-	})
-
-	// Girar a imagem
-	anime({
-		targets: ".image-spin",
-		opacity: 1,
-		rotate: {
-			value: 360,
-			duration: 1400,
-			easing: 'easeInOutSine'
-		},
-		translateY: {
-			value: ["-500px", "0px"],
-			duration: 1400,
-			easing: 'easeInOutQuart'
-		},
-		translateX: {
-			value: ["-100px", "0px"],
-			duration: 1900,
-			easing: 'easeInOutBounce'
-		}
-	})
-
-	//Animacao de carregamento (calcular delay (3400) de 300ms)
-	anime({
-		targets: ".loader",
-		delay: 2000,
-		duration: 1000,
-		width: ["0", "100%"],
-		easing: "easeInOutSine"
-	});
+	var root = document.body; // pegar body
+	root.classList.add("before_anim"); // adicionar a classe de overflow
 	
-	anime({
-		targets: ".loader-wrapper",
-		delay: 1500,
-		duration: 1500,
-		opacity: 1,
-		easing: "easeOutExpo",
-		complete: function() {
-			anime({ 
-				targets: [".loader-wrapper",".loader"],
-				opacity: 0
-			})
-			document.querySelector('.hide_content_anim').classList.remove("hide_content_anim"); // div do content
-			// roda caso for mobile para mostrar o menu
-			if (checarViewport()) document.querySelector('.hide_content_anim_mobile').classList.remove("hide_content_anim_mobile");
-		}
-	});
-})
+	//criar elementos para a animacao e adicionar classes
+	var div = criaElemento({ element: "div", id: `anim`});
+	div.classList.add("animacao", "text-center")
+	root.prepend(div); // inserir como o primeiro elemento < IMPORTANTE
+	
+	let anim = `
+		<div class="p-5 p-md-0 col-12 col-md-4">
+			<img class="img-fluid image-spin" alt="Construcampi Logo" src="../public/images/logoAnim/logo_anim_no_bg_lowest.png"></img>
+		</div>
+		<h1 class="heading_anim h1 col-12 col-md-4 text-justify text-danger">Bem Vindo a Construcampi</h1>
+		<h3 class="sub-heading_anim col-12 col-md-4 text-light">Seu objetivo é o Nosso Principal Compromisso e Responsabilidade</h3>
+		<div class="loader-wrapper">
+		<div class="loader"></div>
+		</div>
+	`;
+	document.getElementById(`anim`).innerHTML = anim;
+
+	document.addEventListener('DOMContentLoaded', () => {
+		// Preparar animação
+		anime.timeline({
+			targets: ".animacao",
+			easing: "easeOutExpo",
+		})
+		.add({
+			opacity: ["0","1"],
+			duration: 1400
+		
+		})
+		.add({
+			delay: 2700,
+			opacity: ["1","0"],
+			duration: 500,
+			complete: function() {
+				document.querySelector('.before_anim').classList.remove("before_anim"); // Div do body para conter animacao
+				// caso for mobile
+				document.cookie = "primeiroAcesso=true; expires=Fri, 18 Dec 2023 12:00:00 UTC; path=/";
+				console.log('setado!');
+				document.querySelector('.animacao').remove();
+			}
+		})
+		
+		// Girar a imagem
+		anime({
+			targets: ".image-spin",
+			opacity: 1,
+			rotate: {
+				value: 360,
+				duration: 1400,
+				easing: 'easeInOutSine'
+			},
+			translateY: {
+				value: ["-500px", "0px"],
+				duration: 1400,
+				easing: 'easeInOutQuart'
+			},
+			translateX: {
+				value: ["-100px", "0px"],
+				duration: 1900,
+				easing: 'easeInOutBounce'
+			}
+		})
+		
+		//Animacao de carregamento (calcular delay (3400) de 300ms)
+		anime({
+			targets: ".loader",
+			delay: 2000,
+			duration: 1000,
+			width: ["0", "100%"],
+			easing: "easeInOutSine"
+		});
+		
+		anime({
+			targets: ".loader-wrapper",
+			delay: 1500,
+			duration: 1500,
+			opacity: 1,
+			easing: "easeOutExpo",
+			complete: function() {
+				anime({ 
+					targets: [".loader-wrapper",".loader"],
+					opacity: 0
+				})
+				document.querySelector('.hide_content_anim').classList.remove("hide_content_anim"); // div do content
+				// roda caso for mobile para mostrar o menu
+				if (checarViewport()) document.querySelector('.hide_content_anim_mobile').classList.remove("hide_content_anim_mobile");
+			}
+		});
+	})
+} else {
+	document.querySelector('.before_anim').classList.remove("before_anim");
+	document.querySelector('.hide_content_anim').classList.remove("hide_content_anim");
+	if (checarViewport()) document.querySelector('.hide_content_anim_mobile').classList.remove("hide_content_anim_mobile");
+}

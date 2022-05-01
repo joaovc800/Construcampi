@@ -10,7 +10,7 @@
 		<meta name="description" content="Re-implementação e (ou) estruturação do modelo de obra para prédios, casas e muito mais.Construcampi, seu objetivo é o nosso principal compromisso e responsabilidade.">
 		<meta property="og:description" content="Re-implementação e (ou) estruturação do modelo de obra para prédios, casas e muito mais.">
 	</head>
-	<body class="is-preload">
+	<body class="is-preload before_anim">
 		<!-- Header -->
 		<?php include "../includes/header.php"; ?>
 		<!-- Imagem atras -->

@@ -11,7 +11,7 @@
 		<link rel="stylesheet" href="../public/assets/css/politica_privacidade.css" />
 
 	</head>
-	<body class="is-preload">
+	<body class="is-preload before_anim">
 		<div id="page-wrapper" class="hide_content_anim">
 
 			<!-- Header -->

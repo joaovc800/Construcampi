@@ -11,7 +11,7 @@
 		<meta property="og:description" content="A W10 Soluções traz serviços com efetividade na área de soluções sustentável com estrutura da engenharia elétrica, hidráulica, sanitária e pinturas.">
 		<link rel="stylesheet" href="../public/assets/css/fontawesome-free-6.0.0-web/css/all.css" />
 	</head>
-	<body class="is-preload">
+	<body class="is-preload before_anim">
         <main class="container-fuild hide_content_anim">
         <?php include "../includes/header.php"; ?>
 			<div id="wrapper" class="divided">

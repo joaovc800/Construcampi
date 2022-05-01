@@ -10,7 +10,7 @@
 		<meta name="description" content="Pavimentações Asfálticas realizadas pela Construcampi.">
 		<meta property="og:description" content="Pavimentações Asfálticas realizadas pela Construcampi.">
 	</head>
-	<body class="is-preload">
+	<body class="is-preload before_anim">
 		<!-- Header -->
 		<?php include "../includes/header.php"; ?>
 		<!-- Imagem atras -->

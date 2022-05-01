@@ -10,7 +10,7 @@
 		<meta name="description" content="Nossas parcerias que ajudam a Construcampi a transformar sonhos em realidade.">
 		<meta property="og:description" content="Nossas parcerias que ajudam a Construcampi a transformar sonhos em realidade.">
 	</head>
-	<body class="is-preload">
+	<body class="is-preload before_anim">
 		<!-- Header -->
 		<?php include "../includes/header.php"; ?>
 		<!-- Imagem atras -->

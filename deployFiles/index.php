@@ -1,6 +1,5 @@
 <!DOCTYPE HTML>
 <html lang="pt-br">
-
 <head>
 	<title>Construcampi</title>
 	<meta charset="utf-8" />
@@ -22,6 +21,7 @@
 	<meta property="og:url" content="http://construcampi.com.br/">
 </head>
 <body class="landing is-preload before_anim">
+	<?php // include("includes/primeiroAcesso.php"); ?>
 	<div id="page-wrapper" class="hide_content_anim" style="position:relative; display: block;">
 		<!-- Header -->
 		<header id="header" class="alt">
