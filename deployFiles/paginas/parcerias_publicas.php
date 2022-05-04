@@ -71,7 +71,7 @@
 										<p><a href="https://www.amcham.com.br/" target="_blank" rel="noopener noreferrer"class="link_page"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a AMCHAM</a></p>
 									</div>
 								</div>
-								<div class="border_hardcoded my-5"><!-- borda hardcoded --></div>
+								<! --<div class="border_hardcoded my-5"><!-- borda hardcoded --></div>
 								<!-- Row header com o texto -->
 								<div class="row adjust_row push-left pt-5">
 									<div class="col-12 col-12-narrow order-md-1 text_container text-center adjust_text">
@@ -96,7 +96,7 @@
 										</a>
 										<p><a href="https://maquetes.com.br/" class="link_page" target="_blank"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a FOGASSA MAQUETES</a></p>
 									</div>
-								</div>
+								</div> -->
 							</div>
 						</div>
 					</div>
