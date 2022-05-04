@@ -144,7 +144,6 @@ Norte a Sul, de Leste a Oeste e Centroeste do Brasil, além de diversos outros p
 										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="14" class="border_carousel" aria-label="Slide 14"></button>
 										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="15" class="border_carousel" aria-label="Slide 15"></button>
 										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="16" class="border_carousel" aria-label="Slide 16"></button>
-										<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="17" class="border_carousel" aria-label="Slide 17"></button>
 									</div>
 									<div class="carousel-inner">
 										<div data-bs-interval="2000" class="carousel-item active">
@@ -197,9 +196,6 @@ Norte a Sul, de Leste a Oeste e Centroeste do Brasil, além de diversos outros p
 										</div>
 										<div data-bs-interval="3000" class="carousel-item">
 											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c17.jpg" alt="Sandro Santos">
-										</div>
-										<div data-bs-interval="2000" class="carousel-item">
-											<img class="d-block w-100" src="../public/images/quemsomos/galeria/c18.jpg" alt="Sandro Santos">
 										</div>
 									</div>
 									<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
