@@ -1,7 +1,7 @@
 // Helpers para as animações de slide in
 $(document).ready(function() {
     const row1 = document.getElementById("row_animate_1"); 
-    const row2 = document.getElementById("row_animate_2");
+    // const row2 = document.getElementById("row_animate_2");
     const row3 = document.getElementById("row_animate_3");
 
     let options = {
@@ -20,13 +20,13 @@ $(document).ready(function() {
     // Inicia o observer
     observer_row1.observe(document.querySelector("#row_animate_1"));
 
-    let observer_row2 = new IntersectionObserver( function(entries) {
-        row2.classList.add('push_left_row');
-        if(entries[0].isIntersecting === true) {
-            row2.classList.remove('left_row_hidden');
-        }
-    }, options);
-    observer_row2.observe(document.querySelector("#row_animate_2")); 
+    // let observer_row2 = new IntersectionObserver( function(entries) {
+    //     row2.classList.add('push_left_row');
+    //     if(entries[0].isIntersecting === true) {
+    //         row2.classList.remove('left_row_hidden');
+    //     }
+    // }, options);
+    // observer_row2.observe(document.querySelector("#row_animate_2")); 
 
     let observer_row3 = new IntersectionObserver( function(entries) {
         row3.classList.add('push_right_row');

@@ -71,7 +71,7 @@
 										<p><a href="https://www.amcham.com.br/" target="_blank" rel="noopener noreferrer"class="link_page"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a AMCHAM</a></p>
 									</div>
 								</div>
-								<!--<div class="border_hardcoded my-5"></div>
+								<!-- <div class="border_hardcoded my-5"></div>
 								
 								<div class="row adjust_row push-left pt-5">
 									<div class="col-12 col-12-narrow order-md-1 text_container text-center adjust_text">
@@ -80,9 +80,9 @@
 								</div>
 								
 								<div id="row_animate_2" class="row left_row_hidden adjust_row pt-5">
-									<div class="col-6 col-6-narrow d-flex justify-content-center align-items-end">
+									 <div class="col-6 col-6-narrow d-flex justify-content-center align-items-end">
 										<p><a href="https://maquetes.com.br/" class="link_page"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Visite a FOGASSA MAQUETES</a></p>
-									</div>
+									</div> 
 									<div class="col-6 col-12-narrow order-md-1 text_container text-center adjust_text">	
 										<div>
 											<p>Fundada em 1973, a Adhemir Fogassa Maquetes foi responsável por mais de 8 mil maquetes, colocando-a entre as maiores empresas deste ramo no mundo. Além de exportar toda a qualidade brasileira através de maquetes e modelos reais para diversas cidades da Europa e Estados Unidos, em 2008 expandiu os negócios e conquistou espaço nos países árabes, atuando na capital Abu Dhabi e em Dubai.</p>
