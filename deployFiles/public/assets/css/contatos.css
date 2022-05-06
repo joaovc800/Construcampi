@@ -51,9 +51,8 @@ header {
 
 @media screen and (min-width: 736px) {
     .adjust_text_p {
-        text-align: left;
-        font-size:0.6em !important;
-        word-wrap:break-word;
+        text-align: center;
+        word-wrap:break-all !important;
     }
 }
 
@@ -76,7 +75,6 @@ header {
     }
     
     .adjust_text_p {
-        font-size: 1em !important;
         text-align: center !important;
     }
 
