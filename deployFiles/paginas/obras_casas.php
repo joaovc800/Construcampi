@@ -60,7 +60,7 @@
 								<div>
 									<p>Arquiteturas onde o cliente, paga apenas, pelo que <strong>será utilizado</strong>, este é o propósito das casas <strong>Pré-Fabricadas</strong> e <strong>Pré-Moduladas da Construcampi</strong>.<br> </p>
 									<p>Utilizando-se das práticas de engenharia moderna em pricipal a <strong>construção off-site</strong> (construção remota), trazemos <strong>luxo</strong> não apenas na <strong>área exterior</strong> mas também na <strong>área interior</strong> com pré-criação, esta a qual pode ser <strong>facilmente redesenhada</strong> para a expecificação de nossos clientes.</p>
-									<p><a href="./contatos" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
+									<p><a href="./contatos.php" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
 								</div>
 							</div>
 							<div class="col-4 col-12-narrow text_container  pb-5 adjust_image">

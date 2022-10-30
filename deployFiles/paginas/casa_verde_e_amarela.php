@@ -121,7 +121,7 @@
 				<div class="content">
 					<p><strong>VENHA</strong> agora ser Construcampi! Dúvidas entre em contato com a nossa consultoria.</p>
 					<ul class="actions">
-						<li><a href="./contatos" class="button primary large">Fale conosco</a></li>
+						<li><a href="./contatos.php" class="button primary large">Fale conosco</a></li>
 					</ul>
 				</div>
 			</section>

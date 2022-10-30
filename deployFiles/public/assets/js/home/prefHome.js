@@ -42,7 +42,7 @@ if(!document.cookie.match(/^(.*;)?\s*cookiesAccepted\s*=\s*[^;]+(.*)?$/)) {
         <div class="row px-0 px-md-2">
             <div class="col-xl-6 col-xxl-10"> 
                 <p class="m-0 p-0 p-md-2 text-dark">Utilizamos cookies para otimizar a experiência de navegação de nossos usuários,
-                para mais informações acesse nossas <a href="paginas/politica_privacidade" text-warning>Políticas de Privacidade</a></p> 
+                para mais informações acesse nossas <a href="paginas/politica_privacidade.php" text-warning>Políticas de Privacidade</a></p> 
             </div>
             <div class="col-xl-6 col-xxl-2 d-flex justify-content-center align-items-center"> 
                 <button id="accept" class="btn btn-dark text-light">Entendi</button>

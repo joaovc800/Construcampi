@@ -18,11 +18,11 @@
 	<div id="wrapper" class="hide_content_anim">
 		<?php include "../includes/header.php"; ?>
 		<!-- Main -->
-		<div id="main_sobre">
+		<div id="main_sobre.php">
 			<div class="inner">
 
 				<!-- Banner -->
-				<section id="banner_sobre">
+				<section id="banner_sobre.php">
 					<div class="content">
 						<header>
 							<h1 class="h2">Olá, somos a Construcampi</h1>

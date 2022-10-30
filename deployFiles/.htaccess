@@ -5,15 +5,12 @@
   AddHandler application/x-httpd-ea-php80___lsphp .php .php8 .phtml
 </IfModule>
 
-ErrorDocument 403 /403.shtml
-ErrorDocument 404 /404.shtml
-ErrorDocument 500 /500.shtml
+# ##################################################################################################
 
-RewriteEngine On
 # redirecionar trafego pra https
+RewriteEngine On
 rewriteCond %{HTTPS} !on
 rewriteRule ^(.*)$ https://%{SERVER_NAME}%{REQUEST_URI} [R,L]
 
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^([^.]+)$ $1.php [NC,L]
-# php -- END cPanel-generated handler, do not edit
+
+# ##################################################################################################

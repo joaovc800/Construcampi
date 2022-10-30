@@ -98,15 +98,15 @@
 									</div>
 									<div class="order-2 order-md-4 row pt-1">
 										<div class="col text-center ">
-											<a href="./contatos" class="link_page"><i class="icon_brands link-primary icon brands fa-facebook" style="font-size:2em;"></i></a>
+											<a href="./contatos.php" class="link_page"><i class="icon_brands link-primary icon brands fa-facebook" style="font-size:2em;"></i></a>
 											<p class="icon_title">Nossa página no facebook</p>
 										</div>
 										<div class="col text-center">
-											<a href="./contatos" class="link_page"><i class="icon_brands link-primary icon brands fa-twitter" style="font-size:2em;"></i></a>
+											<a href="./contatos.php" class="link_page"><i class="icon_brands link-primary icon brands fa-twitter" style="font-size:2em;"></i></a>
 											<p class="icon_title">Nosso perfil no twitter</p>
 										</div>
 										<div class="col text-center">
-											<a href="./contatos" class="link_page"><i class="icon_brands link-primary instagram_color icon brands fa-instagram" style="font-size:2em;"></i></a>
+											<a href="./contatos.php" class="link_page"><i class="icon_brands link-primary instagram_color icon brands fa-instagram" style="font-size:2em;"></i></a>
 											<p class="icon_title">Nosso perfil no instagram</p>
 										</div>
 									</div>

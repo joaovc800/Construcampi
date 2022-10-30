@@ -32,7 +32,7 @@
 											<p> As Reformas e métodos preventivos de construções são importantes para qualquer obra, e devem ser feitas com a <strong>maior segurança</strong> possível. Uma obra ou edificação que não recebe manutenção durante muito tempo, tende a perder sua estabilidade e começar a fornecer riscos a todos aqueles que a rodeiam</p>
 											<p>Tendo isso em vista, nós da Construcampi nos empenhamos em proporcionar não apenas a <strong>idealização de projetos mais seguros</strong>, como também a <strong>total manutenção de obras</strong> que necessitem de reparos, podendo estes ser <strong>reparos estéticos</strong>, <strong>reformas em geral</strong>, <strong>reestruturação de espaços</strong>, <strong>revitalização de obras públicas</strong> e <strong>projetos de restaurações arquitetônicas</strong>.</p>
 											<p>Podemos proporcionar tudo isto com <strong>grandes profissionais</strong>,<strong> planejamento</strong>,<strong> segurança</strong>, e <strong>plano de descarte sustentável</strong>, seguindo todas as etapas necessárias para uma grande reforma.</p>
-											<p><a href="./contatos" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
+											<p><a href="./contatos.php" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em contato conosco</a></p>
 										</div>
 									</div>
 								</div>

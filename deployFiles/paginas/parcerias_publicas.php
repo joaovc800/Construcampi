@@ -41,12 +41,12 @@
 										</div>
 									</div>
 									<div class="col-6 col-12-narrow order-md-2 pb-5 d-flex flex-column justify-content-center align-items-center">
-										<a href="./w10_solucoes" class="clickable" target="_blank">
+										<a href="./w10_solucoes.php" class="clickable" target="_blank">
 											<span class="scale_image">
 												<img class="img-fluid" src="../public/images/parcerias/w10-logo.png" alt="w10_logo" />
 											</span>
 										</a>
-										<p><a href="./w10_solucoes" class="link_page" target="_blank"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Veja a W10 SOLUÇÕES</a></p>
+										<p><a href="./w10_solucoes.php" class="link_page" target="_blank"><i class="icon solid text-warning fa-solid fa-arrow-right"></i> Veja a W10 SOLUÇÕES</a></p>
 									</div>
 								</div>
 								<div class="border_hardcoded my-5"><!-- borda hardcoded --></div>

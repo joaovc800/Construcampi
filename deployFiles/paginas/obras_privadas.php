@@ -39,7 +39,7 @@
 
 									<p>Este sucesso se dá pelo nosso prezar para com os nossos clientes que encontram conosco não apenas resultados de excelência, mas também a experiência de uma empresa que está inteiramente comprometida em fazer da realização dos sonhos de seus clientes e parceiros sua principal <strong>prioridade</strong> e <strong>responsabilidade</strong>.</p>
 									
-									<p><a href="./contatos" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em
+									<p><a href="./contatos.php" class="link_page"><i class="icon solid text-danger fa-solid fa-arrow-right"></i> Entre em
 											contato conosco</a></p>
 								</div>
 							</div>
